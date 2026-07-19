@@ -36,16 +36,12 @@ You can also trigger a check manually from the Actions tab ("Run workflow").
 Notifications are sent through [ntfy.sh](https://ntfy.sh) (free, no account needed):
 
 1. Install the **ntfy** app on your phone (App Store / Play Store).
-2. In the app tap **+ / Subscribe to topic** and enter exactly:
-
-   ```
-   internships-ewan-b36b3dc9
-   ```
-
+2. In the app tap **+ / Subscribe to topic** and enter the private topic name
+   (kept out of this repo: it lives in the `NTFY_TOPIC` GitHub Actions secret,
+   and locally in the git-ignored `.ntfy-topic` file).
 3. Test it: `python3 ~/InternshipTracker/tracker.py --test`
 
-The topic name is random so nobody else will guess it. You also get a macOS
-notification on this Mac as a backup, so nothing is missed while you set up ntfy.
+The topic name is random and secret so nobody else can read or spoof alerts.
 
 ## Schedule
 

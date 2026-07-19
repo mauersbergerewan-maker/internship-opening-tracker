@@ -1,7 +1,7 @@
 {
   "notify": {
     "ntfy_server": "https://ntfy.sh",
-    "ntfy_topic": "internships-ewan-b36b3dc9",
+    "ntfy_topic": "",
     "macos_notification": true
   },
   "intern_keywords": ["intern", "praktik", "off-cycle", "offcycle", "working student", "werkstudent", "summer analyst"],

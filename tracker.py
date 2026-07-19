@@ -289,9 +289,21 @@ def matches(src, posting, cfg):
     return True
 
 
+def ntfy_topic(cfg):
+    """Topic resolution: env var (CI secret) > local git-ignored file > config."""
+    import os
+    topic = os.environ.get("NTFY_TOPIC", "").strip()
+    if not topic:
+        try:
+            topic = (APP_DIR / ".ntfy-topic").read_text().strip()
+        except OSError:
+            pass
+    return topic or cfg.get("notify", {}).get("ntfy_topic", "")
+
+
 def send_ntfy(cfg, title, message, click_url=None):
     notify = cfg.get("notify", {})
-    topic = notify.get("ntfy_topic")
+    topic = ntfy_topic(cfg)
     if not topic:
         return False
     url = "%s/%s" % (notify.get("ntfy_server", "https://ntfy.sh").rstrip("/"), topic)
