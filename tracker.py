@@ -396,6 +396,88 @@ def write_status(cfg, firm_status, state):
         log("WARN", "could not write STATUS.md: %s" % e)
 
 
+DASH_FILE = APP_DIR / "docs" / "index.html"
+
+DASH_CSS = """
+:root{--bg:#f5f6f8;--card:#fff;--tx:#1a1d21;--mut:#6b7280;--acc:#1d4ed8;
+--ok:#047857;--okbg:#d1fae5;--line:#e5e7eb}
+@media(prefers-color-scheme:dark){:root{--bg:#101216;--card:#1a1e24;--tx:#e7e9ec;
+--mut:#9aa2ad;--acc:#7aa2ff;--ok:#34d399;--okbg:#0c3b2e;--line:#2a2f37}}
+*{box-sizing:border-box;margin:0}
+body{font:16px/1.5 -apple-system,system-ui,sans-serif;background:var(--bg);
+color:var(--tx);padding:16px;padding-bottom:48px;max-width:640px;margin:0 auto}
+h1{font-size:22px;margin:8px 0 2px}
+.sub{color:var(--mut);font-size:13px;margin-bottom:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;
+padding:14px 16px;margin-bottom:10px}
+.firm{display:flex;justify-content:space-between;align-items:center;min-height:28px}
+.badge{font-size:13px;font-weight:600;color:var(--ok);background:var(--okbg);
+border-radius:999px;padding:3px 10px;white-space:nowrap}
+.dash{color:var(--mut)}
+h2{font-size:15px;text-transform:uppercase;letter-spacing:.04em;color:var(--mut);
+margin:22px 0 10px}
+a.job{display:block;text-decoration:none;color:inherit;padding:12px 16px;
+background:var(--card);border:1px solid var(--line);border-radius:14px;
+margin-bottom:8px}
+a.job b{color:var(--acc);font-size:13px;display:block}
+a.job span{color:var(--mut);font-size:13px;display:block}
+.hist{font-size:13px;color:var(--mut);padding:6px 2px}
+.hist a{color:var(--acc);text-decoration:none}
+"""
+
+
+def write_dashboard(cfg, firm_status, state):
+    now = local_now()
+    esc = lambda s: (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
+    firms_html = []
+    for firm, info in firm_status.items():
+        if info.get("error"):
+            right = '<span class="badge" style="color:#b45309;background:#fef3c7">source error</span>'
+        elif info.get("watch"):
+            right = '<span class="dash">watching page</span>'
+        elif info["postings"]:
+            right = '<span class="badge">%d open</span>' % len(info["postings"])
+        else:
+            right = '<span class="dash">&mdash;</span>'
+        firms_html.append('<div class="card firm"><div>%s</div>%s</div>'
+                          % (esc(firm), right))
+
+    jobs_html = []
+    for firm, info in firm_status.items():
+        for p in info["postings"]:
+            loc = p["location"][:60]
+            jobs_html.append(
+                '<a class="job" href="%s"><b>%s</b>%s<span>%s</span></a>'
+                % (p["url"], esc(firm), esc(p["title"]), esc(loc)))
+    if not jobs_html:
+        jobs_html = ['<div class="card dash">None right now.</div>']
+
+    hist_html = []
+    for r in reversed(state.get("recent_new", [])[-30:]):
+        hist_html.append('<div class="hist">%s &middot; <a href="%s">%s — %s</a></div>'
+                         % (r["ts"], r["url"], esc(r["firm"]), esc(r["title"])))
+    if not hist_html:
+        hist_html = ['<div class="hist">No alerts sent yet.</div>']
+
+    html = ("<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\">"
+            "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1,viewport-fit=cover\">"
+            "<meta name=\"apple-mobile-web-app-capable\" content=\"yes\">"
+            "<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"default\">"
+            "<link rel=\"apple-touch-icon\" href=\"icon.png\">"
+            "<title>Internships</title><style>%s</style></head><body>"
+            "<h1>Internship tracker</h1>"
+            "<div class=\"sub\">Last check: %s &middot; runs ~07:00 &amp; ~19:00</div>"
+            "%s<h2>Open internships</h2>%s<h2>Alert history</h2>%s"
+            "</body></html>") % (
+        DASH_CSS, now.strftime("%a %d %b, %H:%M %Z").strip(),
+        "".join(firms_html), "".join(jobs_html), "".join(hist_html))
+    try:
+        DASH_FILE.parent.mkdir(exist_ok=True)
+        DASH_FILE.write_text(html)
+    except OSError as e:
+        log("WARN", "could not write dashboard: %s" % e)
+
+
 # --------------------------------------------------------------------------- #
 # main
 # --------------------------------------------------------------------------- #
@@ -484,6 +566,7 @@ def run(baseline=False, dry_run=False):
             state["recent_new"] = recent[-30:]
 
     write_status(cfg, firm_status, state)
+    write_dashboard(cfg, firm_status, state)
     state["last_run"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     state["last_new_count"] = len(all_new)
     if not dry_run:
