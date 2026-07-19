@@ -4,7 +4,8 @@ Watches the career job boards of the firms from your coffee-chat list and alerts
 your phone the moment one of them posts a new internship opening.
 
 **➡️ Live dashboard: [STATUS.md](STATUS.md)** — current openings per firm,
-updated on every check.
+updated on every check. Bookmark on your phone:
+<https://github.com/mauersbergerewan-maker/internship-opening-tracker/blob/main/STATUS.md>
 
 ## Where it runs
 
