@@ -1,0 +1,122 @@
+{
+  "notify": {
+    "ntfy_server": "https://ntfy.sh",
+    "ntfy_topic": "internships-ewan-b36b3dc9",
+    "macos_notification": true
+  },
+  "intern_keywords": ["intern", "praktik", "off-cycle", "offcycle", "working student", "werkstudent", "summer analyst"],
+  "sources": [
+    {
+      "name": "baird",
+      "firm": "Baird",
+      "type": "workday",
+      "host": "baird.wd1.myworkdayjobs.com",
+      "tenant": "baird",
+      "site": "Careers",
+      "searches": ["intern Frankfurt", "Frankfurt", "intern Germany"],
+      "location_keywords": ["frankfurt", "germany", "ger-"]
+    },
+    {
+      "name": "harris_williams",
+      "firm": "Harris Williams",
+      "type": "workday",
+      "host": "pnc.wd5.myworkdayjobs.com",
+      "tenant": "pnc",
+      "site": "HarrisWilliams",
+      "searches": [""],
+      "location_keywords": ["frankfurt", "germany"]
+    },
+    {
+      "name": "houlihan_lokey",
+      "firm": "Houlihan Lokey",
+      "type": "workday",
+      "host": "hl.wd1.myworkdayjobs.com",
+      "tenant": "hl",
+      "site": "Campus",
+      "searches": ["Frankfurt", "Germany"],
+      "location_keywords": ["frankfurt", "germany"]
+    },
+    {
+      "name": "rothschild_interns",
+      "firm": "Rothschild & Co",
+      "type": "workday",
+      "host": "rothschildandco.wd3.myworkdayjobs.com",
+      "tenant": "rothschildandco",
+      "site": "Rothschildandco_Interns",
+      "searches": [""],
+      "title_keywords": [],
+      "location_keywords": ["frankfurt", "germany", "deutschland"]
+    },
+    {
+      "name": "jefferies",
+      "firm": "Jefferies",
+      "type": "oleeo",
+      "url": "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/",
+      "title_keywords": ["intern"],
+      "location_keywords": ["frankfurt"]
+    },
+    {
+      "name": "macquarie",
+      "firm": "Macquarie",
+      "type": "avature_rss",
+      "feeds": [
+        "https://recruitment.macquarie.com/en_US/careers/SearchJobs/Frankfurt/feed/?jobRecordsPerPage=50",
+        "https://recruitment.macquarie.com/en_US/careers/SearchJobs/Germany/feed/?jobRecordsPerPage=50"
+      ],
+      "title_keywords": ["intern", "praktik"],
+      "location_keywords": []
+    },
+    {
+      "name": "socgen",
+      "firm": "Societe Generale CIB",
+      "type": "sitemap_offers",
+      "sitemap_url": "https://careers.societegenerale.com/sitemap.xml",
+      "slug_keywords": ["intern", "praktik", "trainee", "werkstudent", "vie-"],
+      "location_keywords": ["frankfurt", "london"],
+      "max_page_checks": 12
+    },
+    {
+      "name": "victoria_partners",
+      "firm": "Victoria Partners",
+      "type": "page_hash",
+      "url": "https://victoriapartners.de/talent-gesucht/praktikanten",
+      "section_marker": "AKTUELLE STELLENANGEBOTE"
+    },
+    {
+      "name": "stifel",
+      "firm": "Stifel",
+      "type": "50skills",
+      "url": "https://static-jobs-api.50skills.app/public/stifel/jobs.json",
+      "title_keywords": ["intern", "praktik"],
+      "location_keywords": ["frankfurt", "munich", "münchen", "germany"]
+    },
+    {
+      "name": "alantra",
+      "firm": "Alantra",
+      "type": "workday",
+      "host": "alantra.wd3.myworkdayjobs.com",
+      "tenant": "alantra",
+      "site": "Alantra",
+      "searches": ["Frankfurt", "Germany"],
+      "location_keywords": ["frankfurt", "germany"]
+    },
+    {
+      "name": "mizuho_greenhill",
+      "firm": "Mizuho | Greenhill",
+      "type": "workday",
+      "host": "mizuho.wd1.myworkdayjobs.com",
+      "tenant": "mizuho",
+      "site": "mizuhoamericas",
+      "searches": ["Frankfurt", "Greenhill Frankfurt", "Greenhill intern"],
+      "location_keywords": ["frankfurt", "germany"]
+    },
+    {
+      "name": "riverside",
+      "firm": "Riverside Company",
+      "type": "greenhouse",
+      "board": "theriversidecompany",
+      "title_keywords": ["intern"],
+      "location_keywords": ["munich", "münchen", "europe", "brussels", "stockholm", "madrid", "luxembourg", "germany"]
+    }
+  ]
+}
