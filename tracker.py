@@ -277,6 +277,38 @@ FETCHERS = {
 # filtering & notification
 # --------------------------------------------------------------------------- #
 
+MONTHS = {"january": 1, "february": 2, "march": 3, "april": 4, "may": 5,
+          "june": 6, "july": 7, "august": 8, "september": 9, "october": 10,
+          "november": 11, "december": 12, "jan": 1, "feb": 2, "mar": 3,
+          "apr": 4, "jun": 6, "jul": 7, "aug": 8, "sep": 9, "sept": 9,
+          "oct": 10, "nov": 11, "dec": 12}
+QUARTER_END = {1: 3, 2: 6, 3: 9, 4: 12}
+
+
+def intake_ok(title, min_year, min_month):
+    """True if the posting's intake looks like min_year/min_month or later.
+
+    Postings marked "all intakes" always pass. Postings whose title carries no
+    year at all pass too (better to over-alert than to miss an opening)."""
+    t = title.lower()
+    if "all intake" in t or "all-intake" in t:
+        return True
+    years = [int(y) for y in re.findall(r"\b(20\d{2})\b", t)]
+    if not years:
+        return True
+    year = max(years)
+    quarters = [int(q) for q in re.findall(r"\bq([1-4])\b", t)]
+    if quarters:
+        month = max(QUARTER_END[q] for q in quarters)
+        return (year, month) >= (min_year, min_month)
+    months = [MONTHS[m] for m in re.findall(
+        r"\b(january|february|march|april|may|june|july|august|september|"
+        r"october|november|december|jan|feb|mar|apr|jun|jul|aug|sept|sep|oct|"
+        r"nov|dec)\b", t)]
+    if months:
+        return (year, max(months)) >= (min_year, min_month)
+    return year >= min_year
+
 def matches(src, posting, cfg):
     blob = "%s %s %s" % (posting["title"], posting["location"], posting["url"])
     title_kw = src.get("title_keywords")
@@ -420,14 +452,21 @@ body{font:16px/1.5 -apple-system,system-ui,sans-serif;background:var(--bg);
 color:var(--tx);padding:16px;padding-bottom:48px;max-width:640px;margin:0 auto}
 h1{font-size:22px;margin:8px 0 2px}
 .sub{color:var(--mut);font-size:13px;margin-bottom:16px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:14px;
-padding:14px 16px;margin-bottom:10px}
-.firm{display:flex;justify-content:space-between;align-items:center;min-height:28px}
-.badge{font-size:13px;font-weight:600;color:var(--ok);background:var(--okbg);
-border-radius:999px;padding:3px 10px;white-space:nowrap}
-.dash{color:var(--mut)}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.tile{aspect-ratio:1;background:var(--card);border:1px solid var(--line);
+border-radius:18px;display:flex;flex-direction:column;align-items:center;
+justify-content:center;gap:12px;position:relative;cursor:pointer;padding:14px;
+text-align:center;-webkit-tap-highlight-color:transparent}
+.tile.sel{outline:3px solid var(--acc);outline-offset:-1px}
+.tile img{width:52%;aspect-ratio:1;object-fit:contain;background:#fff;
+border-radius:14px;padding:6px;border:1px solid var(--line)}
+.tile .name{font-size:14px;font-weight:600;line-height:1.25}
+.badge{position:absolute;top:10px;right:10px;font-size:13px;font-weight:700;
+color:var(--ok);background:var(--okbg);border-radius:999px;padding:3px 10px}
+.badge.warn{color:#b45309;background:#fef3c7}
+.badge.mut{color:var(--mut);background:var(--bg);font-weight:400}
 h2{font-size:15px;text-transform:uppercase;letter-spacing:.04em;color:var(--mut);
-margin:22px 0 10px}
+margin:24px 0 10px}
 a.job{display:block;text-decoration:none;color:inherit;padding:12px 16px;
 background:var(--card);border:1px solid var(--line);border-radius:14px;
 margin-bottom:8px}
@@ -435,34 +474,53 @@ a.job b{color:var(--acc);font-size:13px;display:block}
 a.job span{color:var(--mut);font-size:13px;display:block}
 .hist{font-size:13px;color:var(--mut);padding:6px 2px}
 .hist a{color:var(--acc);text-decoration:none}
+#nojobs{display:none;color:var(--mut);background:var(--card);
+border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+"""
+
+DASH_JS = """
+var sel=null;
+function pick(i){
+  sel=(sel===i?null:i);
+  document.querySelectorAll('.tile').forEach(function(t){
+    t.classList.toggle('sel', t.dataset.fi===String(sel));});
+  var any=false;
+  document.querySelectorAll('a.job').forEach(function(j){
+    var show=(sel===null||j.dataset.fi===String(sel));
+    j.style.display=show?'':'none'; if(show) any=true;});
+  document.getElementById('nojobs').style.display=any?'none':'block';
+  var h=document.getElementById('jobshead');
+  h.textContent=(sel===null)?'Open internships':'Open internships — '+
+    document.querySelector('.tile[data-fi="'+sel+'"] .name').textContent;
+}
 """
 
 
 def write_dashboard(cfg, firm_status, state):
     now = local_now()
     esc = lambda s: (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
-    firms_html = []
-    for firm, info in firm_status.items():
+    firms_html, jobs_html = [], []
+    for fi, (firm, info) in enumerate(firm_status.items()):
         if info.get("error"):
-            right = '<span class="badge" style="color:#b45309;background:#fef3c7">source error</span>'
+            badge = '<span class="badge warn">!</span>'
         elif info.get("watch"):
-            right = '<span class="dash">watching page</span>'
+            badge = '<span class="badge mut">&#128065;</span>'
         elif info["postings"]:
-            right = '<span class="badge">%d open</span>' % len(info["postings"])
+            badge = '<span class="badge">%d</span>' % len(info["postings"])
         else:
-            right = '<span class="dash">&mdash;</span>'
-        firms_html.append('<div class="card firm"><div>%s</div>%s</div>'
-                          % (esc(firm), right))
-
-    jobs_html = []
-    for firm, info in firm_status.items():
+            badge = '<span class="badge mut">&mdash;</span>'
+        firms_html.append(
+            '<div class="tile" data-fi="%d" onclick="pick(%d)">%s'
+            '<img src="logos/%s.png" alt="" loading="lazy">'
+            '<div class="name">%s</div></div>'
+            % (fi, fi, badge, info.get("logo", ""), esc(firm)))
         for p in info["postings"]:
             loc = p["location"][:60]
             jobs_html.append(
-                '<a class="job" href="%s"><b>%s</b>%s<span>%s</span></a>'
-                % (p["url"], esc(firm), esc(p["title"]), esc(loc)))
+                '<a class="job" data-fi="%d" href="%s"><b>%s</b>%s<span>%s</span></a>'
+                % (fi, p["url"], esc(firm), esc(p["title"]), esc(loc)))
     if not jobs_html:
-        jobs_html = ['<div class="card dash">None right now.</div>']
+        jobs_html = ['<div class="hist">None right now.</div>']
 
     hist_html = []
     for r in reversed(state.get("recent_new", [])[-30:]):
@@ -478,11 +536,16 @@ def write_dashboard(cfg, firm_status, state):
             "<link rel=\"apple-touch-icon\" href=\"icon.png\">"
             "<title>Internships</title><style>%s</style></head><body>"
             "<h1>Internship tracker</h1>"
-            "<div class=\"sub\">Last check: %s &middot; runs ~07:00 &amp; ~19:00</div>"
-            "%s<h2>Open internships</h2>%s<h2>Alert history</h2>%s"
-            "</body></html>") % (
+            "<div class=\"sub\">Last check: %s &middot; runs ~07:00 &amp; ~19:00 "
+            "&middot; intakes from Jun 2027</div>"
+            "<div class=\"grid\">%s</div>"
+            "<h2 id=\"jobshead\">Open internships</h2>%s"
+            "<div id=\"nojobs\">No open internships for this firm yet &mdash; "
+            "you'll get a push the moment one appears.</div>"
+            "<h2>Alert history</h2>%s"
+            "<script>%s</script></body></html>") % (
         DASH_CSS, now.strftime("%a %d %b, %H:%M %Z").strip(),
-        "".join(firms_html), "".join(jobs_html), "".join(hist_html))
+        "".join(firms_html), "".join(jobs_html), "".join(hist_html), DASH_JS)
     try:
         DASH_FILE.parent.mkdir(exist_ok=True)
         DASH_FILE.write_text(html)
@@ -518,12 +581,18 @@ def run(baseline=False, dry_run=False):
         except Exception as e:
             failures[name] = failures.get(name, 0) + 1
             log("ERROR", "%s: fetch failed (%d consecutive): %s" % (name, failures[name], e))
-            firm_status[firm] = {"postings": [], "error": failures[name]}
+            firm_status[firm] = {"postings": [], "error": failures[name],
+                                 "logo": name}
             if failures[name] == 3 and not dry_run:
                 notify(cfg, "Internship tracker: source failing",
                        "%s has failed 3 runs in a row (%s). Check tracker.log — "
                        "the site layout may have changed." % (firm, e))
             continue
+
+        min_y, min_m = 1900, 1
+        mi = src.get("min_intake", cfg.get("min_intake"))
+        if mi:
+            min_y, min_m = int(mi[:4]), int(mi[5:7])
 
         seen_key = "seen:" + name
         seen = set(state.get(seen_key, []))
@@ -531,6 +600,9 @@ def run(baseline=False, dry_run=False):
         for p in postings:
             if p.get("_suppress"):
                 seen.add(p["id"])
+                continue
+            if typ != "page_hash" and not intake_ok(p["title"], min_y, min_m):
+                seen.add(p["id"])   # remember it, but it's an intake we skip
                 continue
             # page_hash and sitemap_offers filter inside the fetcher itself
             if typ in ("page_hash", "sitemap_offers") or matches(src, p, cfg):
@@ -544,7 +616,7 @@ def run(baseline=False, dry_run=False):
         log("INFO", "%s: %d postings fetched, %d matched, %d new"
             % (name, len(postings), len(matched), len(new_here)))
         firm_status[firm] = {"postings": [] if typ == "page_hash" else matched,
-                             "watch": typ == "page_hash"}
+                             "watch": typ == "page_hash", "logo": name}
         for p in new_here:
             all_new.append((firm, p))
 

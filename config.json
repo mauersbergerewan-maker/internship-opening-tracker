@@ -4,7 +4,15 @@
     "ntfy_topic": "",
     "macos_notification": true
   },
-  "intern_keywords": ["intern", "praktik", "off-cycle", "offcycle", "working student", "werkstudent", "summer analyst"],
+  "intern_keywords": [
+    "intern",
+    "praktik",
+    "off-cycle",
+    "offcycle",
+    "working student",
+    "werkstudent",
+    "summer analyst"
+  ],
   "sources": [
     {
       "name": "baird",
@@ -13,8 +21,17 @@
       "host": "baird.wd1.myworkdayjobs.com",
       "tenant": "baird",
       "site": "Careers",
-      "searches": ["intern Frankfurt", "Frankfurt", "intern Germany"],
-      "location_keywords": ["frankfurt", "germany", "ger-"]
+      "searches": [
+        "intern Frankfurt",
+        "Frankfurt",
+        "intern Germany"
+      ],
+      "location_keywords": [
+        "frankfurt",
+        "germany",
+        "ger-"
+      ],
+      "domain": "rwbaird.com"
     },
     {
       "name": "harris_williams",
@@ -23,8 +40,14 @@
       "host": "pnc.wd5.myworkdayjobs.com",
       "tenant": "pnc",
       "site": "HarrisWilliams",
-      "searches": [""],
-      "location_keywords": ["frankfurt", "germany"]
+      "searches": [
+        ""
+      ],
+      "location_keywords": [
+        "frankfurt",
+        "germany"
+      ],
+      "domain": "harriswilliams.com"
     },
     {
       "name": "houlihan_lokey",
@@ -33,8 +56,15 @@
       "host": "hl.wd1.myworkdayjobs.com",
       "tenant": "hl",
       "site": "Campus",
-      "searches": ["Frankfurt", "Germany"],
-      "location_keywords": ["frankfurt", "germany"]
+      "searches": [
+        "Frankfurt",
+        "Germany"
+      ],
+      "location_keywords": [
+        "frankfurt",
+        "germany"
+      ],
+      "domain": "hl.com"
     },
     {
       "name": "rothschild_interns",
@@ -43,17 +73,29 @@
       "host": "rothschildandco.wd3.myworkdayjobs.com",
       "tenant": "rothschildandco",
       "site": "Rothschildandco_Interns",
-      "searches": [""],
+      "searches": [
+        ""
+      ],
       "title_keywords": [],
-      "location_keywords": ["frankfurt", "germany", "deutschland"]
+      "location_keywords": [
+        "frankfurt",
+        "germany",
+        "deutschland"
+      ],
+      "domain": "rothschildandco.com"
     },
     {
       "name": "jefferies",
       "firm": "Jefferies",
       "type": "oleeo",
       "url": "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/",
-      "title_keywords": ["intern"],
-      "location_keywords": ["frankfurt"]
+      "title_keywords": [
+        "intern"
+      ],
+      "location_keywords": [
+        "frankfurt"
+      ],
+      "domain": "jefferies.com"
     },
     {
       "name": "macquarie",
@@ -63,32 +105,56 @@
         "https://recruitment.macquarie.com/en_US/careers/SearchJobs/Frankfurt/feed/?jobRecordsPerPage=50",
         "https://recruitment.macquarie.com/en_US/careers/SearchJobs/Germany/feed/?jobRecordsPerPage=50"
       ],
-      "title_keywords": ["intern", "praktik"],
-      "location_keywords": []
+      "title_keywords": [
+        "intern",
+        "praktik"
+      ],
+      "location_keywords": [],
+      "domain": "macquarie.com"
     },
     {
       "name": "socgen",
       "firm": "Societe Generale CIB",
       "type": "sitemap_offers",
       "sitemap_url": "https://careers.societegenerale.com/sitemap.xml",
-      "slug_keywords": ["intern", "praktik", "trainee", "werkstudent", "vie-"],
-      "location_keywords": ["frankfurt", "london"],
-      "max_page_checks": 12
+      "slug_keywords": [
+        "intern",
+        "praktik",
+        "trainee",
+        "werkstudent",
+        "vie-"
+      ],
+      "location_keywords": [
+        "frankfurt",
+        "london"
+      ],
+      "max_page_checks": 12,
+      "domain": "societegenerale.com"
     },
     {
       "name": "victoria_partners",
       "firm": "Victoria Partners",
       "type": "page_hash",
       "url": "https://victoriapartners.de/talent-gesucht/praktikanten",
-      "section_marker": "AKTUELLE STELLENANGEBOTE"
+      "section_marker": "AKTUELLE STELLENANGEBOTE",
+      "domain": "victoriapartners.de"
     },
     {
       "name": "stifel",
       "firm": "Stifel",
       "type": "50skills",
       "url": "https://static-jobs-api.50skills.app/public/stifel/jobs.json",
-      "title_keywords": ["intern", "praktik"],
-      "location_keywords": ["frankfurt", "munich", "münchen", "germany"]
+      "title_keywords": [
+        "intern",
+        "praktik"
+      ],
+      "location_keywords": [
+        "frankfurt",
+        "munich",
+        "münchen",
+        "germany"
+      ],
+      "domain": "stifel.com"
     },
     {
       "name": "alantra",
@@ -97,8 +163,15 @@
       "host": "alantra.wd3.myworkdayjobs.com",
       "tenant": "alantra",
       "site": "Alantra",
-      "searches": ["Frankfurt", "Germany"],
-      "location_keywords": ["frankfurt", "germany"]
+      "searches": [
+        "Frankfurt",
+        "Germany"
+      ],
+      "location_keywords": [
+        "frankfurt",
+        "germany"
+      ],
+      "domain": "alantra.com"
     },
     {
       "name": "mizuho_greenhill",
@@ -107,16 +180,37 @@
       "host": "mizuho.wd1.myworkdayjobs.com",
       "tenant": "mizuho",
       "site": "mizuhoamericas",
-      "searches": ["Frankfurt", "Greenhill Frankfurt", "Greenhill intern"],
-      "location_keywords": ["frankfurt", "germany"]
+      "searches": [
+        "Frankfurt",
+        "Greenhill Frankfurt",
+        "Greenhill intern"
+      ],
+      "location_keywords": [
+        "frankfurt",
+        "germany"
+      ],
+      "domain": "greenhill.com"
     },
     {
       "name": "riverside",
       "firm": "Riverside Company",
       "type": "greenhouse",
       "board": "theriversidecompany",
-      "title_keywords": ["intern"],
-      "location_keywords": ["munich", "münchen", "europe", "brussels", "stockholm", "madrid", "luxembourg", "germany"]
+      "title_keywords": [
+        "intern"
+      ],
+      "location_keywords": [
+        "munich",
+        "münchen",
+        "europe",
+        "brussels",
+        "stockholm",
+        "madrid",
+        "luxembourg",
+        "germany"
+      ],
+      "domain": "riversidecompany.com"
     }
-  ]
+  ],
+  "min_intake": "2027-06"
 }
