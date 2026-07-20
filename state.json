@@ -4,7 +4,7 @@
   "harris_williams": 0,
   "houlihan_lokey": 0,
   "rothschild_interns": 0,
-  "jefferies": 0,
+  "jefferies": 1,
   "macquarie": 0,
   "socgen": 0,
   "victoria_partners": 0,
@@ -18,29 +18,15 @@
   "/job/VA---Richmond-23219/XMLNAME-2026-M-A-Associate_R196642"
  ],
  "seen:houlihan_lokey": [
-<<<<<<< Updated upstream
-  "/job/Munich-Germany/Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q4-Munich_R3262",
-  "/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Q3-_R2989",
-  "/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889"
-=======
   "/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889",
-  "/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Q3-_R2989",
-  "/job/Munich-Germany/Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q4-Munich_R3262"
->>>>>>> Stashed changes
+  "/job/Munich-Germany/Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q4-Munich_R3262",
+  "/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Q3-_R2989"
  ],
  "seen:rothschild_interns": [],
  "seen:jefferies": [
-  "1832",
-  "1833",
-  "1829",
-  "1768",
-  "1821",
-  "1799",
-  "1822",
-  "1781",
   "1830",
-  "1769",
-  "1795"
+  "1832",
+  "1833"
  ],
  "seen:macquarie": [],
  "hash:victoria_partners": "f8b1c6ea55ce3345c57ee5961c4bb8b7711b3be1c6beaaacd64ef125fddb8b12",
@@ -53,22 +39,14 @@
  ],
  "seen:mizuho_greenhill": [],
  "seen:riverside": [
-<<<<<<< Updated upstream
-  "8622619002",
-  "8544672002",
-  "8611818002"
- ],
- "last_run": "2026-07-20 07:54:07",
-=======
-  "8544672002",
-  "8626300002",
-  "8622619002",
-  "8632882002",
   "8617000002",
-  "8611818002"
+  "8622619002",
+  "8626300002",
+  "8611818002",
+  "8632882002",
+  "8544672002"
  ],
- "last_run": "2026-07-20 12:25:02",
->>>>>>> Stashed changes
+ "last_run": "2026-07-20 12:29:08",
  "last_new_count": 0,
  "known:socgen": {
   "https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en": {
@@ -81,37 +59,22 @@
   }
  },
  "rejected:socgen": [
-<<<<<<< Updated upstream
-  "https://careers.societegenerale.com/en/job-offers/trainee-execution-service-group-support-global-markets-25000IC5-en",
-  "https://careers.societegenerale.com/en/job-offers/werkstudent-fur-unser-audit-team-22000ZCN-en",
-  "https://careers.societegenerale.com/en/job-offers/equity-finance-trading-global-markets-trainee-2600065M-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-12-months-contract-global-markets-research-strategy-260008ET-en",
-  "https://careers.societegenerale.com/en/job-offers/internship-project-finance-portfolio-management-26000CDY-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-business-communications-asia-pacific-2600060P-en",
-  "https://careers.societegenerale.com/en/job-offers/internship-cyber-security-260003GL-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-financing-and-advisory-26000CCH-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-12-months-contract-listed-reconciliation-delivery-apac-260004U6-en",
-  "https://careers.societegenerale.com/en/job-offers/internship-financial-engineer-26000808-en",
-  "https://careers.societegenerale.com/en/job-offers/hr-trainee-m-f-d-260004DA-en",
-  "https://careers.societegenerale.com/en/job-offers/fx-derivatives-sales-trainee-global-markets-trainee-25000KN5-en"
-=======
-  "https://careers.societegenerale.com/en/job-offers/trainee-securities-back-office-26000BUH-en",
-  "https://careers.societegenerale.com/en/job-offers/compliance-intern-financial-crime-prevention-260009QD-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-fixed-income-structuring-26000BKU-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-investment-banking-26000C7D-en",
   "https://careers.societegenerale.com/en/job-offers/trainee-junior-project-manager-m-w-26000AJT-en",
   "https://careers.societegenerale.com/en/job-offers/coverage-intern-26000B39-en",
+  "https://careers.societegenerale.com/en/job-offers/trainee-fixed-income-structuring-26000BKU-en",
+  "https://careers.societegenerale.com/en/job-offers/trainee-securities-back-office-26000BUH-en",
+  "https://careers.societegenerale.com/en/job-offers/trainee-fixed-term-contract-financing-and-advisory-project-finance-260009O2-en",
+  "https://careers.societegenerale.com/en/job-offers/trainee-investment-banking-26000C7D-en",
+  "https://careers.societegenerale.com/en/job-offers/lead-trade-finance-international-guarantees-260001MY-en",
+  "https://careers.societegenerale.com/en/job-offers/compliance-intern-financial-crime-prevention-260009QD-en",
+  "https://careers.societegenerale.com/en/job-offers/trainee-in-credit-analysis-department-nearshoring-frankfurt-26000BZT-en",
   "https://careers.societegenerale.com/en/job-offers/vie-middle-office-officer-260009O9-en",
   "https://careers.societegenerale.com/en/job-offers/trainee-financing-advisory-26000BF2-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-in-credit-analysis-department-nearshoring-frankfurt-26000BZT-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-fixed-term-contract-financing-and-advisory-project-finance-260009O2-en",
-  "https://careers.societegenerale.com/en/job-offers/lead-trade-finance-international-guarantees-260001MY-en",
   "https://careers.societegenerale.com/en/job-offers/trainee-in-credit-analysis-department-nearshoring-paris-26000BZS-en"
->>>>>>> Stashed changes
  ],
  "seen:socgen": [
-  "https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en",
-  "https://careers.societegenerale.com/en/job-offers/vie-public-distribution-product-management-2600095J-en"
+  "https://careers.societegenerale.com/en/job-offers/vie-public-distribution-product-management-2600095J-en",
+  "https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en"
  ],
  "recent_new": [
   {
