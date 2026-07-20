@@ -405,7 +405,7 @@ def write_status(cfg, firm_status, state):
         "|---|---|",
     ]
     for firm, info in firm_status.items():
-        if info.get("error"):
+        if info.get("error", 0) >= 2:
             cell = "⚠️ source error (%d in a row)" % info["error"]
         elif info.get("watch"):
             cell = "👁 watching page for changes"
@@ -501,7 +501,7 @@ def write_dashboard(cfg, firm_status, state):
     esc = lambda s: (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
     firms_html, jobs_html = [], []
     for fi, (firm, info) in enumerate(firm_status.items()):
-        if info.get("error"):
+        if info.get("error", 0) >= 2:
             badge = '<span class="badge warn">!</span>'
         elif info.get("watch"):
             badge = '<span class="badge mut">&#128065;</span>'
