@@ -1,14 +1,14 @@
 # Internship tracker — live status
 
-_Last check: 2026-07-31 20:16 CEST_
+_Last check: 2026-08-01 09:24 CEST_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | **1 open** |
+| Baird | — |
 | Harris Williams | — |
-| Houlihan Lokey | **1 open** |
+| Houlihan Lokey | — |
 | Rothschild & Co | — |
-| Jefferies | ⚠️ source error (2 in a row) |
+| Jefferies | ⚠️ source error (3 in a row) |
 | Macquarie | — |
 | Societe Generale CIB | **2 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -19,8 +19,6 @@ _Last check: 2026-07-31 20:16 CEST_
 
 ## Currently open internships
 
-- **Baird**: [Global Investment Banking – M&A Internship (January - March ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---M-A-Internship--January---March----Frankfurt_R2026795) — GER-Frankfurt
-- **Houlihan Lokey**: [Off-Cycle Intern, Real Estate Capital Solutions, Q4 Munich](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Munich-Germany/Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q4-Munich_R3262) — Munich, Germany
 - **Societe Generale CIB**: [Intern in Retail Structured Products Public Distribution M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Werkstudent/in Compliance (m/w/d)](https://careers.societegenerale.com/en/job-offers/werkstudent-in-compliance-m-w-d-26000DLX-en) — Frankfurt am Main
 - **Stifel**: [Investment Banking Internship - Q1/Q2 2027 (m/f/x) - Global Technology Group (GTG) - Munich](https://jobs.50skills.com/stifel/44053) — We are currently seeking investment banking interns to
