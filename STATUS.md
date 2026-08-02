@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-08-01 19:56 CEST_
+_Last check: 2026-08-02 09:29 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -8,7 +8,7 @@ _Last check: 2026-08-01 19:56 CEST_
 | Harris Williams | — |
 | Houlihan Lokey | **1 open** |
 | Rothschild & Co | — |
-| Jefferies | ⚠️ source error (4 in a row) |
+| Jefferies | ⚠️ source error (5 in a row) |
 | Macquarie | — |
 | Societe Generale CIB | **2 open** |
 | Victoria Partners | 👁 watching page for changes |
