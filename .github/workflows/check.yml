@@ -2,8 +2,8 @@ name: Internship check
 
 on:
   schedule:
-    # 05:00/17:00 UTC = 07:00/19:00 CEST (summer), 06:00/18:00 CET (winter)
-    - cron: "0 5,17 * * *"
+    # hourly at :23 (off-peak minute reduces GitHub cron drift)
+    - cron: "23 * * * *"
   workflow_dispatch:
 
 permissions:

@@ -240,6 +240,23 @@ def fetch_sitemap_offers(src, state):
     return out
 
 
+def fetch_link_scrape(src):
+    """Generic careers-page link scraper: collect links matching a pattern,
+    derive the title from the URL slug (e.g. Rothschild student opportunities)."""
+    html = http_get(src["url"])
+    base = src.get("base_url", "")
+    out = {}
+    for m in re.finditer(src["link_pattern"], html):
+        href = m.group(1)
+        url = href if href.startswith("http") else base + href
+        slug = [seg for seg in href.rstrip("/").split("/") if seg][-1]
+        out[url] = {"id": url, "title": slug.replace("-", " ").strip(),
+                    "location": "", "url": url}
+    if not out:
+        raise RuntimeError("no links found in page (%d bytes)" % len(html))
+    return list(out.values())
+
+
 def fetch_page_hash(src, state):
     """Victoria Partners: alert when the Praktikanten page content changes."""
     html = http_get(src["url"])
@@ -270,6 +287,7 @@ FETCHERS = {
     "avature_rss": lambda src, state: fetch_avature_rss(src),
     "sitemap_offers": fetch_sitemap_offers,
     "page_hash": fetch_page_hash,
+    "link_scrape": lambda src, state: fetch_link_scrape(src),
 }
 
 
@@ -581,8 +599,9 @@ def run(baseline=False, dry_run=False):
         except Exception as e:
             failures[name] = failures.get(name, 0) + 1
             log("ERROR", "%s: fetch failed (%d consecutive): %s" % (name, failures[name], e))
-            firm_status[firm] = {"postings": [], "error": failures[name],
-                                 "logo": name}
+            entry = firm_status.setdefault(firm, {"postings": [], "watch": False,
+                                                  "logo": name})
+            entry["error"] = failures[name]
             if failures[name] == 3 and not dry_run:
                 notify(cfg, "Internship tracker: source failing",
                        "%s has failed 3 runs in a row (%s). Check tracker.log — "
@@ -615,8 +634,12 @@ def run(baseline=False, dry_run=False):
         state[seen_key] = list(seen)[-2000:]
         log("INFO", "%s: %d postings fetched, %d matched, %d new"
             % (name, len(postings), len(matched), len(new_here)))
-        firm_status[firm] = {"postings": [] if typ == "page_hash" else matched,
-                             "watch": typ == "page_hash", "logo": name}
+        entry = firm_status.setdefault(firm, {"postings": [], "watch": False,
+                                              "logo": name})
+        if typ == "page_hash":
+            entry["watch"] = True
+        else:
+            entry["postings"].extend(matched)
         for p in new_here:
             all_new.append((firm, p))
 

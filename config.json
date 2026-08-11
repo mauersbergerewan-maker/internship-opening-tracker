@@ -85,6 +85,24 @@
       "domain": "rothschildandco.com"
     },
     {
+      "name": "rothschild_students",
+      "firm": "Rothschild & Co",
+      "type": "link_scrape",
+      "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/",
+      "base_url": "https://www.rothschildandco.com",
+      "link_pattern": "href=\"(/en/careers/students-and-graduates/opportunities/[a-z0-9-]+/)\"",
+      "title_keywords": [
+        "internship",
+        "intern",
+        "praktik"
+      ],
+      "location_keywords": [
+        "germany",
+        "frankfurt"
+      ],
+      "domain": "rothschildandco.com"
+    },
+    {
       "name": "jefferies",
       "firm": "Jefferies",
       "type": "oleeo",
