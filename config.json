@@ -276,6 +276,23 @@
         "frankfurt"
       ],
       "domain": "evercore.com"
+    },
+    {
+      "name": "santander",
+      "firm": "Santander CIB",
+      "type": "workday",
+      "host": "santander.wd3.myworkdayjobs.com",
+      "tenant": "santander",
+      "site": "SantanderCareers",
+      "searches": [
+        "Frankfurt",
+        "intern Germany"
+      ],
+      "location_keywords": [
+        "frankfurt",
+        "germany"
+      ],
+      "domain": "santander.com"
     }
   ],
   "min_intake": "2027-06"
