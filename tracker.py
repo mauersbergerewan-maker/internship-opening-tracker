@@ -582,6 +582,7 @@ def write_dashboard(cfg, firm_status, state):
             "<div id=\"nojobs\">No open internships for this firm yet &mdash; "
             "you'll get a push the moment one appears.</div>"
             "<h2>Alert history</h2>%s"
+            "<div class=\"hist\" style=\"margin-top:24px\">To apply with a tailored letter: open Claude Code on the Mac and say &ldquo;prepare &lt;firm&gt;&rdquo;.</div>"
             "<script>%s</script></body></html>") % (
         DASH_CSS, now.strftime("%a %d %b, %H:%M %Z").strip(),
         "".join(firms_html), "".join(jobs_html), "".join(hist_html), DASH_JS)
