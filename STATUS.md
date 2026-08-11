@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-08-11 20:04 CEST_
+_Last check: 2026-08-11 20:05 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -24,8 +24,8 @@ _Last check: 2026-08-11 20:04 CEST_
 
 - **Rothschild & Co**: [germany frankfurt global advisory summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-advisory-summer-internship-2027/)
 - **Rothschild & Co**: [germany frankfurt debt advisory restructuring summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-debt-advisory-restructuring-summer-internship-2027/)
-- **Jefferies**: [2027 Investment Banking Internship Frankfurt M A ALL INTAKES](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-7f4c913730e2/candidate/so/pm/1/pl/2/opp/1832-2027-Investment-Banking-Internship-Frankfurt-M-A-ALL-INTAKES/en-GB)
-- **Jefferies**: [2027 Investment Banking Internship Frankfurt Equity Capital Markets ALL INTAKES](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-7f4c913730e2/candidate/so/pm/1/pl/2/opp/1833-2027-Investment-Banking-Internship-Frankfurt-Equity-Capital-Markets-ALL-INTAKES/en-GB)
+- **Jefferies**: [2027 Investment Banking Internship Frankfurt M A ALL INTAKES](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-7b99793551a3/candidate/so/pm/1/pl/2/opp/1832-2027-Investment-Banking-Internship-Frankfurt-M-A-ALL-INTAKES/en-GB)
+- **Jefferies**: [2027 Investment Banking Internship Frankfurt Equity Capital Markets ALL INTAKES](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-7b99793551a3/candidate/so/pm/1/pl/2/opp/1833-2027-Investment-Banking-Internship-Frankfurt-Equity-Capital-Markets-ALL-INTAKES/en-GB)
 - **Societe Generale CIB**: [Intern M&amp;A for Consumer Retail and Healthcare Sector Team Q3– M/F/D](https://careers.societegenerale.com/en/job-offers/intern-ma-for-consumer-retail-and-healthcare-sector-team-q3-m-f-d-25000HQI-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Intern M&amp;A for Consumer Retail and Healthcare Sector Team Q4 – M/F/D](https://careers.societegenerale.com/en/job-offers/intern-ma-for-consumer-retail-and-healthcare-sector-team-q4-m-f-d-25000HQJ-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Intern in Retail Structured Products Public Distribution M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en) — Frankfurt am Main
