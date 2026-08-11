@@ -228,6 +228,54 @@
         "germany"
       ],
       "domain": "riversidecompany.com"
+    },
+    {
+      "name": "pjt",
+      "firm": "PJT Partners",
+      "type": "workday",
+      "host": "pjtpartners.wd1.myworkdayjobs.com",
+      "tenant": "pjtpartners",
+      "site": "Careers",
+      "searches": [
+        ""
+      ],
+      "location_keywords": [
+        "frankfurt",
+        "germany",
+        "munich"
+      ],
+      "domain": "pjtpartners.com"
+    },
+    {
+      "name": "mcf",
+      "firm": "MCF Corporate Finance",
+      "type": "personio",
+      "url": "https://mcf.jobs.personio.de/xml",
+      "title_keywords": [
+        "intern",
+        "praktik"
+      ],
+      "location_keywords": [
+        "munich",
+        "münchen",
+        "hamburg",
+        "frankfurt",
+        "germany"
+      ],
+      "domain": "mcfcorporatefinance.com"
+    },
+    {
+      "name": "evercore",
+      "firm": "Evercore",
+      "type": "oleeo",
+      "url": "https://evercore.tal.net/candidate/jobboard/vacancy/2/adv/",
+      "title_keywords": [
+        "intern"
+      ],
+      "location_keywords": [
+        "frankfurt"
+      ],
+      "domain": "evercore.com"
     }
   ],
   "min_intake": "2027-06"

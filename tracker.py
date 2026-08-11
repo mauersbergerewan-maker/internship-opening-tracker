@@ -240,6 +240,26 @@ def fetch_sitemap_offers(src, state):
     return out
 
 
+def fetch_personio(src):
+    """Personio XML feed: https://<company>.jobs.personio.de/xml"""
+    xml = http_get(src["url"])
+    base = src["url"].rsplit("/xml", 1)[0]
+    out = []
+    for m in re.finditer(r"<position>(.*?)</position>", xml, re.S):
+        blk = m.group(1)
+        def field(tag):
+            f = re.search(r"<%s>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</%s>" % (tag, tag), blk, re.S)
+            return (f.group(1) or "").strip() if f else ""
+        pid = field("id")
+        if not pid:
+            continue
+        out.append({"id": pid, "title": field("name"),
+                    "location": field("office"), "url": "%s/job/%s" % (base, pid)})
+    if not out:
+        raise RuntimeError("no positions in feed (%d bytes)" % len(xml))
+    return out
+
+
 def fetch_link_scrape(src):
     """Generic careers-page link scraper: collect links matching a pattern,
     derive the title from the URL slug (e.g. Rothschild student opportunities)."""
@@ -288,6 +308,7 @@ FETCHERS = {
     "sitemap_offers": fetch_sitemap_offers,
     "page_hash": fetch_page_hash,
     "link_scrape": lambda src, state: fetch_link_scrape(src),
+    "personio": lambda src, state: fetch_personio(src),
 }
 
 
