@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-08-12 08:49 CEST_
+_Last check: 2026-08-12 10:44 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -10,7 +10,7 @@ _Last check: 2026-08-12 08:49 CEST_
 | Rothschild & Co | **2 open** |
 | Jefferies | **2 open** |
 | Macquarie | — |
-| Societe Generale CIB | **7 open** |
+| Societe Generale CIB | **6 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
 | Alantra | — |
@@ -25,10 +25,9 @@ _Last check: 2026-08-12 08:49 CEST_
 
 - **Rothschild & Co**: [germany frankfurt global advisory summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-advisory-summer-internship-2027/)
 - **Rothschild & Co**: [germany frankfurt debt advisory restructuring summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-debt-advisory-restructuring-summer-internship-2027/)
-- **Jefferies**: [2027 Investment Banking Internship Frankfurt M A ALL INTAKES](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-9f9e46cf6350/candidate/so/pm/1/pl/2/opp/1832-2027-Investment-Banking-Internship-Frankfurt-M-A-ALL-INTAKES/en-GB)
-- **Jefferies**: [2027 Investment Banking Internship Frankfurt Equity Capital Markets ALL INTAKES](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-9f9e46cf6350/candidate/so/pm/1/pl/2/opp/1833-2027-Investment-Banking-Internship-Frankfurt-Equity-Capital-Markets-ALL-INTAKES/en-GB)
+- **Jefferies**: [2027 Investment Banking Internship Frankfurt M A ALL INTAKES](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-0a7ed61f2649/candidate/so/pm/1/pl/2/opp/1832-2027-Investment-Banking-Internship-Frankfurt-M-A-ALL-INTAKES/en-GB)
+- **Jefferies**: [2027 Investment Banking Internship Frankfurt Equity Capital Markets ALL INTAKES](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-0a7ed61f2649/candidate/so/pm/1/pl/2/opp/1833-2027-Investment-Banking-Internship-Frankfurt-Equity-Capital-Markets-ALL-INTAKES/en-GB)
 - **Societe Generale CIB**: [Intern M&amp;A for Consumer Retail and Healthcare Sector Team Q3– M/F/D](https://careers.societegenerale.com/en/job-offers/intern-ma-for-consumer-retail-and-healthcare-sector-team-q3-m-f-d-25000HQI-en) — Frankfurt am Main
-- **Societe Generale CIB**: [Intern M&amp;A for Consumer Retail and Healthcare Sector Team Q4 – M/F/D](https://careers.societegenerale.com/en/job-offers/intern-ma-for-consumer-retail-and-healthcare-sector-team-q4-m-f-d-25000HQJ-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Intern in Retail Structured Products Public Distribution M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Trainee - Emerging Markets Credit Trading ](https://careers.societegenerale.com/en/job-offers/trainee-emerging-markets-credit-trading-26000D75-en) — London
 - **Societe Generale CIB**: [Werkstudent/in Compliance (m/w/d)](https://careers.societegenerale.com/en/job-offers/werkstudent-in-compliance-m-w-d-26000DLX-en) — Frankfurt am Main
