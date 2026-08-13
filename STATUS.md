@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-08-13 12:33 CEST_
+_Last check: 2026-08-13 14:05 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -8,9 +8,9 @@ _Last check: 2026-08-13 12:33 CEST_
 | Harris Williams | — |
 | Houlihan Lokey | — |
 | Rothschild & Co | **2 open** |
-| Jefferies | — |
+| Jefferies | ⚠️ source error (2 in a row) |
 | Macquarie | — |
-| Societe Generale CIB | **8 open** |
+| Societe Generale CIB | **9 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
 | Alantra | — |
@@ -29,6 +29,7 @@ _Last check: 2026-08-13 12:33 CEST_
 - **Societe Generale CIB**: [Intern M&amp;A for Consumer Retail and Healthcare Sector Team Q3– M/F/D](https://careers.societegenerale.com/en/job-offers/intern-ma-for-consumer-retail-and-healthcare-sector-team-q3-m-f-d-25000HQI-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Werkstudent (m/w/d) KYC / Client-Onboarding Process](https://careers.societegenerale.com/en/job-offers/werkstudent-m-w-d-kyc-client-onboarding-process-26000H3O-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Intern in Retail Structured Products Public Distribution M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en) — Frankfurt am Main
+- **Societe Generale CIB**: [Intern Global Markets - Structured Products - Sales - M/F/D](https://careers.societegenerale.com/en/job-offers/intern-global-markets-structured-products-sales-m-f-d-26000GZ3-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Intern in Coverage / Relationship Management Q4 – M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q4-m-f-d-25000LAB-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Intern in Coverage / Relationship Management Q3 – M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q3-m-f-d-25000LA7-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Werkstudent/in Compliance (m/w/d)](https://careers.societegenerale.com/en/job-offers/werkstudent-in-compliance-m-w-d-26000DLX-en) — Frankfurt am Main
@@ -38,6 +39,7 @@ _Last check: 2026-08-13 12:33 CEST_
 
 ## Alert history (newest first)
 
+- 2026-08-13 14:05 — **Societe Generale CIB**: [Intern Global Markets - Structured Products - Sales - M/F/D](https://careers.societegenerale.com/en/job-offers/intern-global-markets-structured-products-sales-m-f-d-26000GZ3-en)
 - 2026-08-13 12:33 — **Societe Generale CIB**: [Werkstudent (m/w/d) KYC / Client-Onboarding Process](https://careers.societegenerale.com/en/job-offers/werkstudent-m-w-d-kyc-client-onboarding-process-26000H3O-en)
 - 2026-08-13 12:33 — **Societe Generale CIB**: [V.I.E. Communication Officer (m/f/d)](https://careers.societegenerale.com/en/job-offers/vie-communication-officer-m-f-d-26000H1Z-en)
 - 2026-08-12 01:08 — **Societe Generale CIB**: [Trainee - Emerging Markets Credit Trading ](https://careers.societegenerale.com/en/job-offers/trainee-emerging-markets-credit-trading-26000D75-en)
