@@ -4,7 +4,7 @@
   "harris_williams": 0,
   "houlihan_lokey": 0,
   "rothschild_interns": 0,
-  "jefferies": 7,
+  "jefferies": 8,
   "macquarie": 0,
   "socgen": 0,
   "victoria_partners": 0,
@@ -15,7 +15,7 @@
   "rothschild_students": 0,
   "pjt": 0,
   "mcf": 0,
-  "evercore": 7,
+  "evercore": 8,
   "santander": 0
  },
  "seen:baird": [
@@ -25,11 +25,11 @@
   "/job/VA---Richmond-23219/XMLNAME-2026-M-A-Associate_R196642"
  ],
  "seen:houlihan_lokey": [
-  "/job/Munich-Germany/Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q4-Munich_R3262",
-  "/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889",
+  "/job/Munich-Germany/XMLNAME-2027-4-Month-Off-Cycle-Internship--February--Munich-_R3459",
   "/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Debt-Advisory--Q1--2027-_R3443",
-  "/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Q3-_R2989",
-  "/job/Munich-Germany/XMLNAME-2027-4-Month-Off-Cycle-Internship--February--Munich-_R3459"
+  "/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889",
+  "/job/Munich-Germany/Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q4-Munich_R3262",
+  "/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Q3-_R2989"
  ],
  "seen:rothschild_interns": [],
  "seen:jefferies": [
@@ -52,8 +52,8 @@
  "hash:victoria_partners": "f8b1c6ea55ce3345c57ee5961c4bb8b7711b3be1c6beaaacd64ef125fddb8b12",
  "seen:victoria_partners": [],
  "seen:stifel": [
-  "40819",
   "44053",
+  "40819",
   "42905"
  ],
  "seen:alantra": [
@@ -62,14 +62,14 @@
  ],
  "seen:mizuho_greenhill": [],
  "seen:riverside": [
-  "8617000002",
-  "8632882002",
   "8611818002",
   "8622619002",
   "8626300002",
-  "8544672002"
+  "8632882002",
+  "8544672002",
+  "8617000002"
  ],
- "last_run": "2026-08-24 09:09:54",
+ "last_run": "2026-08-24 10:08:56",
  "last_new_count": 0,
  "known:socgen": {
   "https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en": {
@@ -102,31 +102,31 @@
   }
  },
  "rejected:socgen": [
-  "https://careers.societegenerale.com/en/job-offers/werkstudent-m-w-d-audit-26000HR6-en",
-  "https://careers.societegenerale.com/en/job-offers/financial-risk-intern-26000GPB-en",
-  "https://careers.societegenerale.com/en/job-offers/internship-financial-engineer-26000808-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-data-analyst-scientist-26000DVE-en",
-  "https://careers.societegenerale.com/en/job-offers/it-intern-26000H8S-en",
-  "https://careers.societegenerale.com/en/job-offers/internal-auditor-m-w-d-26000DQ2-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-corporate-actions-officer-26000H5U-en",
-  "https://careers.societegenerale.com/en/job-offers/senior-internal-auditor-26000DFK-en",
-  "https://careers.societegenerale.com/en/job-offers/head-of-internal-audit-m-w-d-26000DPN-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-client-lifecycle-and-digital-26000EAW-en",
-  "https://careers.societegenerale.com/en/job-offers/internship-cyber-security-260003GL-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-fixed-income-structuring-26000BKU-en"
+  "https://careers.societegenerale.com/en/job-offers/trainee-equity-prime-brokerage-26000HCM-en",
+  "https://careers.societegenerale.com/en/job-offers/vie-programmer-analyst-pre-trade-applications-26000EPO-en",
+  "https://careers.societegenerale.com/en/job-offers/java-fullstack-developer-internship-with-french-26000GNB-en",
+  "https://careers.societegenerale.com/en/job-offers/vie-compliance-specialist-26000CBF-en",
+  "https://careers.societegenerale.com/en/job-offers/legal-intern-26000F6X-en",
+  "https://careers.societegenerale.com/en/job-offers/fund-valuation-services-intern-26000ID8-en",
+  "https://careers.societegenerale.com/en/job-offers/trainee-emerging-markets-strategist-26000G5A-en",
+  "https://careers.societegenerale.com/en/job-offers/internship-compliance-with-french-cdd-6-months-26000FK6-en",
+  "https://careers.societegenerale.com/en/job-offers/internship-aml-monitoring-financial-intelligence-unit-26000ICF-en",
+  "https://careers.societegenerale.com/en/job-offers/accounting-and-administrative-officer-reporting-intern-26000IDW-en",
+  "https://careers.societegenerale.com/en/job-offers/vie-front-office-developer-26000F3K-en",
+  "https://careers.societegenerale.com/en/job-offers/credit-analyst-intern-26000ICK-en"
  ],
  "seen:socgen": [
+  "https://careers.societegenerale.com/en/job-offers/werkstudent-m-w-d-kyc-client-onboarding-process-26000H3O-en",
   "https://careers.societegenerale.com/en/job-offers/trainee-emerging-markets-credit-trading-26000D75-en",
-  "https://careers.societegenerale.com/en/job-offers/intern-global-markets-structured-products-sales-m-f-d-26000GZ3-en",
+  "https://careers.societegenerale.com/en/job-offers/vie-communication-officer-m-f-d-26000H1Z-en",
   "https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en",
+  "https://careers.societegenerale.com/en/job-offers/intern-ma-for-consumer-retail-and-healthcare-sector-team-q3-m-f-d-25000HQI-en",
+  "https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q3-m-f-d-25000LA7-en",
+  "https://careers.societegenerale.com/en/job-offers/intern-global-markets-structured-products-sales-m-f-d-26000GZ3-en",
+  "https://careers.societegenerale.com/en/job-offers/vie-public-distribution-product-management-2600095J-en",
   "https://careers.societegenerale.com/en/job-offers/werkstudent-in-compliance-m-w-d-26000DLX-en",
   "https://careers.societegenerale.com/en/job-offers/intern-ma-for-consumer-retail-and-healthcare-sector-team-q4-m-f-d-25000HQJ-en",
-  "https://careers.societegenerale.com/en/job-offers/vie-communication-officer-m-f-d-26000H1Z-en",
-  "https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q3-m-f-d-25000LA7-en",
-  "https://careers.societegenerale.com/en/job-offers/werkstudent-m-w-d-kyc-client-onboarding-process-26000H3O-en",
-  "https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q4-m-f-d-25000LAB-en",
-  "https://careers.societegenerale.com/en/job-offers/vie-public-distribution-product-management-2600095J-en",
-  "https://careers.societegenerale.com/en/job-offers/intern-ma-for-consumer-retail-and-healthcare-sector-team-q3-m-f-d-25000HQI-en"
+  "https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q4-m-f-d-25000LAB-en"
  ],
  "recent_new": [
   {
@@ -227,15 +227,15 @@
   }
  ],
  "seen:rothschild_students": [
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-five-arrows-direct-lending-long-term-internship-london/",
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/investor-relations-intern-five-arrows-five-arrows-multi-strategies-january-2027/",
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-global-investor-advisory-long-term-internship/",
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/global-advisory-zurich-internship-january-april-2027/",
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-global-advisory-long-term-internship-riyadh/",
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/internship---investment-analyst---five-arrows-growth-partners---january--march-2027/",
   "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-markets-solutions-january-internship-2027/",
   "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-debt-advisory-restructuring-summer-internship-2027/",
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-advisory-summer-internship-2027/"
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-global-advisory-long-term-internship-riyadh/",
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/investor-relations-intern-five-arrows-five-arrows-multi-strategies-january-2027/",
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-five-arrows-direct-lending-long-term-internship-london/",
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-advisory-summer-internship-2027/",
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/internship---investment-analyst---five-arrows-growth-partners---january--march-2027/",
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-global-investor-advisory-long-term-internship/",
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/global-advisory-zurich-internship-january-april-2027/"
  ],
  "seen:pjt": [],
  "seen:mcf": [],
