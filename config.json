@@ -131,6 +131,28 @@
       "domain": "macquarie.com"
     },
     {
+      "name": "macquarie_interns",
+      "firm": "Macquarie",
+      "type": "avature_rss",
+      "feeds": [
+        "https://recruitment.macquarie.com/en_US/careers/SearchJobs/feed/?7959=%5B421070%2C421069%5D&7959_format=14495&listFilterMode=1&jobRecordsPerPage=100"
+      ],
+      "title_keywords": [
+        "intern",
+        "praktik",
+        "summer analyst"
+      ],
+      "location_keywords": [
+        "frankfurt",
+        "germany",
+        "deutschland",
+        "fra ",
+        "muc",
+        "munich"
+      ],
+      "domain": "macquarie.com"
+    },
+    {
       "name": "socgen",
       "firm": "Societe Generale CIB",
       "type": "sitemap_offers",
@@ -320,6 +342,47 @@
         "baufinanzierung"
       ],
       "domain": "ing.com"
+    },
+    {
+      "name": "rbc",
+      "firm": "RBC Capital Markets",
+      "type": "sitemap_jobs",
+      "sitemap_url": "https://jobs.rbc.com/sitemap.xml",
+      "url_regex": "jobs\\.rbc\\.com/[a-z]{2}/en/job/(?P<jobid>[^/]+)/(?P<slug>[^/<]+)",
+      "max_sitemaps": 8,
+      "title_keywords": [
+        "intern",
+        "praktik",
+        "summer analyst"
+      ],
+      "location_keywords": [
+        "frankfurt"
+      ],
+      "domain": "rbc.com"
+    },
+    {
+      "name": "bnp",
+      "firm": "BNP Paribas CIB",
+      "type": "sitemap_jobs",
+      "sitemap_url": "https://www.bnpparibas.de/jobs-sitemap.xml",
+      "url_regex": "bnpparibas\\.de/(?:en/)?jobs/(?P<slug>[^/<]+)",
+      "title_keywords": [
+        "intern",
+        "praktik"
+      ],
+      "location_keywords": [],
+      "exclude_keywords": [
+        "marketing",
+        "media design",
+        "asset management",
+        "vertrieb",
+        "human resources",
+        "personal",
+        "kommunikation",
+        "it-",
+        "leasing"
+      ],
+      "domain": "bnpparibas.com"
     }
   ],
   "min_intake": "2027-06"

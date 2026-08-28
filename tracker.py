@@ -287,6 +287,20 @@ def fetch_sitemap_jobs(src):
     role (e.g. ING: /en/job/<city>/<role-slug>/<unit>/<id>). No per-posting
     fetch needed, so it stays cheap even on boards with hundreds of roles."""
     xml = http_get(src["sitemap_url"])
+    # a sitemap index points at child sitemaps — follow them (RBC splits jobs
+    # across several files)
+    if "<sitemapindex" in xml:
+        children = re.findall(r"<loc>([^<]+)</loc>", xml)[:src.get("max_sitemaps", 8)]
+        parts = []
+        for child in children:
+            try:
+                parts.append(http_get(child))
+            except Exception as e:
+                log("WARN", "%s: child sitemap failed (%s)" % (src["name"], e))
+            time.sleep(0.3)
+        xml = "".join(parts)
+        if not xml:
+            raise RuntimeError("no child sitemaps could be fetched")
     pattern = re.compile(src["url_regex"])
     out = {}
     for m in re.finditer(r"<loc>([^<]+)</loc>", xml):
