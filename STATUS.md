@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-08-28 17:43 CEST_
+_Last check: 2026-08-28 18:03 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -8,7 +8,7 @@ _Last check: 2026-08-28 17:43 CEST_
 | Harris Williams | — |
 | Houlihan Lokey | — |
 | Rothschild & Co | **2 open** |
-| Jefferies | ⚠️ source error (4 in a row) |
+| Jefferies | ⚠️ source error (5 in a row) |
 | Macquarie | — |
 | Societe Generale CIB | **6 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -18,9 +18,11 @@ _Last check: 2026-08-28 17:43 CEST_
 | Riverside Company | **1 open** |
 | PJT Partners | — |
 | MCF Corporate Finance | — |
-| Evercore | ⚠️ source error (4 in a row) |
+| Evercore | ⚠️ source error (5 in a row) |
 | Santander CIB | — |
 | ING Wholesale Banking | **12 open** |
+| RBC Capital Markets | **1 open** |
+| BNP Paribas CIB | **13 open** |
 
 ## Currently open internships
 
@@ -46,9 +48,37 @@ _Last check: 2026-08-28 17:43 CEST_
 - **ING Wholesale Banking**: [praktikant digitale vermogensverwaltung w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant controlling firmenkundengeschaft management reporting and business advice wholesale bank](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-firmenkundengeschaft-management-reporting-and-business-advice-wholesale-bank/3121/41249274048) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant controlling management reporting and business advice w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-management-reporting-and-business-advice-w-m-d/3121/41249273920) — Frankfurt Am Main
+- **RBC Capital Markets**: [2027 Global Investment Banking Internship Frankfurt](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000182048EXTERNALENCA/2027-Global-Investment-Banking-Internship-Frankfurt)
+- **BNP Paribas CIB**: [praktikum all genders business revenue bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-business-revenue-bei-bnp-paribas-corporate-institutional-banking/)
+- **BNP Paribas CIB**: [praktikum all genders corporate coverage business center frankfurt bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-business-center-frankfurt-bei-bnp-paribas-corporate-institutional-banking/)
+- **BNP Paribas CIB**: [praktikum all genders im bereich corporate coverage bei corporate institutional banking bc stuttgart](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-corporate-coverage-bei-corporate-institutional-banking-bc-stuttgart/)
+- **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q3 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q3-2027/)
+- **BNP Paribas CIB**: [praktikum all genders im bereich global markets institutional sales equity derivatives](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-global-markets-institutional-sales-equity-derivatives/)
+- **BNP Paribas CIB**: [praktikum in strategic clients all genders bei corporate coverage](https://www.bnpparibas.de/en/jobs/praktikum-in-strategic-clients-all-genders-bei-corporate-coverage/)
+- **BNP Paribas CIB**: [praktikum all genders im bereich sustainable business](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-sustainable-business/)
+- **BNP Paribas CIB**: [intern all genders cross services at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-cross-services-at-bnp-paribas-corporate-institutional-banking/)
+- **BNP Paribas CIB**: [intern all genders in investment compliance at bnp paribas securities services](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-investment-compliance-at-bnp-paribas-securities-services/)
+- **BNP Paribas CIB**: [praktikum all genders in relationshipmanagement bei bnp paribas wealth management](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-in-relationshipmanagement-bei-bnp-paribas-wealth-management/)
+- **BNP Paribas CIB**: [intern transactions f m d](https://www.bnpparibas.de/en/jobs/intern-transactions-f-m-d/)
+- **BNP Paribas CIB**: [praktikum all genders global markets zertifikate und hebelprodukte](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-global-markets-zertifikate-und-hebelprodukte/)
+- **BNP Paribas CIB**: [praktikum all genders im bereich recruiting employer branding](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-recruiting-employer-branding/)
 
 ## Alert history (newest first)
 
+- 2026-08-28 18:03 — **BNP Paribas CIB**: [praktikum all genders im bereich recruiting employer branding](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-recruiting-employer-branding/)
+- 2026-08-28 18:03 — **BNP Paribas CIB**: [praktikum all genders global markets zertifikate und hebelprodukte](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-global-markets-zertifikate-und-hebelprodukte/)
+- 2026-08-28 18:03 — **BNP Paribas CIB**: [intern transactions f m d](https://www.bnpparibas.de/en/jobs/intern-transactions-f-m-d/)
+- 2026-08-28 18:03 — **BNP Paribas CIB**: [praktikum all genders in relationshipmanagement bei bnp paribas wealth management](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-in-relationshipmanagement-bei-bnp-paribas-wealth-management/)
+- 2026-08-28 18:03 — **BNP Paribas CIB**: [intern all genders in investment compliance at bnp paribas securities services](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-investment-compliance-at-bnp-paribas-securities-services/)
+- 2026-08-28 18:03 — **BNP Paribas CIB**: [intern all genders cross services at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-cross-services-at-bnp-paribas-corporate-institutional-banking/)
+- 2026-08-28 18:03 — **BNP Paribas CIB**: [praktikum all genders im bereich sustainable business](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-sustainable-business/)
+- 2026-08-28 18:03 — **BNP Paribas CIB**: [praktikum in strategic clients all genders bei corporate coverage](https://www.bnpparibas.de/en/jobs/praktikum-in-strategic-clients-all-genders-bei-corporate-coverage/)
+- 2026-08-28 18:03 — **BNP Paribas CIB**: [praktikum all genders im bereich global markets institutional sales equity derivatives](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-global-markets-institutional-sales-equity-derivatives/)
+- 2026-08-28 18:03 — **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q3 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q3-2027/)
+- 2026-08-28 18:03 — **BNP Paribas CIB**: [praktikum all genders im bereich corporate coverage bei corporate institutional banking bc stuttgart](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-corporate-coverage-bei-corporate-institutional-banking-bc-stuttgart/)
+- 2026-08-28 18:03 — **BNP Paribas CIB**: [praktikum all genders corporate coverage business center frankfurt bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-business-center-frankfurt-bei-bnp-paribas-corporate-institutional-banking/)
+- 2026-08-28 18:03 — **BNP Paribas CIB**: [praktikum all genders business revenue bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-business-revenue-bei-bnp-paribas-corporate-institutional-banking/)
+- 2026-08-28 18:03 — **RBC Capital Markets**: [2027 Global Investment Banking Internship Frankfurt](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000182048EXTERNALENCA/2027-Global-Investment-Banking-Internship-Frankfurt)
 - 2026-08-28 17:39 — **ING Wholesale Banking**: [praktikant controlling management reporting and business advice w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-management-reporting-and-business-advice-w-m-d/3121/41249273920)
 - 2026-08-28 17:39 — **ING Wholesale Banking**: [praktikant controlling firmenkundengeschaft management reporting and business advice wholesale bank](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-firmenkundengeschaft-management-reporting-and-business-advice-wholesale-bank/3121/41249274048)
 - 2026-08-28 17:39 — **ING Wholesale Banking**: [praktikant digitale vermogensverwaltung w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176)
@@ -65,17 +95,5 @@ _Last check: 2026-08-28 17:43 CEST_
 - 2026-08-13 14:05 — **Societe Generale CIB**: [Intern Global Markets - Structured Products - Sales - M/F/D](https://careers.societegenerale.com/en/job-offers/intern-global-markets-structured-products-sales-m-f-d-26000GZ3-en)
 - 2026-08-13 12:33 — **Societe Generale CIB**: [Werkstudent (m/w/d) KYC / Client-Onboarding Process](https://careers.societegenerale.com/en/job-offers/werkstudent-m-w-d-kyc-client-onboarding-process-26000H3O-en)
 - 2026-08-13 12:33 — **Societe Generale CIB**: [V.I.E. Communication Officer (m/f/d)](https://careers.societegenerale.com/en/job-offers/vie-communication-officer-m-f-d-26000H1Z-en)
-- 2026-08-12 01:08 — **Societe Generale CIB**: [Trainee - Emerging Markets Credit Trading ](https://careers.societegenerale.com/en/job-offers/trainee-emerging-markets-credit-trading-26000D75-en)
-- 2026-08-11 19:38 — **Rothschild & Co**: [germany frankfurt debt advisory restructuring summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-debt-advisory-restructuring-summer-internship-2027/)
-- 2026-08-11 19:38 — **Rothschild & Co**: [germany frankfurt global advisory summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-advisory-summer-internship-2027/)
-- 2026-08-11 07:50 — **Societe Generale CIB**: [Intern in Coverage / Relationship Management Q4 – M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q4-m-f-d-25000LAB-en)
-- 2026-08-08 07:37 — **Societe Generale CIB**: [Intern in Coverage / Relationship Management Q3 – M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q3-m-f-d-25000LA7-en)
-- 2026-08-07 08:07 — **Societe Generale CIB**: [Intern M&amp;A for Consumer Retail and Healthcare Sector Team Q4 – M/F/D](https://careers.societegenerale.com/en/job-offers/intern-ma-for-consumer-retail-and-healthcare-sector-team-q4-m-f-d-25000HQJ-en)
-- 2026-08-07 08:07 — **Societe Generale CIB**: [Intern M&amp;A for Consumer Retail and Healthcare Sector Team Q3– M/F/D](https://careers.societegenerale.com/en/job-offers/intern-ma-for-consumer-retail-and-healthcare-sector-team-q3-m-f-d-25000HQI-en)
-- 2026-07-31 09:47 — **Societe Generale CIB**: [Werkstudent/in Compliance (m/w/d)](https://careers.societegenerale.com/en/job-offers/werkstudent-in-compliance-m-w-d-26000DLX-en)
-- 2026-07-29 20:02 — **Stifel**: [Investment Banking Internship - Q1/Q2 2027 (m/f/x) - Global Technology Group (GTG) - Munich](https://jobs.50skills.com/stifel/44053)
-- 2026-07-27 20:20 — **Baird**: [Global Investment Banking – M&A Internship (January - March ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---M-A-Internship--January---March----Frankfurt_R2026795)
-- 2026-07-19 17:04 — **Societe Generale CIB**: [V.I.E. Public Distribution Product Management](https://careers.societegenerale.com/en/job-offers/vie-public-distribution-product-management-2600095J-en)
-- 2026-07-19 17:04 — **Societe Generale CIB**: [Intern in Retail Structured Products Public Distribution M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
