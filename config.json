@@ -293,6 +293,33 @@
         "germany"
       ],
       "domain": "santander.com"
+    },
+    {
+      "name": "ing",
+      "firm": "ING Wholesale Banking",
+      "type": "sitemap_jobs",
+      "sitemap_url": "https://careers.ing.com/sitemap.xml",
+      "url_regex": "careers\\.ing\\.com/en/job/(?P<city>[^/]+)/(?P<slug>[^/]+)/",
+      "title_keywords": [
+        "praktik",
+        "internship",
+        "intern ",
+        "werkstud"
+      ],
+      "location_keywords": [
+        "frankfurt"
+      ],
+      "exclude_keywords": [
+        "human resources",
+        "recruiting",
+        "marketing",
+        "kommunikation",
+        "ciso",
+        "security management",
+        "mobile banking",
+        "baufinanzierung"
+      ],
+      "domain": "ing.com"
     }
   ],
   "min_intake": "2027-06"

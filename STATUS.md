@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-08-28 07:30 CEST_
+_Last check: 2026-08-28 17:42 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -8,7 +8,7 @@ _Last check: 2026-08-28 07:30 CEST_
 | Harris Williams | — |
 | Houlihan Lokey | — |
 | Rothschild & Co | **2 open** |
-| Jefferies | **2 open** |
+| Jefferies | ⚠️ source error (3 in a row) |
 | Macquarie | — |
 | Societe Generale CIB | **6 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -18,15 +18,14 @@ _Last check: 2026-08-28 07:30 CEST_
 | Riverside Company | **1 open** |
 | PJT Partners | — |
 | MCF Corporate Finance | — |
-| Evercore | **1 open** |
+| Evercore | ⚠️ source error (3 in a row) |
 | Santander CIB | — |
+| ING Wholesale Banking | **12 open** |
 
 ## Currently open internships
 
 - **Rothschild & Co**: [germany frankfurt global advisory summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-advisory-summer-internship-2027/)
 - **Rothschild & Co**: [germany frankfurt debt advisory restructuring summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-debt-advisory-restructuring-summer-internship-2027/)
-- **Jefferies**: [2027 Investment Banking Internship Frankfurt M A ALL INTAKES](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-358e37c41b98/candidate/so/pm/1/pl/2/opp/1832-2027-Investment-Banking-Internship-Frankfurt-M-A-ALL-INTAKES/en-GB)
-- **Jefferies**: [2027 Investment Banking Internship Frankfurt Equity Capital Markets ALL INTAKES](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-358e37c41b98/candidate/so/pm/1/pl/2/opp/1833-2027-Investment-Banking-Internship-Frankfurt-Equity-Capital-Markets-ALL-INTAKES/en-GB)
 - **Societe Generale CIB**: [V.I.E. Communication Officer (m/f/d)](https://careers.societegenerale.com/en/job-offers/vie-communication-officer-m-f-d-26000H1Z-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Werkstudent (m/w/d) KYC / Client-Onboarding Process](https://careers.societegenerale.com/en/job-offers/werkstudent-m-w-d-kyc-client-onboarding-process-26000H3O-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Intern in Retail Structured Products Public Distribution M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en) — Frankfurt am Main
@@ -35,10 +34,33 @@ _Last check: 2026-08-28 07:30 CEST_
 - **Societe Generale CIB**: [Werkstudent/in Compliance (m/w/d)](https://careers.societegenerale.com/en/job-offers/werkstudent-in-compliance-m-w-d-26000DLX-en) — Frankfurt am Main
 - **Stifel**: [Investment Banking Internship - Q1/Q2 2027 (m/f/x) - Global Technology Group (GTG) - Munich](https://jobs.50skills.com/stifel/44053) — We are currently seeking investment banking interns to
 - **Riverside Company**: [2027 Private Equity Intern, Riverside Europe](https://job-boards.greenhouse.io/theriversidecompany/jobs/8611818002) — Madrid, Spain
-- **Evercore**: [Q3 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/xf-a006ebad8dd8/candidate/so/pm/1/pl/2/opp/3202-Q3-2027-Internship-Programme-Frankfurt/en-GB)
+- **ING Wholesale Banking**: [praktikant produktstrategie wertpapiere w m d in frankfurt nurnberg](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-produktstrategie-wertpapiere-w-m-d-in-frankfurt-nurnberg/3121/32707089920) — Frankfurt Am Main
+- **ING Wholesale Banking**: [praktikant strategy w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-strategy-w-m-d/3121/27132056640) — Frankfurt Am Main
+- **ING Wholesale Banking**: [praktikant transaction service sales wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-service-sales-wholesale-banking-w-m-d/3121/43201372352) — Frankfurt Am Main
+- **ING Wholesale Banking**: [intern sales strategy and analytics wholesale banking f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-sales-strategy-and-analytics-wholesale-banking-f-m-x/3121/43201372224) — Frankfurt Am Main
+- **ING Wholesale Banking**: [intern transaction service product management wholesale banking f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-transaction-service-product-management-wholesale-banking-f-m-x/3121/43201372160) — Frankfurt Am Main
+- **ING Wholesale Banking**: [intern sales ai adoption support f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-sales-ai-adoption-support-f-m-x/3121/43201371776) — Frankfurt Am Main
+- **ING Wholesale Banking**: [praktikant sustainable solutions group w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-sustainable-solutions-group-w-m-d/3121/42909104000) — Frankfurt Am Main
+- **ING Wholesale Banking**: [praktikant defense security w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-defense-security-w-m-d/3121/42899691712) — Frankfurt Am Main
+- **ING Wholesale Banking**: [praktikant real estate finance coverage banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-real-estate-finance-coverage-banking-w-m-d/3121/42837111040) — Frankfurt Am Main
+- **ING Wholesale Banking**: [praktikant digitale vermogensverwaltung w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176) — Frankfurt Am Main
+- **ING Wholesale Banking**: [praktikant controlling firmenkundengeschaft management reporting and business advice wholesale bank](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-firmenkundengeschaft-management-reporting-and-business-advice-wholesale-bank/3121/41249274048) — Frankfurt Am Main
+- **ING Wholesale Banking**: [praktikant controlling management reporting and business advice w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-management-reporting-and-business-advice-w-m-d/3121/41249273920) — Frankfurt Am Main
 
 ## Alert history (newest first)
 
+- 2026-08-28 17:39 — **ING Wholesale Banking**: [praktikant controlling management reporting and business advice w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-management-reporting-and-business-advice-w-m-d/3121/41249273920)
+- 2026-08-28 17:39 — **ING Wholesale Banking**: [praktikant controlling firmenkundengeschaft management reporting and business advice wholesale bank](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-firmenkundengeschaft-management-reporting-and-business-advice-wholesale-bank/3121/41249274048)
+- 2026-08-28 17:39 — **ING Wholesale Banking**: [praktikant digitale vermogensverwaltung w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176)
+- 2026-08-28 17:39 — **ING Wholesale Banking**: [praktikant real estate finance coverage banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-real-estate-finance-coverage-banking-w-m-d/3121/42837111040)
+- 2026-08-28 17:39 — **ING Wholesale Banking**: [praktikant defense security w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-defense-security-w-m-d/3121/42899691712)
+- 2026-08-28 17:39 — **ING Wholesale Banking**: [praktikant sustainable solutions group w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-sustainable-solutions-group-w-m-d/3121/42909104000)
+- 2026-08-28 17:39 — **ING Wholesale Banking**: [intern sales ai adoption support f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-sales-ai-adoption-support-f-m-x/3121/43201371776)
+- 2026-08-28 17:39 — **ING Wholesale Banking**: [intern transaction service product management wholesale banking f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-transaction-service-product-management-wholesale-banking-f-m-x/3121/43201372160)
+- 2026-08-28 17:39 — **ING Wholesale Banking**: [intern sales strategy and analytics wholesale banking f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-sales-strategy-and-analytics-wholesale-banking-f-m-x/3121/43201372224)
+- 2026-08-28 17:39 — **ING Wholesale Banking**: [praktikant transaction service sales wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-service-sales-wholesale-banking-w-m-d/3121/43201372352)
+- 2026-08-28 17:39 — **ING Wholesale Banking**: [praktikant strategy w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-strategy-w-m-d/3121/27132056640)
+- 2026-08-28 17:39 — **ING Wholesale Banking**: [praktikant produktstrategie wertpapiere w m d in frankfurt nurnberg](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-produktstrategie-wertpapiere-w-m-d-in-frankfurt-nurnberg/3121/32707089920)
 - 2026-08-13 19:25 — **Evercore**: [Q3 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/xf-8dd452741d7c/candidate/so/pm/1/pl/2/opp/3202-Q3-2027-Internship-Programme-Frankfurt/en-GB)
 - 2026-08-13 14:05 — **Societe Generale CIB**: [Intern Global Markets - Structured Products - Sales - M/F/D](https://careers.societegenerale.com/en/job-offers/intern-global-markets-structured-products-sales-m-f-d-26000GZ3-en)
 - 2026-08-13 12:33 — **Societe Generale CIB**: [Werkstudent (m/w/d) KYC / Client-Onboarding Process](https://careers.societegenerale.com/en/job-offers/werkstudent-m-w-d-kyc-client-onboarding-process-26000H3O-en)

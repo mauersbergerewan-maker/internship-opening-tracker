@@ -175,6 +175,11 @@ def fetch_oleeo(src):
         title = urllib.parse.unquote(slug).replace("-", " ").strip()
         out[opp_id] = {"id": opp_id, "title": title, "location": "", "url": url}
     if not out:
+        if re.search(r"altcha|quick check needed", html, re.I):
+            raise RuntimeError(
+                "blocked by the site's bot check (Altcha) — this board must be "
+                "checked by hand; solving the challenge is not something the "
+                "tracker will do")
         # a live job board never lists zero openings — treat as a bad response
         raise RuntimeError("no postings found in page (%d bytes)" % len(html))
     return list(out.values())
@@ -277,6 +282,27 @@ def fetch_link_scrape(src):
     return list(out.values())
 
 
+def fetch_sitemap_jobs(src):
+    """Sitemap-driven job board where the posting URL itself carries city and
+    role (e.g. ING: /en/job/<city>/<role-slug>/<unit>/<id>). No per-posting
+    fetch needed, so it stays cheap even on boards with hundreds of roles."""
+    xml = http_get(src["sitemap_url"])
+    pattern = re.compile(src["url_regex"])
+    out = {}
+    for m in re.finditer(r"<loc>([^<]+)</loc>", xml):
+        url = m.group(1).strip()
+        pm = pattern.search(url)
+        if not pm:
+            continue
+        parts = pm.groupdict()
+        title = parts.get("slug", "").replace("-", " ").strip()
+        location = parts.get("city", "").replace("-", " ").strip().title()
+        out[url] = {"id": url, "title": title, "location": location, "url": url}
+    if not out:
+        raise RuntimeError("no job URLs matched in sitemap (%d bytes)" % len(xml))
+    return list(out.values())
+
+
 def fetch_page_hash(src, state):
     """Victoria Partners: alert when the Praktikanten page content changes."""
     html = http_get(src["url"])
@@ -309,6 +335,7 @@ FETCHERS = {
     "page_hash": fetch_page_hash,
     "link_scrape": lambda src, state: fetch_link_scrape(src),
     "personio": lambda src, state: fetch_personio(src),
+    "sitemap_jobs": lambda src, state: fetch_sitemap_jobs(src),
 }
 
 
@@ -356,6 +383,10 @@ def matches(src, posting, cfg):
     if title_kw and not contains_any(blob, title_kw):
         return False
     if not contains_any(blob, src.get("location_keywords", [])):
+        return False
+    # drop functions that are never relevant for this search (HR, marketing, IT...)
+    excluded = src.get("exclude_keywords")
+    if excluded and contains_any(blob, excluded):
         return False
     return True
 
