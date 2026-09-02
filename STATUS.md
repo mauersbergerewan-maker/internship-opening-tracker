@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-09-02 06:49 CEST_
+_Last check: 2026-09-02 11:44 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -8,7 +8,7 @@ _Last check: 2026-09-02 06:49 CEST_
 | Harris Williams | — |
 | Houlihan Lokey | **2 open** |
 | Rothschild & Co | **2 open** |
-| Jefferies | — |
+| Jefferies | ⚠️ source error (2 in a row) |
 | Macquarie | **1 open** |
 | Societe Generale CIB | **6 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -18,7 +18,7 @@ _Last check: 2026-09-02 06:49 CEST_
 | Riverside Company | **1 open** |
 | PJT Partners | — |
 | MCF Corporate Finance | — |
-| Evercore | — |
+| Evercore | ⚠️ source error (2 in a row) |
 | Santander CIB | — |
 | ING Wholesale Banking | **12 open** |
 | RBC Capital Markets | — |
@@ -53,7 +53,6 @@ _Last check: 2026-09-02 06:49 CEST_
 - **ING Wholesale Banking**: [praktikant controlling firmenkundengeschaft management reporting and business advice wholesale bank](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-firmenkundengeschaft-management-reporting-and-business-advice-wholesale-bank/3121/41249274048) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant controlling management reporting and business advice w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-management-reporting-and-business-advice-w-m-d/3121/41249273920) — Frankfurt Am Main
 - **BNP Paribas CIB**: [praktikum all genders im bereich diversity inclusion and people care bei bnp paribas group hr](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-diversity-inclusion-and-people-care-bei-bnp-paribas-group-hr/)
-- **BNP Paribas CIB**: [praktikum all genders business revenue bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-business-revenue-bei-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [praktikum all genders corporate coverage business center frankfurt bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-business-center-frankfurt-bei-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [praktikum all genders im bereich corporate coverage bei corporate institutional banking bc stuttgart](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-corporate-coverage-bei-corporate-institutional-banking-bc-stuttgart/)
 - **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q3 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q3-2027/)
@@ -62,12 +61,14 @@ _Last check: 2026-09-02 06:49 CEST_
 - **BNP Paribas CIB**: [intern all genders cross services at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-cross-services-at-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [intern all genders in investment compliance at bnp paribas securities services](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-investment-compliance-at-bnp-paribas-securities-services/)
 - **BNP Paribas CIB**: [intern transactions f m d](https://www.bnpparibas.de/en/jobs/intern-transactions-f-m-d/)
+- **BNP Paribas CIB**: [intern all genders in growth capital solutions at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-growth-capital-solutions-at-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [praktikum all genders global markets zertifikate und hebelprodukte](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-global-markets-zertifikate-und-hebelprodukte/)
 - **BNP Paribas CIB**: [praktikum all genders im bereich recruiting employer branding](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-recruiting-employer-branding/)
 - **BNP Paribas CIB**: [intern all genders in the global markets data ai lab at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-the-global-markets-data-ai-lab-at-bnp-paribas-corporate-institutional-banking/)
 
 ## Alert history (newest first)
 
+- 2026-09-02 11:44 — **BNP Paribas CIB**: [intern all genders in growth capital solutions at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-growth-capital-solutions-at-bnp-paribas-corporate-institutional-banking/)
 - 2026-09-01 20:39 — **BNP Paribas CIB**: [intern all genders in the global markets data ai lab at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-the-global-markets-data-ai-lab-at-bnp-paribas-corporate-institutional-banking/)
 - 2026-09-01 17:00 — **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - 2026-09-01 17:00 — **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (IT Services)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542)
@@ -97,6 +98,5 @@ _Last check: 2026-09-02 06:49 CEST_
 - 2026-08-28 17:39 — **ING Wholesale Banking**: [intern sales ai adoption support f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-sales-ai-adoption-support-f-m-x/3121/43201371776)
 - 2026-08-28 17:39 — **ING Wholesale Banking**: [intern transaction service product management wholesale banking f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-transaction-service-product-management-wholesale-banking-f-m-x/3121/43201372160)
 - 2026-08-28 17:39 — **ING Wholesale Banking**: [intern sales strategy and analytics wholesale banking f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-sales-strategy-and-analytics-wholesale-banking-f-m-x/3121/43201372224)
-- 2026-08-28 17:39 — **ING Wholesale Banking**: [praktikant transaction service sales wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-service-sales-wholesale-banking-w-m-d/3121/43201372352)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
