@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-09-03 16:38 CEST_
+_Last check: 2026-09-03 20:48 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -40,7 +40,7 @@ _Last check: 2026-09-03 16:38 CEST_
 - **Stifel**: [Investment Banking Internship - Q1/Q2 2027 (m/f/x) - Global Technology Group (GTG) - Munich](https://jobs.50skills.com/stifel/44053) — We are currently seeking investment banking interns to
 - **Alantra**: [Investment Banking, Q2 2027 M&A Intern (Frankfurt, Germany)](https://alantra.wd3.myworkdayjobs.com/en-US/Alantra/job/Germany---Frankfurt/Investment-Banking--Q2-2027-M-A-Intern--Frankfurt--Germany-_JR486) — Germany - Frankfurt
 - **Riverside Company**: [2027 Private Equity Intern, Riverside Europe](https://job-boards.greenhouse.io/theriversidecompany/jobs/8611818002) — Madrid, Spain
-- **Evercore**: [Q3 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/xf-f089bae3e879/candidate/so/pm/1/pl/2/opp/3202-Q3-2027-Internship-Programme-Frankfurt/en-GB)
+- **Evercore**: [Q3 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/xf-4329429c62be/candidate/so/pm/1/pl/2/opp/3202-Q3-2027-Internship-Programme-Frankfurt/en-GB)
 - **ING Wholesale Banking**: [praktikant debt capital markets financial institutions origination im bereich wholesale banking w m](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-debt-capital-markets-financial-institutions-origination-im-bereich-wholesale-banking-w-m/3121/43950118784) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant produktstrategie wertpapiere w m d in frankfurt nurnberg](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-produktstrategie-wertpapiere-w-m-d-in-frankfurt-nurnberg/3121/32707089920) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant strategy w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-strategy-w-m-d/3121/27132056640) — Frankfurt Am Main
