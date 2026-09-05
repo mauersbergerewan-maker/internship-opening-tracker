@@ -29,33 +29,33 @@
   "/job/VA---Richmond-23219/XMLNAME-2026-M-A-Associate_R196642"
  ],
  "seen:houlihan_lokey": [
+  "/job/Munich-Germany/Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q4-Munich_R3262",
   "/job/Munich-Germany/XMLNAME-2027-4-Month-Off-Cycle-Internship--February--Munich-_R3459",
   "/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Debt-Advisory--Q1--2027-_R3443",
-  "/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Q3-_R2989",
-  "/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Technology-_R3541",
-  "/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542",
   "/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889",
-  "/job/Munich-Germany/Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q4-Munich_R3262"
+  "/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Q3-_R2989",
+  "/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542",
+  "/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Technology-_R3541"
  ],
  "seen:rothschild_interns": [],
  "seen:jefferies": [
+  "1901",
+  "1799",
+  "1829",
+  "1769",
+  "1832",
+  "1830",
   "1833",
   "1926",
+  "1823",
+  "1821",
+  "1768",
   "1952",
-  "1769",
-  "1901",
+  "1781",
   "1822",
   "1966",
-  "1830",
-  "1958",
-  "1823",
-  "1799",
-  "1768",
-  "1832",
-  "1821",
-  "1781",
   "1795",
-  "1829"
+  "1958"
  ],
  "seen:macquarie": [
   "https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826"
@@ -63,25 +63,25 @@
  "hash:victoria_partners": "f8b1c6ea55ce3345c57ee5961c4bb8b7711b3be1c6beaaacd64ef125fddb8b12",
  "seen:victoria_partners": [],
  "seen:stifel": [
-  "40819",
   "44053",
-  "42905"
+  "42905",
+  "40819"
  ],
  "seen:alantra": [
   "/job/Germany---Frankfurt/Investment-Banking--Q2-2026-M-A-Intern--Frankfurt--Germany-_JR425",
-  "/job/Germany---Frankfurt/Investment-Banking--Q1-2027-M-A-Intern--Frankfurt--Germany-_JR466",
-  "/job/Germany---Frankfurt/Investment-Banking--Q2-2027-M-A-Intern--Frankfurt--Germany-_JR486"
+  "/job/Germany---Frankfurt/Investment-Banking--Q2-2027-M-A-Intern--Frankfurt--Germany-_JR486",
+  "/job/Germany---Frankfurt/Investment-Banking--Q1-2027-M-A-Intern--Frankfurt--Germany-_JR466"
  ],
  "seen:mizuho_greenhill": [],
  "seen:riverside": [
-  "8632882002",
+  "8617000002",
   "8611818002",
+  "8622619002",
   "8544672002",
   "8626300002",
-  "8622619002",
-  "8617000002"
+  "8632882002"
  ],
- "last_run": "2026-09-05 04:41:27",
+ "last_run": "2026-09-05 09:10:46",
  "last_new_count": 0,
  "known:socgen": {
   "https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en": {
@@ -110,31 +110,31 @@
   }
  },
  "rejected:socgen": [
-  "https://careers.societegenerale.com/en/job-offers/java-fullstack-developer-internship-with-french-26000GNB-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-emerging-markets-strategist-26000G5A-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-trader-assistant-on-the-synthetic-trading-desk-26000G5C-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-equity-prime-brokerage-26000HCM-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-paralegal-26000GJM-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-front-office-software-engineer-26000H4M-en",
-  "https://careers.societegenerale.com/en/job-offers/credit-analyst-intern-26000ICK-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-investment-banking-26000C7D-en",
-  "https://careers.societegenerale.com/en/job-offers/vie-front-office-developer-26000F3K-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-risk-analyst-societe-generale-india-mumbai-26000F3H-en",
-  "https://careers.societegenerale.com/en/job-offers/vie-programmer-analyst-pre-trade-applications-26000EPO-en",
-  "https://careers.societegenerale.com/en/job-offers/trainee-apprentice-global-transaction-banking-societe-generale-india-mumbai-26000H63-en"
+  "https://careers.societegenerale.com/en/job-offers/trainee-market-access-release-manager-26000HU6-en",
+  "https://careers.societegenerale.com/en/job-offers/it-intern-26000H8S-en",
+  "https://careers.societegenerale.com/en/job-offers/werkstudent-m-w-d-audit-26000HR6-en",
+  "https://careers.societegenerale.com/en/job-offers/internship-aml-monitoring-financial-intelligence-unit-26000ICF-en",
+  "https://careers.societegenerale.com/en/job-offers/internal-auditor-m-w-d-26000DQ2-en",
+  "https://careers.societegenerale.com/en/job-offers/trainee-market-performance-analyst-26000EXB-en",
+  "https://careers.societegenerale.com/en/job-offers/trainee-fixed-income-structuring-26000BKU-en",
+  "https://careers.societegenerale.com/en/job-offers/head-of-internal-audit-m-w-d-26000DPN-en",
+  "https://careers.societegenerale.com/en/job-offers/trainee-trade-and-sustainable-commodities-26000I87-en",
+  "https://careers.societegenerale.com/en/job-offers/internship-financial-engineer-26000808-en",
+  "https://careers.societegenerale.com/en/job-offers/trainee-operations-sg-securities-india-mumbai-26000GPN-en",
+  "https://careers.societegenerale.com/en/job-offers/senior-internal-auditor-26000DFK-en"
  ],
  "seen:socgen": [
-  "https://careers.societegenerale.com/en/job-offers/trainee-emerging-markets-credit-trading-26000D75-en",
-  "https://careers.societegenerale.com/en/job-offers/vie-communication-officer-m-f-d-26000H1Z-en",
-  "https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q4-m-f-d-25000LAB-en",
-  "https://careers.societegenerale.com/en/job-offers/intern-global-markets-structured-products-sales-m-f-d-26000GZ3-en",
-  "https://careers.societegenerale.com/en/job-offers/vie-public-distribution-product-management-2600095J-en",
   "https://careers.societegenerale.com/en/job-offers/intern-ma-for-consumer-retail-and-healthcare-sector-team-q4-m-f-d-25000HQJ-en",
+  "https://careers.societegenerale.com/en/job-offers/vie-communication-officer-m-f-d-26000H1Z-en",
   "https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q3-m-f-d-25000LA7-en",
-  "https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en",
   "https://careers.societegenerale.com/en/job-offers/werkstudent-m-w-d-kyc-client-onboarding-process-26000H3O-en",
   "https://careers.societegenerale.com/en/job-offers/werkstudent-in-compliance-m-w-d-26000DLX-en",
-  "https://careers.societegenerale.com/en/job-offers/intern-ma-for-consumer-retail-and-healthcare-sector-team-q3-m-f-d-25000HQI-en"
+  "https://careers.societegenerale.com/en/job-offers/intern-in-retail-structured-products-public-distribution-m-f-d-2600088U-en",
+  "https://careers.societegenerale.com/en/job-offers/intern-ma-for-consumer-retail-and-healthcare-sector-team-q3-m-f-d-25000HQI-en",
+  "https://careers.societegenerale.com/en/job-offers/intern-global-markets-structured-products-sales-m-f-d-26000GZ3-en",
+  "https://careers.societegenerale.com/en/job-offers/vie-public-distribution-product-management-2600095J-en",
+  "https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q4-m-f-d-25000LAB-en",
+  "https://careers.societegenerale.com/en/job-offers/trainee-emerging-markets-credit-trading-26000D75-en"
  ],
  "recent_new": [
   {
@@ -319,74 +319,74 @@
   }
  ],
  "seen:rothschild_students": [
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-advisory-summer-internship-2027/",
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-global-investor-advisory-long-term-internship/",
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-five-arrows-direct-lending-long-term-internship-london/",
   "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-female-insight-day-2026/",
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-global-advisory-long-term-internship-riyadh/",
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-markets-solutions-january-internship-2027/",
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-advisory-summer-internship-2027/",
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/private-equity-analyst-intern-fapep--fund-investments-secondaries-and-co-investments-march-2027/",
   "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/global-advisory-zurich-internship-january-april-2027/",
   "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-debt-advisory-restructuring-summer-internship-2027/",
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/private-equity-analyst-intern-fapep--fund-investments-secondaries-and-co-investments-march-2027/",
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/investor-relations-intern-five-arrows-five-arrows-multi-strategies-january-2027/",
   "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/internship---investment-analyst---five-arrows-growth-partners---january--march-2027/",
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-markets-solutions-january-internship-2027/",
-  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/investor-relations-intern-five-arrows-five-arrows-multi-strategies-january-2027/"
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-five-arrows-direct-lending-long-term-internship-london/",
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-global-investor-advisory-long-term-internship/",
+  "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-global-advisory-long-term-internship-riyadh/"
  ],
  "seen:pjt": [],
  "seen:mcf": [],
  "seen:evercore": [
-  "3202",
-  "3266"
+  "3266",
+  "3202"
  ],
  "seen:santander": [],
  "seen:ing": [
-  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-management-reporting-and-business-advice-w-m-d/3121/41249273920",
-  "https://careers.ing.com/en/job/frankfurt-am-main/intern-transaction-service-product-management-wholesale-banking-f-m-x/3121/43201372160",
-  "https://careers.ing.com/en/job/sydney/international-talent-programme-itp-2026-technology/3121/43423727808",
-  "https://careers.ing.com/en/job/frankfurt-am-main/intern-sales-strategy-and-analytics-wholesale-banking-f-m-x/3121/43201372224",
-  "https://careers.ing.com/en/job/luxembourg/fund-operations-oversight-officer-m-f-cdd-until-the-end-of-january-2027/3121/43939864896",
   "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-firmenkundengeschaft-management-reporting-and-business-advice-wholesale-bank/3121/41249274048",
-  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-debt-capital-markets-financial-institutions-origination-im-bereich-wholesale-banking-w-m/3121/43950118784",
-  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-real-estate-finance-coverage-banking-w-m-d/3121/42837111040",
-  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-strategy-w-m-d/3121/27132056640",
-  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176",
-  "https://careers.ing.com/en/job/makati-city/graduate-trainee-program-2026-non-technology/3121/43398506304",
-  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-defense-security-w-m-d/3121/42899691712",
+  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-produktstrategie-wertpapiere-w-m-d-in-frankfurt-nurnberg/3121/32707089920",
   "https://careers.ing.com/en/job/frankfurt-am-main/intern-sales-ai-adoption-support-f-m-x/3121/43201371776",
-  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-sustainable-solutions-group-w-m-d/3121/42909104000",
   "https://careers.ing.com/en/job/seoul/kyc-outreach-analyst-10-month-contract-starting-1st-jan-2027/3121/42472163584",
-  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-service-sales-wholesale-banking-w-m-d/3121/43201372352",
-  "https://careers.ing.com/en/job/sydney/international-talent-programme-itp-2026-business-banking/3121/43861190528",
+  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-sustainable-solutions-group-w-m-d/3121/42909104000",
+  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176",
+  "https://careers.ing.com/en/job/frankfurt-am-main/intern-transaction-service-product-management-wholesale-banking-f-m-x/3121/43201372160",
   "https://careers.ing.com/en/job/makati-city/graduate-trainee-program-2026-retail-tech/3121/43398506368",
-  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-produktstrategie-wertpapiere-w-m-d-in-frankfurt-nurnberg/3121/32707089920"
+  "https://careers.ing.com/en/job/luxembourg/fund-operations-oversight-officer-m-f-cdd-until-the-end-of-january-2027/3121/43939864896",
+  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-debt-capital-markets-financial-institutions-origination-im-bereich-wholesale-banking-w-m/3121/43950118784",
+  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-management-reporting-and-business-advice-w-m-d/3121/41249273920",
+  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-strategy-w-m-d/3121/27132056640",
+  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-defense-security-w-m-d/3121/42899691712",
+  "https://careers.ing.com/en/job/makati-city/graduate-trainee-program-2026-non-technology/3121/43398506304",
+  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-real-estate-finance-coverage-banking-w-m-d/3121/42837111040",
+  "https://careers.ing.com/en/job/frankfurt-am-main/intern-sales-strategy-and-analytics-wholesale-banking-f-m-x/3121/43201372224",
+  "https://careers.ing.com/en/job/sydney/international-talent-programme-itp-2026-technology/3121/43423727808",
+  "https://careers.ing.com/en/job/sydney/international-talent-programme-itp-2026-business-banking/3121/43861190528",
+  "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-service-sales-wholesale-banking-w-m-d/3121/43201372352"
  ],
  "seen:macquarie_interns": [
-  "https://recruitment.macquarie.com/careers/JobDetail/2027-Off-Cycle-Internship-Infrastructure-Real-Assets/23845",
+  "https://recruitment.macquarie.com/careers/JobDetail/2026-Apprenticeship-Program-India/9569",
   "https://recruitment.macquarie.com/careers/JobDetail/2026-Manila-Technology-Internship-Program/23596",
   "https://recruitment.macquarie.com/careers/JobDetail/Off-cycle-Internship-Coverage-and-Solutions-2027/18304",
-  "https://recruitment.macquarie.com/careers/JobDetail/Manila-Internship-Program/19940",
-  "https://recruitment.macquarie.com/careers/JobDetail/2026-Apprenticeship-Program-India/9569"
+  "https://recruitment.macquarie.com/careers/JobDetail/2027-Off-Cycle-Internship-Infrastructure-Real-Assets/23845",
+  "https://recruitment.macquarie.com/careers/JobDetail/Manila-Internship-Program/19940"
  ],
  "seen:rbc": [
-  "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000182048EXTERNALENCA/2027-Global-Investment-Banking-Internship-Frankfurt",
-  "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000186550EXTERNALENCA/2026-Global-Investment-Banking-Internship-Frankfurt"
+  "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000186550EXTERNALENCA/2026-Global-Investment-Banking-Internship-Frankfurt",
+  "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000182048EXTERNALENCA/2027-Global-Investment-Banking-Internship-Frankfurt"
  ],
  "seen:bnp": [
+  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-corporate-coverage-bei-corporate-institutional-banking-bc-stuttgart/",
   "https://www.bnpparibas.de/en/jobs/intern-transactions-f-m-d/",
   "https://www.bnpparibas.de/en/jobs/intern-all-genders-cross-services-at-bnp-paribas-corporate-institutional-banking/",
-  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-corporate-coverage-bei-corporate-institutional-banking-bc-stuttgart/",
-  "https://www.bnpparibas.de/en/jobs/intern-all-genders-in-growth-capital-solutions-at-bnp-paribas-corporate-institutional-banking/",
-  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-global-markets-institutional-sales-equity-derivatives/",
-  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-business-center-frankfurt-bei-bnp-paribas-corporate-institutional-banking/",
-  "https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q3-2027/",
-  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-business-revenue-bei-bnp-paribas-corporate-institutional-banking/",
-  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-recruiting-employer-branding/",
-  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-global-markets-zertifikate-und-hebelprodukte/",
-  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-sustainable-business/",
-  "https://www.bnpparibas.de/en/jobs/intern-all-genders-in-investment-compliance-at-bnp-paribas-securities-services/",
+  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-in-corporate-lending-advisory-bei-bnp-paribas-corporate-institutional-banking/",
+  "https://www.bnpparibas.de/en/jobs/intern-all-genders-in-the-global-markets-data-ai-lab-at-bnp-paribas-corporate-institutional-banking/",
   "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-in-relationshipmanagement-bei-bnp-paribas-wealth-management/",
+  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-business-center-frankfurt-bei-bnp-paribas-corporate-institutional-banking/",
+  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-business-revenue-bei-bnp-paribas-corporate-institutional-banking/",
+  "https://www.bnpparibas.de/en/jobs/intern-all-genders-in-investment-compliance-at-bnp-paribas-securities-services/",
+  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-sustainable-business/",
   "https://www.bnpparibas.de/en/jobs/praktikum-in-strategic-clients-all-genders-bei-corporate-coverage/",
   "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-diversity-inclusion-and-people-care-bei-bnp-paribas-group-hr/",
-  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-in-corporate-lending-advisory-bei-bnp-paribas-corporate-institutional-banking/",
-  "https://www.bnpparibas.de/en/jobs/intern-all-genders-in-the-global-markets-data-ai-lab-at-bnp-paribas-corporate-institutional-banking/"
+  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-global-markets-zertifikate-und-hebelprodukte/",
+  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-recruiting-employer-branding/",
+  "https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q3-2027/",
+  "https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-global-markets-institutional-sales-equity-derivatives/",
+  "https://www.bnpparibas.de/en/jobs/intern-all-genders-in-growth-capital-solutions-at-bnp-paribas-corporate-institutional-banking/"
  ]
 }
