@@ -1,14 +1,14 @@
 # Internship tracker — live status
 
-_Last check: 2026-09-15 03:35 CEST_
+_Last check: 2026-09-15 09:53 CEST_
 
 | Firm | Open matching postings |
 |---|---|
 | Baird | — |
 | Harris Williams | — |
-| Houlihan Lokey | **4 open** |
+| Houlihan Lokey | **3 open** |
 | Rothschild & Co | **2 open** |
-| Jefferies | ⚠️ source error (2 in a row) |
+| Jefferies | ⚠️ source error (3 in a row) |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **5 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -18,7 +18,7 @@ _Last check: 2026-09-15 03:35 CEST_
 | Riverside Company | **1 open** |
 | PJT Partners | — |
 | MCF Corporate Finance | — |
-| Evercore | ⚠️ source error (2 in a row) |
+| Evercore | ⚠️ source error (3 in a row) |
 | Santander CIB | — |
 | ING Wholesale Banking | **9 open** |
 | RBC Capital Markets | — |
@@ -26,7 +26,6 @@ _Last check: 2026-09-15 03:35 CEST_
 
 ## Currently open internships
 
-- **Houlihan Lokey**: [Financial Restructuring Off-Cycle Internship (Q1/Q2)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525) — Frankfurt, Germany
 - **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (Industrials)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Industrials-_R3543) — Frankfurt, Germany
 - **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (Technology)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Technology-_R3541) — Frankfurt, Germany
 - **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (IT Services)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542) — Frankfurt, Germany
