@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-09-30 02:36 CEST_
+_Last check: 2026-09-30 08:52 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -8,7 +8,7 @@ _Last check: 2026-09-30 02:36 CEST_
 | Harris Williams | — |
 | Houlihan Lokey | **3 open** |
 | Rothschild & Co | — |
-| Jefferies | ⚠️ source error (8 in a row) |
+| Jefferies | ⚠️ source error (9 in a row) |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **5 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -18,11 +18,11 @@ _Last check: 2026-09-30 02:36 CEST_
 | Riverside Company | **1 open** |
 | PJT Partners | — |
 | MCF Corporate Finance | — |
-| Evercore | ⚠️ source error (8 in a row) |
+| Evercore | ⚠️ source error (9 in a row) |
 | Santander CIB | — |
 | ING Wholesale Banking | **8 open** |
 | RBC Capital Markets | — |
-| BNP Paribas CIB | **8 open** |
+| BNP Paribas CIB | **7 open** |
 
 ## Currently open internships
 
@@ -50,7 +50,6 @@ _Last check: 2026-09-30 02:36 CEST_
 - **BNP Paribas CIB**: [praktikum all genders business revenue bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-business-revenue-bei-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [praktikum all genders corporate coverage business center frankfurt bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-business-center-frankfurt-bei-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [praktikum all genders im bereich corporate coverage bei corporate institutional banking bc stuttgart](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-corporate-coverage-bei-corporate-institutional-banking-bc-stuttgart/)
-- **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q3 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q3-2027/)
 - **BNP Paribas CIB**: [intern all genders in investment compliance at bnp paribas securities services](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-investment-compliance-at-bnp-paribas-securities-services/)
 - **BNP Paribas CIB**: [praktikum all genders im bereich recruiting employer branding](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-recruiting-employer-branding/)
 - **BNP Paribas CIB**: [intern infrastructure responsible investing all genders](https://www.bnpparibas.de/en/jobs/intern-infrastructure-responsible-investing-all-genders/)
