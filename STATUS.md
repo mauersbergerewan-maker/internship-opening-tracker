@@ -1,14 +1,14 @@
 # Internship tracker — live status
 
-_Last check: 2026-10-01 21:38 CEST_
+_Last check: 2026-10-02 01:58 CEST_
 
 | Firm | Open matching postings |
 |---|---|
 | Baird | — |
 | Harris Williams | — |
-| Houlihan Lokey | **3 open** |
+| Houlihan Lokey | **2 open** |
 | Rothschild & Co | — |
-| Jefferies | ⚠️ source error (15 in a row) |
+| Jefferies | ⚠️ source error (16 in a row) |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **4 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -18,7 +18,7 @@ _Last check: 2026-10-01 21:38 CEST_
 | Riverside Company | — |
 | PJT Partners | — |
 | MCF Corporate Finance | — |
-| Evercore | ⚠️ source error (5 in a row) |
+| Evercore | ⚠️ source error (6 in a row) |
 | Santander CIB | — |
 | ING Wholesale Banking | **8 open** |
 | RBC Capital Markets | — |
@@ -28,7 +28,6 @@ _Last check: 2026-10-01 21:38 CEST_
 
 - **Houlihan Lokey**: [3 Month Internship -  Financial Restructuring (Q2 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889) — Frankfurt, Germany
 - **Houlihan Lokey**: [3 Month Internship  - Financial Restructuring (Q3 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525) — Frankfurt, Germany
-- **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (Industrials)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Industrials-_R3543) — Frankfurt, Germany
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Societe Generale CIB**: [Werkstudent (m/w/d) KYC / Client-Onboarding Process](https://careers.societegenerale.com/en/job-offers/werkstudent-m-w-d-kyc-client-onboarding-process-26000H3O-en) — Frankfurt am Main
