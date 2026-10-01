@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-10-01 01:59 CEST_
+_Last check: 2026-10-01 08:11 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -8,7 +8,7 @@ _Last check: 2026-10-01 01:59 CEST_
 | Harris Williams | — |
 | Houlihan Lokey | **3 open** |
 | Rothschild & Co | — |
-| Jefferies | ⚠️ source error (12 in a row) |
+| Jefferies | ⚠️ source error (13 in a row) |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **5 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -18,11 +18,11 @@ _Last check: 2026-10-01 01:59 CEST_
 | Riverside Company | **1 open** |
 | PJT Partners | — |
 | MCF Corporate Finance | — |
-| Evercore | ⚠️ source error (2 in a row) |
+| Evercore | ⚠️ source error (3 in a row) |
 | Santander CIB | — |
 | ING Wholesale Banking | **8 open** |
 | RBC Capital Markets | — |
-| BNP Paribas CIB | **8 open** |
+| BNP Paribas CIB | **9 open** |
 
 ## Currently open internships
 
@@ -55,9 +55,11 @@ _Last check: 2026-10-01 01:59 CEST_
 - **BNP Paribas CIB**: [intern infrastructure responsible investing all genders](https://www.bnpparibas.de/en/jobs/intern-infrastructure-responsible-investing-all-genders/)
 - **BNP Paribas CIB**: [praktikum all genders im bereich diversity inclusion and people care bei bnp paribas group hr](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-diversity-inclusion-and-people-care-bei-bnp-paribas-group-hr/)
 - **BNP Paribas CIB**: [praktikum all genders group brand communication germany communication](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-communication/)
+- **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q4 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q4-2027/)
 
 ## Alert history (newest first)
 
+- 2026-10-01 08:11 — **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q4 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q4-2027/)
 - 2026-09-30 21:30 — **BNP Paribas CIB**: [praktikum all genders group brand communication germany communication](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-communication/)
 - 2026-09-21 21:38 — **BNP Paribas CIB**: [intern infrastructure responsible investing all genders](https://www.bnpparibas.de/en/jobs/intern-infrastructure-responsible-investing-all-genders/)
 - 2026-09-21 21:38 — **BNP Paribas CIB**: [intern development investment all genders](https://www.bnpparibas.de/en/jobs/intern-development-investment-all-genders/)
@@ -87,6 +89,5 @@ _Last check: 2026-10-01 01:59 CEST_
 - 2026-08-28 18:03 — **BNP Paribas CIB**: [intern all genders in investment compliance at bnp paribas securities services](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-investment-compliance-at-bnp-paribas-securities-services/)
 - 2026-08-28 18:03 — **BNP Paribas CIB**: [intern all genders cross services at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-cross-services-at-bnp-paribas-corporate-institutional-banking/)
 - 2026-08-28 18:03 — **BNP Paribas CIB**: [praktikum all genders im bereich sustainable business](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-sustainable-business/)
-- 2026-08-28 18:03 — **BNP Paribas CIB**: [praktikum in strategic clients all genders bei corporate coverage](https://www.bnpparibas.de/en/jobs/praktikum-in-strategic-clients-all-genders-bei-corporate-coverage/)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
