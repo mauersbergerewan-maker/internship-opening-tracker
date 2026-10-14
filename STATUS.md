@@ -1,14 +1,14 @@
 # Internship tracker — live status
 
-_Last check: 2026-10-14 08:16 CEST_
+_Last check: 2026-10-14 14:08 CEST_
 
 | Firm | Open matching postings |
 |---|---|
 | Baird | — |
 | Harris Williams | — |
 | Houlihan Lokey | **2 open** |
-| Rothschild & Co | — |
-| Jefferies | ⚠️ source error (9 in a row) |
+| Rothschild & Co | **1 open** |
+| Jefferies | ⚠️ source error (10 in a row) |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **2 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -17,17 +17,18 @@ _Last check: 2026-10-14 08:16 CEST_
 | Mizuho \| Greenhill | — |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (20 in a row) |
-| Evercore | ⚠️ source error (9 in a row) |
+| MCF Corporate Finance | ⚠️ source error (21 in a row) |
+| Evercore | ⚠️ source error (10 in a row) |
 | Santander CIB | — |
 | ING Wholesale Banking | **6 open** |
 | RBC Capital Markets | — |
-| BNP Paribas CIB | **10 open** |
+| BNP Paribas CIB | **9 open** |
 
 ## Currently open internships
 
 - **Houlihan Lokey**: [3 Month Internship -  Financial Restructuring (Q2 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889) — Frankfurt, Germany
 - **Houlihan Lokey**: [3 Month Internship  - Financial Restructuring (Q3 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525) — Frankfurt, Germany
+- **Rothschild & Co**: [germany frankfurt debt advisory restructuring summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-debt-advisory-restructuring-summer-internship-2027/)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Societe Generale CIB**: [Werkstudent (m/w/d) KYC / Client-Onboarding Process](https://careers.societegenerale.com/en/job-offers/werkstudent-m-w-d-kyc-client-onboarding-process-26000H3O-en) — Frankfurt am Main
@@ -46,7 +47,6 @@ _Last check: 2026-10-14 08:16 CEST_
 - **BNP Paribas CIB**: [praktikum all genders im bereich diversity inclusion and people care bei bnp paribas group hr](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-diversity-inclusion-and-people-care-bei-bnp-paribas-group-hr/)
 - **BNP Paribas CIB**: [praktikum all genders group brand communication germany communication](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-communication/)
 - **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q4 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q4-2027/)
-- **BNP Paribas CIB**: [praktikum all genders corporate coverage business center frankfurt bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-business-center-frankfurt-bei-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [intern all genders in corporate coverage at corporate institutional banking bc hamburg](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-corporate-coverage-at-corporate-institutional-banking-bc-hamburg/)
 - **BNP Paribas CIB**: [praktikum all genders group brand communication germany events](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-events/)
 - **BNP Paribas CIB**: [praktikant controlling all genders 2](https://www.bnpparibas.de/en/jobs/praktikant-controlling-all-genders-2/)
