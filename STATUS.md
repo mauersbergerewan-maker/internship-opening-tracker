@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-10-19 19:36 CEST_
+_Last check: 2026-10-20 00:30 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -17,10 +17,10 @@ _Last check: 2026-10-19 19:36 CEST_
 | Mizuho \| Greenhill | — |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (51 in a row) |
+| MCF Corporate Finance | ⚠️ source error (52 in a row) |
 | Evercore | **2 open** |
 | Santander CIB | — |
-| ING Wholesale Banking | **6 open** |
+| ING Wholesale Banking | **5 open** |
 | RBC Capital Markets | — |
 | BNP Paribas CIB | **10 open** |
 
@@ -40,7 +40,6 @@ _Last check: 2026-10-19 19:36 CEST_
 - **ING Wholesale Banking**: [intern metals mining and fertilizers wholesale banking f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-metals-mining-and-fertilizers-wholesale-banking-f-m-x/3121/45650389120) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant controlling firmenkundengeschaft management reporting and business advice wholesale bank](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-firmenkundengeschaft-management-reporting-and-business-advice-wholesale-bank/3121/41249274048) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant sponsoring and events w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-sponsoring-and-events-w-m-d/3121/44714292672) — Frankfurt Am Main
-- **ING Wholesale Banking**: [praktikant transformation office data driven reporting w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transformation-office-data-driven-reporting-w-m-d/3121/37585216768) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant produktstrategie wertpapiere w m d in frankfurt nurnberg](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-produktstrategie-wertpapiere-w-m-d-in-frankfurt-nurnberg/3121/32707089920) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant digitale vermogensverwaltung w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176) — Frankfurt Am Main
 - **BNP Paribas CIB**: [praktikum all genders im bereich corporate coverage bei corporate institutional banking bc stuttgart](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-corporate-coverage-bei-corporate-institutional-banking-bc-stuttgart/)
