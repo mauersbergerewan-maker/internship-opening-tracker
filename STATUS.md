@@ -1,10 +1,10 @@
 # Internship tracker — live status
 
-_Last check: 2026-10-21 20:46 CEST_
+_Last check: 2026-10-22 00:29 CEST_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | — |
+| Baird | **2 open** |
 | Harris Williams | — |
 | Houlihan Lokey | **2 open** |
 | Rothschild & Co | **1 open** |
@@ -17,7 +17,7 @@ _Last check: 2026-10-21 20:46 CEST_
 | Mizuho \| Greenhill | — |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (61 in a row) |
+| MCF Corporate Finance | ⚠️ source error (62 in a row) |
 | Evercore | **2 open** |
 | Santander CIB | — |
 | ING Wholesale Banking | **5 open** |
@@ -26,6 +26,8 @@ _Last check: 2026-10-21 20:46 CEST_
 
 ## Currently open internships
 
+- **Baird**: [Global Investment Banking – M&A Internship (January - March ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---M-A-Internship--January---March----Frankfurt_R2026795) — GER-Frankfurt
+- **Baird**: [Global Investment Banking – 2027 M&A Internship (April - June ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---2027-M-A-Internship--April---June----Frankfurt_R20261190) — GER-Frankfurt
 - **Houlihan Lokey**: [3 Month Internship -  Financial Restructuring (Q2 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889) — Frankfurt, Germany
 - **Houlihan Lokey**: [3 Month Internship  - Financial Restructuring (Q3 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525) — Frankfurt, Germany
 - **Rothschild & Co**: [germany frankfurt debt advisory restructuring summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-debt-advisory-restructuring-summer-internship-2027/)
@@ -56,6 +58,7 @@ _Last check: 2026-10-21 20:46 CEST_
 
 ## Alert history (newest first)
 
+- 2026-10-22 00:29 — **Baird**: [Global Investment Banking – 2027 M&A Internship (April - June ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---2027-M-A-Internship--April---June----Frankfurt_R20261190)
 - 2026-10-21 15:57 — **BNP Paribas CIB**: [praktikum all genders operational risk permanent control bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-operational-risk-permanent-control-bei-bnp-paribas-corporate-institutional-banking/)
 - 2026-10-09 23:05 — **Evercore**: [2027 Real Estate Strategic Advisory RESA Internship Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/xf-f8a78132bd2d/candidate/so/pm/1/pl/2/opp/3421-2027-Real-Estate-Strategic-Advisory-RESA-Internship-Frankfurt/en-GB)
 - 2026-10-07 18:41 — **ING Wholesale Banking**: [intern metals mining and fertilizers wholesale banking f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-metals-mining-and-fertilizers-wholesale-banking-f-m-x/3121/45650389120)
@@ -85,6 +88,5 @@ _Last check: 2026-10-21 20:46 CEST_
 - 2026-09-01 17:00 — **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - 2026-09-01 17:00 — **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (IT Services)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542)
 - 2026-09-01 17:00 — **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (Technology)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Technology-_R3541)
-- 2026-09-01 12:17 — **Alantra**: [Investment Banking, Q2 2027 M&A Intern (Frankfurt, Germany)](https://alantra.wd3.myworkdayjobs.com/en-US/Alantra/job/Germany---Frankfurt/Investment-Banking--Q2-2027-M-A-Intern--Frankfurt--Germany-_JR486)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
