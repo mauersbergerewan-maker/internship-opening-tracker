@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-10-21 09:50 CEST_
+_Last check: 2026-10-21 15:57 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -17,12 +17,12 @@ _Last check: 2026-10-21 09:50 CEST_
 | Mizuho \| Greenhill | — |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (59 in a row) |
+| MCF Corporate Finance | ⚠️ source error (60 in a row) |
 | Evercore | **2 open** |
 | Santander CIB | — |
 | ING Wholesale Banking | **5 open** |
 | RBC Capital Markets | — |
-| BNP Paribas CIB | **10 open** |
+| BNP Paribas CIB | **11 open** |
 
 ## Currently open internships
 
@@ -52,9 +52,11 @@ _Last check: 2026-10-21 09:50 CEST_
 - **BNP Paribas CIB**: [praktikum all genders group brand communication germany events](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-events/)
 - **BNP Paribas CIB**: [praktikant controlling all genders 2](https://www.bnpparibas.de/en/jobs/praktikant-controlling-all-genders-2/)
 - **BNP Paribas CIB**: [intern all genders leveraged finance germany at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-leveraged-finance-germany-at-bnp-paribas-corporate-institutional-banking/)
+- **BNP Paribas CIB**: [praktikum all genders operational risk permanent control bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-operational-risk-permanent-control-bei-bnp-paribas-corporate-institutional-banking/)
 
 ## Alert history (newest first)
 
+- 2026-10-21 15:57 — **BNP Paribas CIB**: [praktikum all genders operational risk permanent control bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-operational-risk-permanent-control-bei-bnp-paribas-corporate-institutional-banking/)
 - 2026-10-09 23:05 — **Evercore**: [2027 Real Estate Strategic Advisory RESA Internship Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/xf-f8a78132bd2d/candidate/so/pm/1/pl/2/opp/3421-2027-Real-Estate-Strategic-Advisory-RESA-Internship-Frankfurt/en-GB)
 - 2026-10-07 18:41 — **ING Wholesale Banking**: [intern metals mining and fertilizers wholesale banking f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-metals-mining-and-fertilizers-wholesale-banking-f-m-x/3121/45650389120)
 - 2026-10-06 12:33 — **BNP Paribas CIB**: [intern all genders leveraged finance germany at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-leveraged-finance-germany-at-bnp-paribas-corporate-institutional-banking/)
@@ -84,6 +86,5 @@ _Last check: 2026-10-21 09:50 CEST_
 - 2026-09-01 17:00 — **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (IT Services)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542)
 - 2026-09-01 17:00 — **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (Technology)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Technology-_R3541)
 - 2026-09-01 12:17 — **Alantra**: [Investment Banking, Q2 2027 M&A Intern (Frankfurt, Germany)](https://alantra.wd3.myworkdayjobs.com/en-US/Alantra/job/Germany---Frankfurt/Investment-Banking--Q2-2027-M-A-Intern--Frankfurt--Germany-_JR486)
-- 2026-08-31 16:09 — **BNP Paribas CIB**: [praktikum all genders im bereich diversity inclusion and people care bei bnp paribas group hr](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-diversity-inclusion-and-people-care-bei-bnp-paribas-group-hr/)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
