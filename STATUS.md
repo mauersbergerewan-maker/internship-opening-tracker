@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-10-22 15:56 CEST_
+_Last check: 2026-10-22 20:40 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -17,10 +17,10 @@ _Last check: 2026-10-22 15:56 CEST_
 | Mizuho \| Greenhill | — |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (65 in a row) |
-| Evercore | — |
+| MCF Corporate Finance | ⚠️ source error (66 in a row) |
+| Evercore | **2 open** |
 | Santander CIB | — |
-| ING Wholesale Banking | **6 open** |
+| ING Wholesale Banking | **8 open** |
 | RBC Capital Markets | — |
 | BNP Paribas CIB | **9 open** |
 
@@ -36,7 +36,11 @@ _Last check: 2026-10-22 15:56 CEST_
 - **Societe Generale CIB**: [Intern in Coverage / Relationship Management Q4 – M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q4-m-f-d-25000LAB-en) — Frankfurt am Main
 - **Stifel**: [Investment Banking Internship - Q1/Q2 2027 (m/f/x) - Global Technology Group (GTG) - Munich](https://jobs.50skills.com/stifel/44053) — We are currently seeking investment banking interns to
 - **Alantra**: [Investment Banking, Q2 2027 M&A Intern (Frankfurt, Germany)](https://alantra.wd3.myworkdayjobs.com/en-US/Alantra/job/Germany---Frankfurt/Investment-Banking--Q2-2027-M-A-Intern--Frankfurt--Germany-_JR486) — Germany - Frankfurt
+- **Evercore**: [2027 Real Estate Strategic Advisory RESA Internship Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3421-2027-Real-Estate-Strategic-Advisory-RESA-Internship-Frankfurt/en-GB)
+- **Evercore**: [Q4 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3290-Q4-2027-Internship-Programme-Frankfurt/en-GB)
+- **ING Wholesale Banking**: [werkstudent sustainable corporate mobility and fuhrparkmanagement w m d](https://careers.ing.com/en/job/frankfurt-am-main/werkstudent-sustainable-corporate-mobility-and-fuhrparkmanagement-w-m-d/3121/46247740352) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant global capital markets w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-global-capital-markets-w-m-d/3121/25999549248) — Frankfurt Am Main
+- **ING Wholesale Banking**: [praktikant client coverage financial institutions w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-coverage-financial-institutions-w-m-d/3121/22620209280) — Frankfurt Am Main
 - **ING Wholesale Banking**: [intern metals mining and fertilizers wholesale banking f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-metals-mining-and-fertilizers-wholesale-banking-f-m-x/3121/45650389120) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant controlling firmenkundengeschaft management reporting and business advice wholesale bank](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-firmenkundengeschaft-management-reporting-and-business-advice-wholesale-bank/3121/41249274048) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant sponsoring and events w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-sponsoring-and-events-w-m-d/3121/44714292672) — Frankfurt Am Main
@@ -54,6 +58,8 @@ _Last check: 2026-10-22 15:56 CEST_
 
 ## Alert history (newest first)
 
+- 2026-10-22 20:40 — **ING Wholesale Banking**: [praktikant client coverage financial institutions w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-coverage-financial-institutions-w-m-d/3121/22620209280)
+- 2026-10-22 20:40 — **ING Wholesale Banking**: [werkstudent sustainable corporate mobility and fuhrparkmanagement w m d](https://careers.ing.com/en/job/frankfurt-am-main/werkstudent-sustainable-corporate-mobility-and-fuhrparkmanagement-w-m-d/3121/46247740352)
 - 2026-10-22 15:56 — **ING Wholesale Banking**: [praktikant global capital markets w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-global-capital-markets-w-m-d/3121/25999549248)
 - 2026-10-22 00:29 — **Baird**: [Global Investment Banking – 2027 M&A Internship (April - June ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---2027-M-A-Internship--April---June----Frankfurt_R20261190)
 - 2026-10-21 15:57 — **BNP Paribas CIB**: [praktikum all genders operational risk permanent control bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-operational-risk-permanent-control-bei-bnp-paribas-corporate-institutional-banking/)
@@ -82,7 +88,5 @@ _Last check: 2026-10-22 15:56 CEST_
 - 2026-09-03 02:23 — **ING Wholesale Banking**: [praktikant debt capital markets financial institutions origination im bereich wholesale banking w m](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-debt-capital-markets-financial-institutions-origination-im-bereich-wholesale-banking-w-m/3121/43950118784)
 - 2026-09-02 11:44 — **BNP Paribas CIB**: [intern all genders in growth capital solutions at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-growth-capital-solutions-at-bnp-paribas-corporate-institutional-banking/)
 - 2026-09-01 20:39 — **BNP Paribas CIB**: [intern all genders in the global markets data ai lab at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-the-global-markets-data-ai-lab-at-bnp-paribas-corporate-institutional-banking/)
-- 2026-09-01 17:00 — **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
-- 2026-09-01 17:00 — **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (IT Services)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
