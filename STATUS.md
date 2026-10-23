@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-10-23 09:43 CEST_
+_Last check: 2026-10-23 15:37 CEST_
 
 | Firm | Open matching postings |
 |---|---|
@@ -17,12 +17,12 @@ _Last check: 2026-10-23 09:43 CEST_
 | Mizuho \| Greenhill | — |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (69 in a row) |
+| MCF Corporate Finance | ⚠️ source error (70 in a row) |
 | Evercore | **2 open** |
 | Santander CIB | — |
 | ING Wholesale Banking | **8 open** |
 | RBC Capital Markets | — |
-| BNP Paribas CIB | **9 open** |
+| BNP Paribas CIB | **10 open** |
 
 ## Currently open internships
 
@@ -55,9 +55,11 @@ _Last check: 2026-10-23 09:43 CEST_
 - **BNP Paribas CIB**: [intern all genders in corporate coverage at corporate institutional banking bc hamburg](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-corporate-coverage-at-corporate-institutional-banking-bc-hamburg/)
 - **BNP Paribas CIB**: [praktikum all genders group brand communication germany events](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-events/)
 - **BNP Paribas CIB**: [praktikum all genders operational risk permanent control bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-operational-risk-permanent-control-bei-bnp-paribas-corporate-institutional-banking/)
+- **BNP Paribas CIB**: [intern all genders banks and brokers outsourcing at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-banks-and-brokers-outsourcing-at-bnp-paribas-corporate-institutional-banking/)
 
 ## Alert history (newest first)
 
+- 2026-10-23 15:37 — **BNP Paribas CIB**: [intern all genders banks and brokers outsourcing at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-banks-and-brokers-outsourcing-at-bnp-paribas-corporate-institutional-banking/)
 - 2026-10-22 20:40 — **ING Wholesale Banking**: [praktikant client coverage financial institutions w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-coverage-financial-institutions-w-m-d/3121/22620209280)
 - 2026-10-22 20:40 — **ING Wholesale Banking**: [werkstudent sustainable corporate mobility and fuhrparkmanagement w m d](https://careers.ing.com/en/job/frankfurt-am-main/werkstudent-sustainable-corporate-mobility-and-fuhrparkmanagement-w-m-d/3121/46247740352)
 - 2026-10-22 15:56 — **ING Wholesale Banking**: [praktikant global capital markets w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-global-capital-markets-w-m-d/3121/25999549248)
@@ -87,6 +89,5 @@ _Last check: 2026-10-23 09:43 CEST_
 - 2026-09-04 16:26 — **BNP Paribas CIB**: [praktikum all genders in corporate lending advisory bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-in-corporate-lending-advisory-bei-bnp-paribas-corporate-institutional-banking/)
 - 2026-09-03 02:23 — **ING Wholesale Banking**: [praktikant debt capital markets financial institutions origination im bereich wholesale banking w m](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-debt-capital-markets-financial-institutions-origination-im-bereich-wholesale-banking-w-m/3121/43950118784)
 - 2026-09-02 11:44 — **BNP Paribas CIB**: [intern all genders in growth capital solutions at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-growth-capital-solutions-at-bnp-paribas-corporate-institutional-banking/)
-- 2026-09-01 20:39 — **BNP Paribas CIB**: [intern all genders in the global markets data ai lab at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-the-global-markets-data-ai-lab-at-bnp-paribas-corporate-institutional-banking/)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
