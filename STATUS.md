@@ -1,12 +1,12 @@
 # Internship tracker — live status
 
-_Last check: 2026-10-23 15:37 CEST_
+_Last check: 2026-10-23 20:30 CEST_
 
 | Firm | Open matching postings |
 |---|---|
 | Baird | **1 open** |
 | Harris Williams | — |
-| Houlihan Lokey | **2 open** |
+| Houlihan Lokey | **3 open** |
 | Rothschild & Co | **1 open** |
 | Jefferies | **1 open** |
 | Macquarie | **2 open** |
@@ -17,10 +17,10 @@ _Last check: 2026-10-23 15:37 CEST_
 | Mizuho \| Greenhill | — |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (70 in a row) |
+| MCF Corporate Finance | ⚠️ source error (71 in a row) |
 | Evercore | **2 open** |
 | Santander CIB | — |
-| ING Wholesale Banking | **8 open** |
+| ING Wholesale Banking | **9 open** |
 | RBC Capital Markets | — |
 | BNP Paribas CIB | **10 open** |
 
@@ -29,6 +29,7 @@ _Last check: 2026-10-23 15:37 CEST_
 - **Baird**: [Global Investment Banking – 2027 M&A Internship (April - June ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---2027-M-A-Internship--April---June----Frankfurt_R20261190) — GER-Frankfurt
 - **Houlihan Lokey**: [3 Month Internship -  Financial Restructuring (Q2 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889) — Frankfurt, Germany
 - **Houlihan Lokey**: [3 Month Internship  - Financial Restructuring (Q3 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525) — Frankfurt, Germany
+- **Houlihan Lokey**: [6 Month Off-Cycle Intern, Real Estate Capital Solutions, Q1 Munich](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Munich-Germany/XMLNAME-6-Month-Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q1-Munich_R3561) — Munich, Germany
 - **Rothschild & Co**: [germany frankfurt debt advisory restructuring summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-debt-advisory-restructuring-summer-internship-2027/)
 - **Jefferies**: [2027 Risk Management 12 Month Placement Intern Frankfurt June 2027 Start](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1979-2027-Risk-Management-12-Month-Placement-Intern-Frankfurt-June-2027-Start/en-GB)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
@@ -38,6 +39,7 @@ _Last check: 2026-10-23 15:37 CEST_
 - **Alantra**: [Investment Banking, Q2 2027 M&A Intern (Frankfurt, Germany)](https://alantra.wd3.myworkdayjobs.com/en-US/Alantra/job/Germany---Frankfurt/Investment-Banking--Q2-2027-M-A-Intern--Frankfurt--Germany-_JR486) — Germany - Frankfurt
 - **Evercore**: [2027 Real Estate Strategic Advisory RESA Internship Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3421-2027-Real-Estate-Strategic-Advisory-RESA-Internship-Frankfurt/en-GB)
 - **Evercore**: [Q4 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3290-Q4-2027-Internship-Programme-Frankfurt/en-GB)
+- **ING Wholesale Banking**: [praktikant payroll m w d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-payroll-m-w-d/3121/46286546624) — Frankfurt Am Main
 - **ING Wholesale Banking**: [werkstudent sustainable corporate mobility and fuhrparkmanagement w m d](https://careers.ing.com/en/job/frankfurt-am-main/werkstudent-sustainable-corporate-mobility-and-fuhrparkmanagement-w-m-d/3121/46247740352) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant global capital markets w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-global-capital-markets-w-m-d/3121/25999549248) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant client coverage financial institutions w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-coverage-financial-institutions-w-m-d/3121/22620209280) — Frankfurt Am Main
@@ -59,6 +61,8 @@ _Last check: 2026-10-23 15:37 CEST_
 
 ## Alert history (newest first)
 
+- 2026-10-23 20:30 — **ING Wholesale Banking**: [praktikant payroll m w d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-payroll-m-w-d/3121/46286546624)
+- 2026-10-23 20:30 — **Houlihan Lokey**: [6 Month Off-Cycle Intern, Real Estate Capital Solutions, Q1 Munich](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Munich-Germany/XMLNAME-6-Month-Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q1-Munich_R3561)
 - 2026-10-23 15:37 — **BNP Paribas CIB**: [intern all genders banks and brokers outsourcing at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-banks-and-brokers-outsourcing-at-bnp-paribas-corporate-institutional-banking/)
 - 2026-10-22 20:40 — **ING Wholesale Banking**: [praktikant client coverage financial institutions w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-coverage-financial-institutions-w-m-d/3121/22620209280)
 - 2026-10-22 20:40 — **ING Wholesale Banking**: [werkstudent sustainable corporate mobility and fuhrparkmanagement w m d](https://careers.ing.com/en/job/frankfurt-am-main/werkstudent-sustainable-corporate-mobility-and-fuhrparkmanagement-w-m-d/3121/46247740352)
@@ -87,7 +91,5 @@ _Last check: 2026-10-23 15:37 CEST_
 - 2026-09-10 02:20 — **ING Wholesale Banking**: [praktikant transformation office data driven reporting w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transformation-office-data-driven-reporting-w-m-d/3121/37585216768)
 - 2026-09-09 20:44 — **Evercore**: [Q4 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/xf-137944891881/candidate/so/pm/1/pl/2/opp/3290-Q4-2027-Internship-Programme-Frankfurt/en-GB)
 - 2026-09-04 16:26 — **BNP Paribas CIB**: [praktikum all genders in corporate lending advisory bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-in-corporate-lending-advisory-bei-bnp-paribas-corporate-institutional-banking/)
-- 2026-09-03 02:23 — **ING Wholesale Banking**: [praktikant debt capital markets financial institutions origination im bereich wholesale banking w m](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-debt-capital-markets-financial-institutions-origination-im-bereich-wholesale-banking-w-m/3121/43950118784)
-- 2026-09-02 11:44 — **BNP Paribas CIB**: [intern all genders in growth capital solutions at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-growth-capital-solutions-at-bnp-paribas-corporate-institutional-banking/)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
