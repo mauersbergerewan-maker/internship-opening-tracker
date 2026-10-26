@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-10-26 07:27 CET_
+_Last check: 2026-10-26 15:25 CET_
 
 | Firm | Open matching postings |
 |---|---|
@@ -8,7 +8,7 @@ _Last check: 2026-10-26 07:27 CET_
 | Harris Williams | — |
 | Houlihan Lokey | **3 open** |
 | Rothschild & Co | **1 open** |
-| Jefferies | — |
+| Jefferies | ⚠️ source error (2 in a row) |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **1 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -17,10 +17,10 @@ _Last check: 2026-10-26 07:27 CET_
 | Mizuho \| Greenhill | — |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (86 in a row) |
-| Evercore | ⚠️ source error (8 in a row) |
+| MCF Corporate Finance | ⚠️ source error (87 in a row) |
+| Evercore | ⚠️ source error (9 in a row) |
 | Santander CIB | — |
-| ING Wholesale Banking | **9 open** |
+| ING Wholesale Banking | **8 open** |
 | RBC Capital Markets | — |
 | BNP Paribas CIB | **10 open** |
 
@@ -42,7 +42,6 @@ _Last check: 2026-10-26 07:27 CET_
 - **ING Wholesale Banking**: [praktikant client coverage financial institutions w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-coverage-financial-institutions-w-m-d/3121/22620209280) — Frankfurt Am Main
 - **ING Wholesale Banking**: [intern metals mining and fertilizers wholesale banking f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-metals-mining-and-fertilizers-wholesale-banking-f-m-x/3121/45650389120) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant controlling firmenkundengeschaft management reporting and business advice wholesale bank](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-firmenkundengeschaft-management-reporting-and-business-advice-wholesale-bank/3121/41249274048) — Frankfurt Am Main
-- **ING Wholesale Banking**: [praktikant sponsoring and events w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-sponsoring-and-events-w-m-d/3121/44714292672) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant produktstrategie wertpapiere w m d in frankfurt nurnberg](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-produktstrategie-wertpapiere-w-m-d-in-frankfurt-nurnberg/3121/32707089920) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant digitale vermogensverwaltung w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176) — Frankfurt Am Main
 - **BNP Paribas CIB**: [praktikum all genders im bereich corporate coverage bei corporate institutional banking bc stuttgart](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-corporate-coverage-bei-corporate-institutional-banking-bc-stuttgart/)
