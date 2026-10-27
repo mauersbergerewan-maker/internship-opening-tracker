@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-10-27 19:50 CET_
+_Last check: 2026-10-28 00:01 CET_
 
 | Firm | Open matching postings |
 |---|---|
@@ -8,7 +8,7 @@ _Last check: 2026-10-27 19:50 CET_
 | Harris Williams | — |
 | Houlihan Lokey | **3 open** |
 | Rothschild & Co | **1 open** |
-| Jefferies | ⚠️ source error (4 in a row) |
+| Jefferies | ⚠️ source error (5 in a row) |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **1 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -17,8 +17,8 @@ _Last check: 2026-10-27 19:50 CET_
 | Mizuho \| Greenhill | — |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (92 in a row) |
-| Evercore | ⚠️ source error (14 in a row) |
+| MCF Corporate Finance | ⚠️ source error (93 in a row) |
+| Evercore | ⚠️ source error (15 in a row) |
 | Santander CIB | — |
 | ING Wholesale Banking | **7 open** |
 | RBC Capital Markets | — |
