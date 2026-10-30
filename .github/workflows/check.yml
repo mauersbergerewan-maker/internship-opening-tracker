@@ -2,8 +2,8 @@ name: Internship check
 
 on:
   schedule:
-    # hourly at :23 (off-peak minute reduces GitHub cron drift)
-    - cron: "23 * * * *"
+    # every 15 min on off-peak minutes (GitHub drops many scheduled runs: hourly gave ~5 runs/day)
+    - cron: "8,23,38,53 * * * *"
   workflow_dispatch:
 
 permissions:
