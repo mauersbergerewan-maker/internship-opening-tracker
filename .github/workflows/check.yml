@@ -19,6 +19,9 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          # a queued run must start from the latest state, or its push is rejected
+          ref: main
 
       - name: Run tracker
         env:
