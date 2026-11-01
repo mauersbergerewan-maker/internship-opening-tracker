@@ -1,14 +1,14 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-01 20:37 CET_
+_Last check: 2026-11-02 00:05 CET_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | **1 open** |
+| Baird | **2 open** |
 | Harris Williams | — |
 | Houlihan Lokey | **4 open** |
 | Rothschild & Co | **1 open** |
-| Jefferies | **1 open** |
+| Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **1 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -17,8 +17,8 @@ _Last check: 2026-11-01 20:37 CET_
 | Mizuho \| Greenhill | — |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (114 in a row) |
-| Evercore | — |
+| MCF Corporate Finance | ⚠️ source error (115 in a row) |
+| Evercore | ⚠️ source error (2 in a row) |
 | Santander CIB | — |
 | ING Wholesale Banking | **8 open** |
 | RBC Capital Markets | — |
@@ -27,12 +27,12 @@ _Last check: 2026-11-01 20:37 CET_
 ## Currently open internships
 
 - **Baird**: [Global Investment Banking – 2027 M&A Internship (April - June ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---2027-M-A-Internship--April---June----Frankfurt_R20261190) — GER-Frankfurt
+- **Baird**: [2027 Global Investment Banking – M&A Internship (April - July ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---M-A-Internship--April---July----Frankfurt_R2026999) — GER-Frankfurt
 - **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (IT Services)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542) — Frankfurt, Germany
 - **Houlihan Lokey**: [3 Month Internship -  Financial Restructuring (Q2 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889) — Frankfurt, Germany
 - **Houlihan Lokey**: [3 Month Internship  - Financial Restructuring (Q3 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525) — Frankfurt, Germany
 - **Houlihan Lokey**: [6 Month Off-Cycle Intern, Real Estate Capital Solutions, Q1 Munich](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Munich-Germany/XMLNAME-6-Month-Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q1-Munich_R3561) — Munich, Germany
 - **Rothschild & Co**: [germany frankfurt debt advisory restructuring summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-debt-advisory-restructuring-summer-internship-2027/)
-- **Jefferies**: [2027 Risk Management 12 Month Placement Intern Frankfurt June 2027 Start](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1979-2027-Risk-Management-12-Month-Placement-Intern-Frankfurt-June-2027-Start/en-GB)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Societe Generale CIB**: [Intern in Coverage / Relationship Management Q4 – M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q4-m-f-d-25000LAB-en) — Frankfurt am Main
@@ -58,6 +58,7 @@ _Last check: 2026-11-01 20:37 CET_
 
 ## Alert history (newest first)
 
+- 2026-11-02 00:05 — **Baird**: [2027 Global Investment Banking – M&A Internship (April - July ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---M-A-Internship--April---July----Frankfurt_R2026999)
 - 2026-10-27 14:23 — **BNP Paribas CIB**: [praktikum all genders corporate coverage bei corporate institutional banking bc hannover](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-bei-corporate-institutional-banking-bc-hannover/)
 - 2026-10-23 20:30 — **ING Wholesale Banking**: [praktikant payroll m w d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-payroll-m-w-d/3121/46286546624)
 - 2026-10-23 20:30 — **Houlihan Lokey**: [6 Month Off-Cycle Intern, Real Estate Capital Solutions, Q1 Munich](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Munich-Germany/XMLNAME-6-Month-Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q1-Munich_R3561)
@@ -87,6 +88,5 @@ _Last check: 2026-11-01 20:37 CET_
 - 2026-09-11 16:31 — **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (Industrials)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Industrials-_R3543)
 - 2026-09-10 16:31 — **ING Wholesale Banking**: [praktikant structured export finance w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-structured-export-finance-w-m-d/3121/44417630784)
 - 2026-09-10 02:20 — **ING Wholesale Banking**: [praktikant transformation office data driven reporting w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transformation-office-data-driven-reporting-w-m-d/3121/37585216768)
-- 2026-09-09 20:44 — **Evercore**: [Q4 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/xf-137944891881/candidate/so/pm/1/pl/2/opp/3290-Q4-2027-Internship-Programme-Frankfurt/en-GB)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
