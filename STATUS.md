@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-02 00:05 CET_
+_Last check: 2026-11-02 03:27 CET_
 
 | Firm | Open matching postings |
 |---|---|
@@ -8,7 +8,7 @@ _Last check: 2026-11-02 00:05 CET_
 | Harris Williams | — |
 | Houlihan Lokey | **4 open** |
 | Rothschild & Co | **1 open** |
-| Jefferies | — |
+| Jefferies | ⚠️ source error (2 in a row) |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **1 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -17,8 +17,8 @@ _Last check: 2026-11-02 00:05 CET_
 | Mizuho \| Greenhill | — |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (115 in a row) |
-| Evercore | ⚠️ source error (2 in a row) |
+| MCF Corporate Finance | ⚠️ source error (116 in a row) |
+| Evercore | ⚠️ source error (3 in a row) |
 | Santander CIB | — |
 | ING Wholesale Banking | **8 open** |
 | RBC Capital Markets | — |
@@ -26,8 +26,8 @@ _Last check: 2026-11-02 00:05 CET_
 
 ## Currently open internships
 
-- **Baird**: [Global Investment Banking – 2027 M&A Internship (April - June ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---2027-M-A-Internship--April---June----Frankfurt_R20261190) — GER-Frankfurt
 - **Baird**: [2027 Global Investment Banking – M&A Internship (April - July ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---M-A-Internship--April---July----Frankfurt_R2026999) — GER-Frankfurt
+- **Baird**: [Global Investment Banking – 2027 M&A Internship (April - June ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---2027-M-A-Internship--April---June----Frankfurt_R20261190) — GER-Frankfurt
 - **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (IT Services)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542) — Frankfurt, Germany
 - **Houlihan Lokey**: [3 Month Internship -  Financial Restructuring (Q2 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889) — Frankfurt, Germany
 - **Houlihan Lokey**: [3 Month Internship  - Financial Restructuring (Q3 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525) — Frankfurt, Germany
