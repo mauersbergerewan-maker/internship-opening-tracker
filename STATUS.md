@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-02 10:56 CET_
+_Last check: 2026-11-02 21:19 CET_
 
 | Firm | Open matching postings |
 |---|---|
@@ -8,7 +8,7 @@ _Last check: 2026-11-02 10:56 CET_
 | Harris Williams | — |
 | Houlihan Lokey | **4 open** |
 | Rothschild & Co | **1 open** |
-| Jefferies | ⚠️ source error (3 in a row) |
+| Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **1 open** |
 | Victoria Partners | 👁 watching page for changes |
@@ -17,12 +17,12 @@ _Last check: 2026-11-02 10:56 CET_
 | Mizuho \| Greenhill | — |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (117 in a row) |
-| Evercore | ⚠️ source error (4 in a row) |
+| MCF Corporate Finance | ⚠️ source error (118 in a row) |
+| Evercore | ⚠️ source error (5 in a row) |
 | Santander CIB | — |
 | ING Wholesale Banking | **8 open** |
 | RBC Capital Markets | — |
-| BNP Paribas CIB | **9 open** |
+| BNP Paribas CIB | **10 open** |
 
 ## Currently open internships
 
@@ -55,9 +55,11 @@ _Last check: 2026-11-02 10:56 CET_
 - **BNP Paribas CIB**: [praktikum all genders corporate coverage bei corporate institutional banking bc hannover](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-bei-corporate-institutional-banking-bc-hannover/)
 - **BNP Paribas CIB**: [praktikum all genders im bereich corporate coverage bei corporate institutional banking bc stuttgart](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-corporate-coverage-bei-corporate-institutional-banking-bc-stuttgart/)
 - **BNP Paribas CIB**: [intern all genders in investment compliance at bnp paribas securities services](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-investment-compliance-at-bnp-paribas-securities-services/)
+- **BNP Paribas CIB**: [intern private equity all genders](https://www.bnpparibas.de/en/jobs/intern-private-equity-all-genders/)
 
 ## Alert history (newest first)
 
+- 2026-11-02 21:19 — **BNP Paribas CIB**: [intern private equity all genders](https://www.bnpparibas.de/en/jobs/intern-private-equity-all-genders/)
 - 2026-11-02 00:05 — **Baird**: [2027 Global Investment Banking – M&A Internship (April - July ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---M-A-Internship--April---July----Frankfurt_R2026999)
 - 2026-10-27 14:23 — **BNP Paribas CIB**: [praktikum all genders corporate coverage bei corporate institutional banking bc hannover](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-bei-corporate-institutional-banking-bc-hannover/)
 - 2026-10-23 20:30 — **ING Wholesale Banking**: [praktikant payroll m w d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-payroll-m-w-d/3121/46286546624)
@@ -87,6 +89,5 @@ _Last check: 2026-11-02 10:56 CET_
 - 2026-09-14 16:16 — **Houlihan Lokey**: [Financial Restructuring Off-Cycle Internship (Q1/Q2)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525)
 - 2026-09-11 16:31 — **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (Industrials)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Industrials-_R3543)
 - 2026-09-10 16:31 — **ING Wholesale Banking**: [praktikant structured export finance w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-structured-export-finance-w-m-d/3121/44417630784)
-- 2026-09-10 02:20 — **ING Wholesale Banking**: [praktikant transformation office data driven reporting w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transformation-office-data-driven-reporting-w-m-d/3121/37585216768)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
