@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-03 18:47 CET_
+_Last check: 2026-11-03 23:37 CET_
 
 | Firm | Open matching postings |
 |---|---|
@@ -8,17 +8,17 @@ _Last check: 2026-11-03 18:47 CET_
 | Harris Williams | — |
 | Houlihan Lokey | **4 open** |
 | Rothschild & Co | **1 open** |
-| Jefferies | ⚠️ source error (2 in a row) |
+| Jefferies | ⚠️ source error (3 in a row) |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **1 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
 | Alantra | **1 open** |
-| Mizuho \| Greenhill | — |
+| Mizuho \| Greenhill | **1 open** |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (121 in a row) |
-| Evercore | ⚠️ source error (8 in a row) |
+| MCF Corporate Finance | ⚠️ source error (122 in a row) |
+| Evercore | ⚠️ source error (9 in a row) |
 | Santander CIB | — |
 | ING Wholesale Banking | **8 open** |
 | RBC Capital Markets | — |
@@ -37,6 +37,7 @@ _Last check: 2026-11-03 18:47 CET_
 - **Societe Generale CIB**: [Intern in Coverage / Relationship Management Q4 – M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q4-m-f-d-25000LAB-en) — Frankfurt am Main
 - **Stifel**: [Investment Banking Internship - Q1/Q2 2027 (m/f/x) - Global Technology Group (GTG) - Munich](https://jobs.50skills.com/stifel/44053) — We are currently seeking investment banking interns to
 - **Alantra**: [Investment Banking, Q2 2027 M&A Intern (Frankfurt, Germany)](https://alantra.wd3.myworkdayjobs.com/en-US/Alantra/job/Germany---Frankfurt/Investment-Banking--Q2-2027-M-A-Intern--Frankfurt--Germany-_JR486) — Germany - Frankfurt
+- **Mizuho | Greenhill**: [Mizuho | Greenhill – Intern – Frankfurt (Q3 / Q4 2027)](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuhoamericas/job/Germany---Frankfurt/Mizuho---Greenhill---Intern---Frankfurt--Q3---Q4-2027-_R7524) — Germany - Frankfurt
 - **ING Wholesale Banking**: [praktikant transaction service sales wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-service-sales-wholesale-banking-w-m-d/3121/43201372352) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant payroll m w d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-payroll-m-w-d/3121/46286546624) — Frankfurt Am Main
 - **ING Wholesale Banking**: [werkstudent sustainable corporate mobility and fuhrparkmanagement w m d](https://careers.ing.com/en/job/frankfurt-am-main/werkstudent-sustainable-corporate-mobility-and-fuhrparkmanagement-w-m-d/3121/46247740352) — Frankfurt Am Main
@@ -57,6 +58,7 @@ _Last check: 2026-11-03 18:47 CET_
 
 ## Alert history (newest first)
 
+- 2026-11-03 23:37 — **Mizuho | Greenhill**: [Mizuho | Greenhill – Intern – Frankfurt (Q3 / Q4 2027)](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuhoamericas/job/Germany---Frankfurt/Mizuho---Greenhill---Intern---Frankfurt--Q3---Q4-2027-_R7524)
 - 2026-11-02 21:19 — **BNP Paribas CIB**: [intern private equity all genders](https://www.bnpparibas.de/en/jobs/intern-private-equity-all-genders/)
 - 2026-11-02 00:05 — **Baird**: [2027 Global Investment Banking – M&A Internship (April - July ), Frankfurt](https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/GER-Frankfurt/Global-Investment-Banking---M-A-Internship--April---July----Frankfurt_R2026999)
 - 2026-10-27 14:23 — **BNP Paribas CIB**: [praktikum all genders corporate coverage bei corporate institutional banking bc hannover](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-bei-corporate-institutional-banking-bc-hannover/)
@@ -86,6 +88,5 @@ _Last check: 2026-11-03 18:47 CET_
 - 2026-09-14 16:16 — **Jefferies**: [2027 Risk Management 12 Month Placement Intern Frankfurt June 2027 Start](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-cc4b260e98f9/candidate/so/pm/1/pl/2/opp/1979-2027-Risk-Management-12-Month-Placement-Intern-Frankfurt-June-2027-Start/en-GB)
 - 2026-09-14 16:16 — **Houlihan Lokey**: [Financial Restructuring Off-Cycle Internship (Q1/Q2)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525)
 - 2026-09-11 16:31 — **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (Industrials)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Industrials-_R3543)
-- 2026-09-10 16:31 — **ING Wholesale Banking**: [praktikant structured export finance w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-structured-export-finance-w-m-d/3121/44417630784)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
