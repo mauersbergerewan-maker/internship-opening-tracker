@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-02 21:19 CET_
+_Last check: 2026-11-03 03:29 CET_
 
 | Firm | Open matching postings |
 |---|---|
@@ -17,8 +17,8 @@ _Last check: 2026-11-02 21:19 CET_
 | Mizuho \| Greenhill | — |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (118 in a row) |
-| Evercore | ⚠️ source error (5 in a row) |
+| MCF Corporate Finance | ⚠️ source error (119 in a row) |
+| Evercore | ⚠️ source error (6 in a row) |
 | Santander CIB | — |
 | ING Wholesale Banking | **8 open** |
 | RBC Capital Markets | — |
