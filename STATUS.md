@@ -1,13 +1,13 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-09 10:57 CET_
+_Last check: 2026-11-09 21:40 CET_
 
 | Firm | Open matching postings |
 |---|---|
 | Baird | — |
 | Harris Williams | — |
 | Houlihan Lokey | **4 open** |
-| Rothschild & Co | **1 open** |
+| Rothschild & Co | — |
 | Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **1 open** |
@@ -17,7 +17,7 @@ _Last check: 2026-11-09 10:57 CET_
 | Mizuho \| Greenhill | **1 open** |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (145 in a row) |
+| MCF Corporate Finance | ⚠️ source error (146 in a row) |
 | Evercore | **2 open** |
 | Santander CIB | — |
 | ING Wholesale Banking | **11 open** |
@@ -30,7 +30,6 @@ _Last check: 2026-11-09 10:57 CET_
 - **Houlihan Lokey**: [3 Month Internship -  Financial Restructuring (Q2 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889) — Frankfurt, Germany
 - **Houlihan Lokey**: [3 Month Internship  - Financial Restructuring (Q3 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525) — Frankfurt, Germany
 - **Houlihan Lokey**: [6 Month Off-Cycle Intern, Real Estate Capital Solutions, Q1 Munich](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Munich-Germany/XMLNAME-6-Month-Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q1-Munich_R3561) — Munich, Germany
-- **Rothschild & Co**: [germany frankfurt debt advisory restructuring summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-debt-advisory-restructuring-summer-internship-2027/)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Societe Generale CIB**: [Intern in Coverage / Relationship Management Q4 – M/F/D](https://careers.societegenerale.com/en/job-offers/intern-in-coverage-relationship-management-q4-m-f-d-25000LAB-en) — Frankfurt am Main
