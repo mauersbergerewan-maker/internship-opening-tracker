@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-10 12:02 CET_
+_Last check: 2026-11-10 19:39 CET_
 
 | Firm | Open matching postings |
 |---|---|
@@ -17,12 +17,12 @@ _Last check: 2026-11-10 12:02 CET_
 | Mizuho \| Greenhill | **1 open** |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (148 in a row) |
+| MCF Corporate Finance | ⚠️ source error (149 in a row) |
 | Evercore | **2 open** |
 | Santander CIB | — |
-| ING Wholesale Banking | **11 open** |
+| ING Wholesale Banking | **10 open** |
 | RBC Capital Markets | — |
-| BNP Paribas CIB | **10 open** |
+| BNP Paribas CIB | **11 open** |
 
 ## Currently open internships
 
@@ -43,12 +43,12 @@ _Last check: 2026-11-10 12:02 CET_
 - **ING Wholesale Banking**: [praktikant data governance privacy and ai regulation w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-data-governance-privacy-and-ai-regulation-w-m-d/3121/46616432896) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant transaction service sales wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-service-sales-wholesale-banking-w-m-d/3121/43201372352) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant payroll m w d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-payroll-m-w-d/3121/46286546624) — Frankfurt Am Main
-- **ING Wholesale Banking**: [werkstudent sustainable corporate mobility and fuhrparkmanagement w m d](https://careers.ing.com/en/job/frankfurt-am-main/werkstudent-sustainable-corporate-mobility-and-fuhrparkmanagement-w-m-d/3121/46247740352) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant global capital markets w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-global-capital-markets-w-m-d/3121/25999549248) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant client coverage financial institutions w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-coverage-financial-institutions-w-m-d/3121/22620209280) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant controlling firmenkundengeschaft management reporting and business advice wholesale bank](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-firmenkundengeschaft-management-reporting-and-business-advice-wholesale-bank/3121/41249274048) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant produktstrategie wertpapiere w m d in frankfurt nurnberg](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-produktstrategie-wertpapiere-w-m-d-in-frankfurt-nurnberg/3121/32707089920) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant digitale vermogensverwaltung w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176) — Frankfurt Am Main
+- **BNP Paribas CIB**: [intern all genders in the global markets data ai lab at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-the-global-markets-data-ai-lab-at-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [praktikum all genders im bereich diversity inclusion and people care bei bnp paribas group hr](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-diversity-inclusion-and-people-care-bei-bnp-paribas-group-hr/)
 - **BNP Paribas CIB**: [praktikum all genders group brand communication germany communication](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-communication/)
 - **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q4 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q4-2027/)
