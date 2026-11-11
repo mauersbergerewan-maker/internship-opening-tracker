@@ -1,6 +1,6 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-11 12:15 CET_
+_Last check: 2026-11-11 19:47 CET_
 
 | Firm | Open matching postings |
 |---|---|
@@ -17,12 +17,12 @@ _Last check: 2026-11-11 12:15 CET_
 | Mizuho \| Greenhill | **1 open** |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (152 in a row) |
+| MCF Corporate Finance | ⚠️ source error (153 in a row) |
 | Evercore | **2 open** |
 | Santander CIB | — |
 | ING Wholesale Banking | **10 open** |
 | RBC Capital Markets | — |
-| BNP Paribas CIB | **10 open** |
+| BNP Paribas CIB | **9 open** |
 
 ## Currently open internships
 
@@ -55,7 +55,6 @@ _Last check: 2026-11-11 12:15 CET_
 - **BNP Paribas CIB**: [praktikum all genders operational risk permanent control bei bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-operational-risk-permanent-control-bei-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [intern all genders banks and brokers outsourcing at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-banks-and-brokers-outsourcing-at-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [praktikum all genders corporate coverage bei corporate institutional banking bc hannover](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-bei-corporate-institutional-banking-bc-hannover/)
-- **BNP Paribas CIB**: [praktikum all genders im bereich corporate coverage bei corporate institutional banking bc stuttgart](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-corporate-coverage-bei-corporate-institutional-banking-bc-stuttgart/)
 - **BNP Paribas CIB**: [intern all genders in investment compliance at bnp paribas securities services](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-investment-compliance-at-bnp-paribas-securities-services/)
 - **BNP Paribas CIB**: [praktikum all genders im bereich global markets institutional sales equity derivatives](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-global-markets-institutional-sales-equity-derivatives/)
 
