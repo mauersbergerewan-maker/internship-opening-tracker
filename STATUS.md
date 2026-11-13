@@ -1,11 +1,11 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-13 19:20 CET_
+_Last check: 2026-11-14 00:44 CET_
 
 | Firm | Open matching postings |
 |---|---|
 | Baird | — |
-| Harris Williams | **1 open** |
+| Harris Williams | — |
 | Houlihan Lokey | **4 open** |
 | Rothschild & Co | — |
 | Jefferies | — |
@@ -17,7 +17,7 @@ _Last check: 2026-11-13 19:20 CET_
 | Mizuho \| Greenhill | **1 open** |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (160 in a row) |
+| MCF Corporate Finance | ⚠️ source error (161 in a row) |
 | Evercore | **1 open** |
 | Santander CIB | — |
 | ING Wholesale Banking | **10 open** |
@@ -26,7 +26,6 @@ _Last check: 2026-11-13 19:20 CET_
 
 ## Currently open internships
 
-- **Harris Williams**: [Frankfurt Off-Cycle Analyst Programme](https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/Harris-Williams-Frankfurt---Marienturm-GE002/Frankfurt-Off-Cycle-Analyst-Programme-2025_R178055) — Harris Williams Frankfurt - Marienturm (GE002)
 - **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (IT Services)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542) — Frankfurt, Germany
 - **Houlihan Lokey**: [3 Month Internship -  Financial Restructuring (Q2 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889) — Frankfurt, Germany
 - **Houlihan Lokey**: [3 Month Internship  - Financial Restructuring (Q3 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525) — Frankfurt, Germany
