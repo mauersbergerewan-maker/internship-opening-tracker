@@ -1,12 +1,12 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-15 08:57 CET_
+_Last check: 2026-11-15 16:38 CET_
 
 | Firm | Open matching postings |
 |---|---|
 | Baird | — |
 | Harris Williams | **1 open** |
-| Houlihan Lokey | **4 open** |
+| Houlihan Lokey | **5 open** |
 | Rothschild & Co | — |
 | Jefferies | — |
 | Macquarie | **2 open** |
@@ -17,7 +17,7 @@ _Last check: 2026-11-15 08:57 CET_
 | Mizuho \| Greenhill | **1 open** |
 | Riverside Company | — |
 | PJT Partners | — |
-| MCF Corporate Finance | ⚠️ source error (167 in a row) |
+| MCF Corporate Finance | ⚠️ source error (168 in a row) |
 | Evercore | **1 open** |
 | Santander CIB | — |
 | ING Wholesale Banking | **10 open** |
@@ -27,6 +27,7 @@ _Last check: 2026-11-15 08:57 CET_
 ## Currently open internships
 
 - **Harris Williams**: [Frankfurt Off-Cycle Analyst Programme](https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/Harris-Williams-Frankfurt---Marienturm-GE002/Frankfurt-Off-Cycle-Analyst-Programme-2025_R178055) — Harris Williams Frankfurt - Marienturm (GE002)
+- **Houlihan Lokey**: [Off-Cycle Intern - Capital Solutions, Debt Advisory (Q2, 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Debt-Advisory--Q1--2027-_R3443) — Frankfurt, Germany
 - **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (IT Services)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542) — Frankfurt, Germany
 - **Houlihan Lokey**: [3 Month Internship -  Financial Restructuring (Q2 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889) — Frankfurt, Germany
 - **Houlihan Lokey**: [3 Month Internship  - Financial Restructuring (Q3 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525) — Frankfurt, Germany
