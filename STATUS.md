@@ -1,25 +1,25 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-17 18:52 CET_
+_Last check: 2026-11-18 01:20 CET_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | ⚠️ source error (4 in a row) |
-| Harris Williams | ⚠️ source error (4 in a row) |
-| Houlihan Lokey | ⚠️ source error (4 in a row) |
-| Rothschild & Co | ⚠️ source error (4 in a row) |
+| Baird | ⚠️ source error (5 in a row) |
+| Harris Williams | ⚠️ source error (5 in a row) |
+| Houlihan Lokey | ⚠️ source error (5 in a row) |
+| Rothschild & Co | ⚠️ source error (5 in a row) |
 | Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | — |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
-| Alantra | **1 open** |
-| Mizuho \| Greenhill | ⚠️ source error (2 in a row) |
+| Alantra | — |
+| Mizuho \| Greenhill | ⚠️ source error (3 in a row) |
 | Riverside Company | — |
-| PJT Partners | ⚠️ source error (2 in a row) |
-| MCF Corporate Finance | ⚠️ source error (175 in a row) |
+| PJT Partners | ⚠️ source error (3 in a row) |
+| MCF Corporate Finance | ⚠️ source error (176 in a row) |
 | Evercore | **1 open** |
-| Santander CIB | ⚠️ source error (4 in a row) |
+| Santander CIB | ⚠️ source error (5 in a row) |
 | ING Wholesale Banking | **9 open** |
 | RBC Capital Markets | — |
 | BNP Paribas CIB | **9 open** |
@@ -30,7 +30,6 @@ _Last check: 2026-11-17 18:52 CET_
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Stifel**: [Investment Banking Internship - Q1/Q2 2027 (m/f/x) - Global Technology Group (GTG) - Munich](https://jobs.50skills.com/stifel/44053) — We are currently seeking investment banking interns to
-- **Alantra**: [Investment Banking, Q2 2027 M&A Intern (Frankfurt, Germany)](https://alantra.wd3.myworkdayjobs.com/en-US/Alantra/job/Germany---Frankfurt/Investment-Banking--Q2-2027-M-A-Intern--Frankfurt--Germany-_JR486) — Germany - Frankfurt
 - **Evercore**: [Q4 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3290-Q4-2027-Internship-Programme-Frankfurt/en-GB)
 - **ING Wholesale Banking**: [praktikant schuldschein syndicate w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-schuldschein-syndicate-w-m-d/3121/46645045632) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant client services wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-services-wholesale-banking-w-m-d/3121/46616433024) — Frankfurt Am Main
