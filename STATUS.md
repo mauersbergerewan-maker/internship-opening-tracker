@@ -1,55 +1,63 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-19 14:34 CET_
+_Last check: 2026-11-19 22:47 CET_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | ⚠️ source error (2 in a row) |
-| Harris Williams | ⚠️ source error (10 in a row) |
-| Houlihan Lokey | ⚠️ source error (2 in a row) |
-| Rothschild & Co | **1 open** |
+| Baird | — |
+| Harris Williams | **1 open** |
+| Houlihan Lokey | ⚠️ source error (3 in a row) |
+| Rothschild & Co | ⚠️ source error (2 in a row) |
 | Jefferies | — |
 | Macquarie | **2 open** |
-| Societe Generale CIB | — |
+| Societe Generale CIB | **1 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
-| Alantra | ⚠️ source error (6 in a row) |
-| Mizuho \| Greenhill | ⚠️ source error (3 in a row) |
+| Alantra | ⚠️ source error (7 in a row) |
+| Mizuho \| Greenhill | ⚠️ source error (4 in a row) |
 | Riverside Company | — |
-| PJT Partners | ⚠️ source error (8 in a row) |
-| MCF Corporate Finance | ⚠️ source error (181 in a row) |
+| PJT Partners | ⚠️ source error (9 in a row) |
+| MCF Corporate Finance | ⚠️ source error (182 in a row) |
 | Evercore | **1 open** |
-| Santander CIB | ⚠️ source error (10 in a row) |
+| Santander CIB | ⚠️ source error (11 in a row) |
 | ING Wholesale Banking | **9 open** |
 | RBC Capital Markets | — |
-| BNP Paribas CIB | **7 open** |
+| BNP Paribas CIB | **9 open** |
 
 ## Currently open internships
 
+- **Harris Williams**: [Frankfurt Off-Cycle Analyst Programme](https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/Harris-Williams-Frankfurt---Marienturm-GE002/Frankfurt-Off-Cycle-Analyst-Programme-2025_R178055) — Harris Williams Frankfurt - Marienturm (GE002)
+- **Rothschild & Co**: [germany frankfurt global financing solutions and restructuring liability management spring internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-financing-solutions-and-restructuring-liability-management-spring-internship-2027/)
 - **Rothschild & Co**: [germany frankfurt global market solutions ecm summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-market-solutions-ecm-summer-internship-2027/)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
+- **Societe Generale CIB**: [V.I.E. Communication Officer (m/f/d)](https://careers.societegenerale.com/en/job-offers/vie-communication-officer-m-f-d-26000H1Z-en) — Frankfurt am Main
 - **Stifel**: [Investment Banking Internship - Q1/Q2 2027 (m/f/x) - Global Technology Group (GTG) - Munich](https://jobs.50skills.com/stifel/44053) — We are currently seeking investment banking interns to
 - **Evercore**: [Q4 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3290-Q4-2027-Internship-Programme-Frankfurt/en-GB)
+- **ING Wholesale Banking**: [praktikant corporate and network sector coverage wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-corporate-and-network-sector-coverage-wholesale-banking-w-m-d/3121/47055129472) — Frankfurt Am Main
+- **ING Wholesale Banking**: [praktikant asset securitisation w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-asset-securitisation-w-m-d/3121/47050049216) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant sponsoring and events w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-sponsoring-and-events-w-m-d/3121/47025687808) — Frankfurt Am Main
-- **ING Wholesale Banking**: [praktikant schuldschein syndicate w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-schuldschein-syndicate-w-m-d/3121/46645045632) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant client services wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-services-wholesale-banking-w-m-d/3121/46616433024) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant data governance privacy and ai regulation w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-data-governance-privacy-and-ai-regulation-w-m-d/3121/46616432896) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant payroll m w d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-payroll-m-w-d/3121/46286546624) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant global capital markets w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-global-capital-markets-w-m-d/3121/25999549248) — Frankfurt Am Main
-- **ING Wholesale Banking**: [praktikant controlling firmenkundengeschaft management reporting and business advice wholesale bank](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-controlling-firmenkundengeschaft-management-reporting-and-business-advice-wholesale-bank/3121/41249274048) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant produktstrategie wertpapiere w m d in frankfurt nurnberg](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-produktstrategie-wertpapiere-w-m-d-in-frankfurt-nurnberg/3121/32707089920) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant digitale vermogensverwaltung w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176) — Frankfurt Am Main
+- **BNP Paribas CIB**: [intern all genders in growth capital solutions at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-growth-capital-solutions-at-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [praktikum all genders group brand communication germany communication](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-communication/)
 - **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q4 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q4-2027/)
 - **BNP Paribas CIB**: [praktikum all genders group brand communication germany events](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-events/)
 - **BNP Paribas CIB**: [intern all genders banks and brokers outsourcing at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-banks-and-brokers-outsourcing-at-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [praktikum all genders corporate coverage bei corporate institutional banking bc hannover](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-bei-corporate-institutional-banking-bc-hannover/)
 - **BNP Paribas CIB**: [intern all genders in investment compliance at bnp paribas securities services](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-investment-compliance-at-bnp-paribas-securities-services/)
+- **BNP Paribas CIB**: [intern private equity all genders](https://www.bnpparibas.de/en/jobs/intern-private-equity-all-genders/)
 - **BNP Paribas CIB**: [praktikum all genders im bereich global markets institutional sales equity derivatives](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-global-markets-institutional-sales-equity-derivatives/)
 
 ## Alert history (newest first)
 
+- 2026-11-19 22:47 — **ING Wholesale Banking**: [praktikant asset securitisation w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-asset-securitisation-w-m-d/3121/47050049216)
+- 2026-11-19 22:47 — **ING Wholesale Banking**: [praktikant corporate and network sector coverage wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-corporate-and-network-sector-coverage-wholesale-banking-w-m-d/3121/47055129472)
+- 2026-11-19 22:47 — **Rothschild & Co**: [germany frankfurt global financing solutions and restructuring liability management spring internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-financing-solutions-and-restructuring-liability-management-spring-internship-2027/)
 - 2026-11-19 00:11 — **ING Wholesale Banking**: [praktikant sponsoring and events w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-sponsoring-and-events-w-m-d/3121/47025687808)
 - 2026-11-17 18:52 — **Rothschild & Co**: [germany frankfurt global market solutions ecm summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-market-solutions-ecm-summer-internship-2027/)
 - 2026-11-12 17:55 — **Harris Williams**: [Frankfurt Off-Cycle Analyst Programme](https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/Harris-Williams-Frankfurt---Marienturm-GE002/Frankfurt-Off-Cycle-Analyst-Programme-2025_R178055)
@@ -77,8 +85,5 @@ _Last check: 2026-11-19 14:34 CET_
 - 2026-10-01 15:34 — **BNP Paribas CIB**: [intern all genders in corporate coverage at corporate institutional banking bc hamburg](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-corporate-coverage-at-corporate-institutional-banking-bc-hamburg/)
 - 2026-10-01 08:11 — **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q4 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q4-2027/)
 - 2026-09-30 21:30 — **BNP Paribas CIB**: [praktikum all genders group brand communication germany communication](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-communication/)
-- 2026-09-21 21:38 — **BNP Paribas CIB**: [intern infrastructure responsible investing all genders](https://www.bnpparibas.de/en/jobs/intern-infrastructure-responsible-investing-all-genders/)
-- 2026-09-21 21:38 — **BNP Paribas CIB**: [intern development investment all genders](https://www.bnpparibas.de/en/jobs/intern-development-investment-all-genders/)
-- 2026-09-17 01:03 — **ING Wholesale Banking**: [intern corporate sector lending wholesale banking f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-corporate-sector-lending-wholesale-banking-f-m-x/3121/41990166912)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
