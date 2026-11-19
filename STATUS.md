@@ -1,36 +1,31 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-19 00:11 CET_
+_Last check: 2026-11-19 05:16 CET_
 
 | Firm | Open matching postings |
 |---|---|
 | Baird | — |
-| Harris Williams | ⚠️ source error (8 in a row) |
-| Houlihan Lokey | **5 open** |
+| Harris Williams | ⚠️ source error (9 in a row) |
+| Houlihan Lokey | — |
 | Rothschild & Co | **1 open** |
 | Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | — |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
-| Alantra | ⚠️ source error (4 in a row) |
-| Mizuho \| Greenhill | — |
+| Alantra | ⚠️ source error (5 in a row) |
+| Mizuho \| Greenhill | ⚠️ source error (2 in a row) |
 | Riverside Company | — |
-| PJT Partners | ⚠️ source error (6 in a row) |
-| MCF Corporate Finance | ⚠️ source error (179 in a row) |
+| PJT Partners | ⚠️ source error (7 in a row) |
+| MCF Corporate Finance | ⚠️ source error (180 in a row) |
 | Evercore | **1 open** |
-| Santander CIB | ⚠️ source error (8 in a row) |
+| Santander CIB | ⚠️ source error (9 in a row) |
 | ING Wholesale Banking | **9 open** |
 | RBC Capital Markets | — |
 | BNP Paribas CIB | **9 open** |
 
 ## Currently open internships
 
-- **Houlihan Lokey**: [Off-Cycle Intern - Capital Solutions, Debt Advisory (Q2, 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Debt-Advisory--Q1--2027-_R3443) — Frankfurt, Germany
-- **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (IT Services)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542) — Frankfurt, Germany
-- **Houlihan Lokey**: [3 Month Internship -  Financial Restructuring (Q2 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889) — Frankfurt, Germany
-- **Houlihan Lokey**: [3 Month Internship  - Financial Restructuring (Q3 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525) — Frankfurt, Germany
-- **Houlihan Lokey**: [6 Month Off-Cycle Intern, Real Estate Capital Solutions, Q1 Munich](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Munich-Germany/XMLNAME-6-Month-Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q1-Munich_R3561) — Munich, Germany
 - **Rothschild & Co**: [germany frankfurt global market solutions ecm summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-market-solutions-ecm-summer-internship-2027/)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
