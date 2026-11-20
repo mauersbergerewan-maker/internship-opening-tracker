@@ -1,25 +1,25 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-20 11:37 CET_
+_Last check: 2026-11-20 19:50 CET_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | ⚠️ source error (2 in a row) |
-| Harris Williams | — |
-| Houlihan Lokey | ⚠️ source error (5 in a row) |
-| Rothschild & Co | ⚠️ source error (4 in a row) |
+| Baird | ⚠️ source error (3 in a row) |
+| Harris Williams | ⚠️ source error (2 in a row) |
+| Houlihan Lokey | ⚠️ source error (6 in a row) |
+| Rothschild & Co | ⚠️ source error (5 in a row) |
 | Jefferies | — |
 | Macquarie | **2 open** |
-| Societe Generale CIB | **1 open** |
+| Societe Generale CIB | **2 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
-| Alantra | ⚠️ source error (9 in a row) |
-| Mizuho \| Greenhill | ⚠️ source error (6 in a row) |
+| Alantra | ⚠️ source error (10 in a row) |
+| Mizuho \| Greenhill | ⚠️ source error (7 in a row) |
 | Riverside Company | — |
-| PJT Partners | ⚠️ source error (11 in a row) |
-| MCF Corporate Finance | ⚠️ source error (184 in a row) |
+| PJT Partners | ⚠️ source error (12 in a row) |
+| MCF Corporate Finance | ⚠️ source error (185 in a row) |
 | Evercore | **1 open** |
-| Santander CIB | ⚠️ source error (13 in a row) |
+| Santander CIB | ⚠️ source error (14 in a row) |
 | ING Wholesale Banking | **9 open** |
 | RBC Capital Markets | — |
 | BNP Paribas CIB | **9 open** |
@@ -31,6 +31,7 @@ _Last check: 2026-11-20 11:37 CET_
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Societe Generale CIB**: [V.I.E. Communication Officer (m/f/d)](https://careers.societegenerale.com/en/job-offers/vie-communication-officer-m-f-d-26000H1Z-en) — Frankfurt am Main
+- **Societe Generale CIB**: [Trainee Quantitative Research Analyst](https://careers.societegenerale.com/en/job-offers/trainee-quantitative-research-analyst-26000HO4-en) — London
 - **Stifel**: [Investment Banking Internship - Q1/Q2 2027 (m/f/x) - Global Technology Group (GTG) - Munich](https://jobs.50skills.com/stifel/44053) — We are currently seeking investment banking interns to
 - **Evercore**: [Q4 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3290-Q4-2027-Internship-Programme-Frankfurt/en-GB)
 - **ING Wholesale Banking**: [praktikant corporate and network sector coverage wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-corporate-and-network-sector-coverage-wholesale-banking-w-m-d/3121/47055129472) — Frankfurt Am Main
@@ -54,6 +55,7 @@ _Last check: 2026-11-20 11:37 CET_
 
 ## Alert history (newest first)
 
+- 2026-11-20 19:50 — **Societe Generale CIB**: [Trainee Quantitative Research Analyst](https://careers.societegenerale.com/en/job-offers/trainee-quantitative-research-analyst-26000HO4-en)
 - 2026-11-19 22:47 — **ING Wholesale Banking**: [praktikant asset securitisation w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-asset-securitisation-w-m-d/3121/47050049216)
 - 2026-11-19 22:47 — **ING Wholesale Banking**: [praktikant corporate and network sector coverage wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-corporate-and-network-sector-coverage-wholesale-banking-w-m-d/3121/47055129472)
 - 2026-11-19 22:47 — **Rothschild & Co**: [germany frankfurt global financing solutions and restructuring liability management spring internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-financing-solutions-and-restructuring-liability-management-spring-internship-2027/)
@@ -83,6 +85,5 @@ _Last check: 2026-11-20 11:37 CET_
 - 2026-10-05 18:12 — **BNP Paribas CIB**: [praktikum all genders group brand communication germany events](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-events/)
 - 2026-10-01 15:34 — **BNP Paribas CIB**: [intern all genders in corporate coverage at corporate institutional banking bc hamburg](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-corporate-coverage-at-corporate-institutional-banking-bc-hamburg/)
 - 2026-10-01 08:11 — **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q4 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q4-2027/)
-- 2026-09-30 21:30 — **BNP Paribas CIB**: [praktikum all genders group brand communication germany communication](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-communication/)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
