@@ -1,32 +1,31 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-20 03:42 CET_
+_Last check: 2026-11-20 11:37 CET_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | — |
-| Harris Williams | **1 open** |
-| Houlihan Lokey | ⚠️ source error (4 in a row) |
-| Rothschild & Co | ⚠️ source error (3 in a row) |
+| Baird | ⚠️ source error (2 in a row) |
+| Harris Williams | — |
+| Houlihan Lokey | ⚠️ source error (5 in a row) |
+| Rothschild & Co | ⚠️ source error (4 in a row) |
 | Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **1 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
-| Alantra | ⚠️ source error (8 in a row) |
-| Mizuho \| Greenhill | ⚠️ source error (5 in a row) |
+| Alantra | ⚠️ source error (9 in a row) |
+| Mizuho \| Greenhill | ⚠️ source error (6 in a row) |
 | Riverside Company | — |
-| PJT Partners | ⚠️ source error (10 in a row) |
-| MCF Corporate Finance | ⚠️ source error (183 in a row) |
+| PJT Partners | ⚠️ source error (11 in a row) |
+| MCF Corporate Finance | ⚠️ source error (184 in a row) |
 | Evercore | **1 open** |
-| Santander CIB | ⚠️ source error (12 in a row) |
+| Santander CIB | ⚠️ source error (13 in a row) |
 | ING Wholesale Banking | **9 open** |
 | RBC Capital Markets | — |
 | BNP Paribas CIB | **9 open** |
 
 ## Currently open internships
 
-- **Harris Williams**: [Frankfurt Off-Cycle Analyst Programme](https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/Harris-Williams-Frankfurt---Marienturm-GE002/Frankfurt-Off-Cycle-Analyst-Programme-2025_R178055) — Harris Williams Frankfurt - Marienturm (GE002)
 - **Rothschild & Co**: [germany frankfurt global financing solutions and restructuring liability management spring internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-financing-solutions-and-restructuring-liability-management-spring-internship-2027/)
 - **Rothschild & Co**: [germany frankfurt global market solutions ecm summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-market-solutions-ecm-summer-internship-2027/)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
