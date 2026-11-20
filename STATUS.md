@@ -1,25 +1,25 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-19 22:47 CET_
+_Last check: 2026-11-20 03:42 CET_
 
 | Firm | Open matching postings |
 |---|---|
 | Baird | — |
 | Harris Williams | **1 open** |
-| Houlihan Lokey | ⚠️ source error (3 in a row) |
-| Rothschild & Co | ⚠️ source error (2 in a row) |
+| Houlihan Lokey | ⚠️ source error (4 in a row) |
+| Rothschild & Co | ⚠️ source error (3 in a row) |
 | Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **1 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
-| Alantra | ⚠️ source error (7 in a row) |
-| Mizuho \| Greenhill | ⚠️ source error (4 in a row) |
+| Alantra | ⚠️ source error (8 in a row) |
+| Mizuho \| Greenhill | ⚠️ source error (5 in a row) |
 | Riverside Company | — |
-| PJT Partners | ⚠️ source error (9 in a row) |
-| MCF Corporate Finance | ⚠️ source error (182 in a row) |
+| PJT Partners | ⚠️ source error (10 in a row) |
+| MCF Corporate Finance | ⚠️ source error (183 in a row) |
 | Evercore | **1 open** |
-| Santander CIB | ⚠️ source error (11 in a row) |
+| Santander CIB | ⚠️ source error (12 in a row) |
 | ING Wholesale Banking | **9 open** |
 | RBC Capital Markets | — |
 | BNP Paribas CIB | **9 open** |
