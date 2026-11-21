@@ -1,31 +1,33 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-21 08:40 CET_
+_Last check: 2026-11-21 16:41 CET_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | — |
-| Harris Williams | ⚠️ source error (4 in a row) |
-| Houlihan Lokey | — |
-| Rothschild & Co | — |
+| Baird | ⚠️ source error (2 in a row) |
+| Harris Williams | ⚠️ source error (5 in a row) |
+| Houlihan Lokey | ⚠️ source error (2 in a row) |
+| Rothschild & Co | **2 open** |
 | Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **2 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
-| Alantra | ⚠️ source error (12 in a row) |
-| Mizuho \| Greenhill | ⚠️ source error (9 in a row) |
+| Alantra | ⚠️ source error (13 in a row) |
+| Mizuho \| Greenhill | ⚠️ source error (10 in a row) |
 | Riverside Company | — |
-| PJT Partners | ⚠️ source error (14 in a row) |
-| MCF Corporate Finance | ⚠️ source error (187 in a row) |
+| PJT Partners | ⚠️ source error (15 in a row) |
+| MCF Corporate Finance | ⚠️ source error (188 in a row) |
 | Evercore | **1 open** |
-| Santander CIB | ⚠️ source error (16 in a row) |
+| Santander CIB | ⚠️ source error (17 in a row) |
 | ING Wholesale Banking | **9 open** |
 | RBC Capital Markets | — |
 | BNP Paribas CIB | **9 open** |
 
 ## Currently open internships
 
+- **Rothschild & Co**: [germany frankfurt global financing solutions and restructuring liability management spring internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-financing-solutions-and-restructuring-liability-management-spring-internship-2027/)
+- **Rothschild & Co**: [germany frankfurt global market solutions ecm summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-market-solutions-ecm-summer-internship-2027/)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
 - **Societe Generale CIB**: [V.I.E. Communication Officer (m/f/d)](https://careers.societegenerale.com/en/job-offers/vie-communication-officer-m-f-d-26000H1Z-en) — Frankfurt am Main
