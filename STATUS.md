@@ -1,25 +1,25 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-22 17:44 CET_
+_Last check: 2026-11-22 23:11 CET_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | ⚠️ source error (3 in a row) |
-| Harris Williams | ⚠️ source error (3 in a row) |
-| Houlihan Lokey | ⚠️ source error (3 in a row) |
-| Rothschild & Co | ⚠️ source error (4 in a row) |
+| Baird | ⚠️ source error (4 in a row) |
+| Harris Williams | ⚠️ source error (4 in a row) |
+| Houlihan Lokey | ⚠️ source error (4 in a row) |
+| Rothschild & Co | ⚠️ source error (5 in a row) |
 | Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **3 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
-| Alantra | ⚠️ source error (17 in a row) |
-| Mizuho \| Greenhill | **1 open** |
+| Alantra | ⚠️ source error (18 in a row) |
+| Mizuho \| Greenhill | — |
 | Riverside Company | — |
-| PJT Partners | ⚠️ source error (19 in a row) |
-| MCF Corporate Finance | ⚠️ source error (192 in a row) |
+| PJT Partners | ⚠️ source error (20 in a row) |
+| MCF Corporate Finance | ⚠️ source error (193 in a row) |
 | Evercore | **1 open** |
-| Santander CIB | ⚠️ source error (21 in a row) |
+| Santander CIB | ⚠️ source error (22 in a row) |
 | ING Wholesale Banking | **9 open** |
 | RBC Capital Markets | — |
 | BNP Paribas CIB | **9 open** |
@@ -34,7 +34,6 @@ _Last check: 2026-11-22 17:44 CET_
 - **Societe Generale CIB**: [Trainee Quantitative Research Analyst](https://careers.societegenerale.com/en/job-offers/trainee-quantitative-research-analyst-26000HO4-en) — London
 - **Societe Generale CIB**: [V.I.E. IT Trading Support (m/f/d)](https://careers.societegenerale.com/en/job-offers/vie-it-trading-support-m-f-d-26000K5Y-en) — Frankfurt am Main
 - **Stifel**: [Investment Banking Internship - Q1/Q2 2027 (m/f/x) - Global Technology Group (GTG) - Munich](https://jobs.50skills.com/stifel/44053) — We are currently seeking investment banking interns to
-- **Mizuho | Greenhill**: [Mizuho | Greenhill – Intern – Frankfurt (Q3 / Q4 2027)](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuhoamericas/job/Germany---Frankfurt/Mizuho---Greenhill---Intern---Frankfurt--Q3---Q4-2027-_R7524) — Germany - Frankfurt
 - **Evercore**: [Q4 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3290-Q4-2027-Internship-Programme-Frankfurt/en-GB)
 - **ING Wholesale Banking**: [praktikant corporate and network sector coverage wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-corporate-and-network-sector-coverage-wholesale-banking-w-m-d/3121/47055129472) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant asset securitisation w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-asset-securitisation-w-m-d/3121/47050049216) — Frankfurt Am Main
