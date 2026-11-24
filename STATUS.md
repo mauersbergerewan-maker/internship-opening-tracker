@@ -1,31 +1,36 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-23 13:19 CET_
+_Last check: 2026-11-24 01:07 CET_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | — |
+| Baird | ⚠️ source error (2 in a row) |
 | Harris Williams | — |
-| Houlihan Lokey | — |
+| Houlihan Lokey | **5 open** |
 | Rothschild & Co | **2 open** |
 | Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **3 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
-| Alantra | ⚠️ source error (20 in a row) |
-| Mizuho \| Greenhill | — |
+| Alantra | ⚠️ source error (21 in a row) |
+| Mizuho \| Greenhill | **1 open** |
 | Riverside Company | — |
-| PJT Partners | ⚠️ source error (22 in a row) |
-| MCF Corporate Finance | ⚠️ source error (195 in a row) |
+| PJT Partners | — |
+| MCF Corporate Finance | ⚠️ source error (196 in a row) |
 | Evercore | **1 open** |
-| Santander CIB | ⚠️ source error (24 in a row) |
-| ING Wholesale Banking | **9 open** |
+| Santander CIB | ⚠️ source error (25 in a row) |
+| ING Wholesale Banking | **8 open** |
 | RBC Capital Markets | — |
 | BNP Paribas CIB | **9 open** |
 
 ## Currently open internships
 
+- **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (Technology)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Technology-_R3541) — Frankfurt, Germany
+- **Houlihan Lokey**: [Off-Cycle Intern - Capital Solutions, Debt Advisory (Q2, 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Debt-Advisory--Q1--2027-_R3443) — Frankfurt, Germany
+- **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (IT Services)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542) — Frankfurt, Germany
+- **Houlihan Lokey**: [3 Month Internship -  Financial Restructuring (Q2 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889) — Frankfurt, Germany
+- **Houlihan Lokey**: [6 Month Off-Cycle Intern, Real Estate Capital Solutions, Q1 Munich](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Munich-Germany/XMLNAME-6-Month-Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q1-Munich_R3561) — Munich, Germany
 - **Rothschild & Co**: [germany frankfurt global financing solutions and restructuring liability management spring internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-financing-solutions-and-restructuring-liability-management-spring-internship-2027/)
 - **Rothschild & Co**: [germany frankfurt global market solutions ecm summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-market-solutions-ecm-summer-internship-2027/)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
@@ -34,6 +39,7 @@ _Last check: 2026-11-23 13:19 CET_
 - **Societe Generale CIB**: [Trainee Quantitative Research Analyst](https://careers.societegenerale.com/en/job-offers/trainee-quantitative-research-analyst-26000HO4-en) — London
 - **Societe Generale CIB**: [V.I.E. IT Trading Support (m/f/d)](https://careers.societegenerale.com/en/job-offers/vie-it-trading-support-m-f-d-26000K5Y-en) — Frankfurt am Main
 - **Stifel**: [Investment Banking Internship - Q1/Q2 2027 (m/f/x) - Global Technology Group (GTG) - Munich](https://jobs.50skills.com/stifel/44053) — We are currently seeking investment banking interns to
+- **Mizuho | Greenhill**: [Mizuho | Greenhill – Intern – Frankfurt (Q3 / Q4 2027)](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuhoamericas/job/Germany---Frankfurt/Mizuho---Greenhill---Intern---Frankfurt--Q3---Q4-2027-_R7524) — Germany - Frankfurt
 - **Evercore**: [Q4 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3290-Q4-2027-Internship-Programme-Frankfurt/en-GB)
 - **ING Wholesale Banking**: [praktikant corporate and network sector coverage wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-corporate-and-network-sector-coverage-wholesale-banking-w-m-d/3121/47055129472) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant asset securitisation w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-asset-securitisation-w-m-d/3121/47050049216) — Frankfurt Am Main
@@ -41,7 +47,6 @@ _Last check: 2026-11-23 13:19 CET_
 - **ING Wholesale Banking**: [praktikant client services wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-services-wholesale-banking-w-m-d/3121/46616433024) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant data governance privacy and ai regulation w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-data-governance-privacy-and-ai-regulation-w-m-d/3121/46616432896) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant payroll m w d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-payroll-m-w-d/3121/46286546624) — Frankfurt Am Main
-- **ING Wholesale Banking**: [praktikant global capital markets w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-global-capital-markets-w-m-d/3121/25999549248) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant produktstrategie wertpapiere w m d in frankfurt nurnberg](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-produktstrategie-wertpapiere-w-m-d-in-frankfurt-nurnberg/3121/32707089920) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant digitale vermogensverwaltung w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176) — Frankfurt Am Main
 - **BNP Paribas CIB**: [intern all genders in growth capital solutions at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-growth-capital-solutions-at-bnp-paribas-corporate-institutional-banking/)
