@@ -1,28 +1,28 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-25 04:43 CET_
+_Last check: 2026-11-25 14:39 CET_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | ⚠️ source error (2 in a row) |
-| Harris Williams | ⚠️ source error (2 in a row) |
-| Houlihan Lokey | ⚠️ source error (2 in a row) |
+| Baird | ⚠️ source error (3 in a row) |
+| Harris Williams | ⚠️ source error (3 in a row) |
+| Houlihan Lokey | ⚠️ source error (3 in a row) |
 | Rothschild & Co | **2 open** |
 | Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **3 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
-| Alantra | ⚠️ source error (24 in a row) |
-| Mizuho \| Greenhill | — |
+| Alantra | ⚠️ source error (25 in a row) |
+| Mizuho \| Greenhill | ⚠️ source error (2 in a row) |
 | Riverside Company | — |
-| PJT Partners | ⚠️ source error (3 in a row) |
-| MCF Corporate Finance | ⚠️ source error (199 in a row) |
+| PJT Partners | ⚠️ source error (4 in a row) |
+| MCF Corporate Finance | ⚠️ source error (200 in a row) |
 | Evercore | **1 open** |
-| Santander CIB | ⚠️ source error (28 in a row) |
+| Santander CIB | ⚠️ source error (29 in a row) |
 | ING Wholesale Banking | **9 open** |
 | RBC Capital Markets | **1 open** |
-| BNP Paribas CIB | **9 open** |
+| BNP Paribas CIB | **7 open** |
 
 ## Currently open internships
 
@@ -46,10 +46,8 @@ _Last check: 2026-11-25 04:43 CET_
 - **ING Wholesale Banking**: [praktikant digitale vermogensverwaltung w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176) — Frankfurt Am Main
 - **RBC Capital Markets**: [Royal Bank of Canada Global Markets Off Cycle Internship Frankfurt based](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000193199EXTERNALENCA/Royal-Bank-of-Canada-Global-Markets-Off-Cycle-Internship-Frankfurt-based)
 - **BNP Paribas CIB**: [intern all genders in growth capital solutions at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-growth-capital-solutions-at-bnp-paribas-corporate-institutional-banking/)
-- **BNP Paribas CIB**: [praktikum all genders group brand communication germany communication](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-communication/)
 - **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q4 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q4-2027/)
 - **BNP Paribas CIB**: [praktikum all genders group brand communication germany events](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-events/)
-- **BNP Paribas CIB**: [intern all genders banks and brokers outsourcing at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-banks-and-brokers-outsourcing-at-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [praktikum all genders corporate coverage bei corporate institutional banking bc hannover](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-bei-corporate-institutional-banking-bc-hannover/)
 - **BNP Paribas CIB**: [intern all genders in investment compliance at bnp paribas securities services](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-investment-compliance-at-bnp-paribas-securities-services/)
 - **BNP Paribas CIB**: [intern private equity all genders](https://www.bnpparibas.de/en/jobs/intern-private-equity-all-genders/)
