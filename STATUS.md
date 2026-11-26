@@ -1,32 +1,33 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-26 15:23 CET_
+_Last check: 2026-11-27 00:16 CET_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | ⚠️ source error (6 in a row) |
-| Harris Williams | — |
-| Houlihan Lokey | ⚠️ source error (6 in a row) |
-| Rothschild & Co | ⚠️ source error (4 in a row) |
+| Baird | — |
+| Harris Williams | ⚠️ source error (2 in a row) |
+| Houlihan Lokey | ⚠️ source error (7 in a row) |
+| Rothschild & Co | ⚠️ source error (5 in a row) |
 | Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **2 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
-| Alantra | ⚠️ source error (2 in a row) |
-| Mizuho \| Greenhill | ⚠️ source error (5 in a row) |
+| Alantra | ⚠️ source error (3 in a row) |
+| Mizuho \| Greenhill | ⚠️ source error (6 in a row) |
 | Riverside Company | — |
-| PJT Partners | ⚠️ source error (7 in a row) |
-| MCF Corporate Finance | ⚠️ source error (203 in a row) |
+| PJT Partners | ⚠️ source error (8 in a row) |
+| MCF Corporate Finance | ⚠️ source error (204 in a row) |
 | Evercore | **1 open** |
-| Santander CIB | ⚠️ source error (32 in a row) |
+| Santander CIB | ⚠️ source error (33 in a row) |
 | ING Wholesale Banking | **9 open** |
-| RBC Capital Markets | — |
+| RBC Capital Markets | **1 open** |
 | BNP Paribas CIB | **6 open** |
 
 ## Currently open internships
 
 - **Rothschild & Co**: [germany frankfurt global financing solutions and restructuring liability management autumn internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-financing-solutions-and-restructuring-liability-management-autumn-internship-2027/)
+- **Rothschild & Co**: [germany frankfurt ma and strategic advisory autumn internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-ma-and-strategic-advisory-autumn-internship-2027/)
 - **Rothschild & Co**: [germany frankfurt global financing solutions and restructuring liability management spring internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-financing-solutions-and-restructuring-liability-management-spring-internship-2027/)
 - **Rothschild & Co**: [germany frankfurt global market solutions ecm summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-market-solutions-ecm-summer-internship-2027/)
 - **Macquarie**: [OOCI FFK - 2027 Off-Cycle Internship, Coverage and Solutions, Frankfurt - Active](https://recruitment.macquarie.com/careers/JobDetail/Off-Cycle-Internship-Coverage-and-Solutions-2027/23826)
@@ -44,6 +45,7 @@ _Last check: 2026-11-26 15:23 CET_
 - **ING Wholesale Banking**: [praktikant payroll m w d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-payroll-m-w-d/3121/46286546624) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant produktstrategie wertpapiere w m d in frankfurt nurnberg](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-produktstrategie-wertpapiere-w-m-d-in-frankfurt-nurnberg/3121/32707089920) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant digitale vermogensverwaltung w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176) — Frankfurt Am Main
+- **RBC Capital Markets**: [Royal Bank of Canada Global Markets Off Cycle Internship Frankfurt based](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000193199EXTERNALENCA/Royal-Bank-of-Canada-Global-Markets-Off-Cycle-Internship-Frankfurt-based)
 - **BNP Paribas CIB**: [intern all genders in growth capital solutions at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-growth-capital-solutions-at-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q4 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q4-2027/)
 - **BNP Paribas CIB**: [praktikum all genders group brand communication germany events](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-events/)
@@ -53,6 +55,7 @@ _Last check: 2026-11-26 15:23 CET_
 
 ## Alert history (newest first)
 
+- 2026-11-27 00:16 — **Rothschild & Co**: [germany frankfurt ma and strategic advisory autumn internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-ma-and-strategic-advisory-autumn-internship-2027/)
 - 2026-11-26 15:23 — **Rothschild & Co**: [germany frankfurt global financing solutions and restructuring liability management autumn internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-financing-solutions-and-restructuring-liability-management-autumn-internship-2027/)
 - 2026-11-24 21:24 — **RBC Capital Markets**: [Royal Bank of Canada Global Markets Off Cycle Internship Frankfurt based](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000193199EXTERNALENCA/Royal-Bank-of-Canada-Global-Markets-Off-Cycle-Internship-Frankfurt-based)
 - 2026-11-24 21:24 — **ING Wholesale Banking**: [praktikant transaction advice and control credit risk w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-advice-and-control-credit-risk-w-m-d/3121/47202475136)
@@ -82,6 +85,5 @@ _Last check: 2026-11-26 15:23 CET_
 - 2026-10-09 23:05 — **Evercore**: [2027 Real Estate Strategic Advisory RESA Internship Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/xf-f8a78132bd2d/candidate/so/pm/1/pl/2/opp/3421-2027-Real-Estate-Strategic-Advisory-RESA-Internship-Frankfurt/en-GB)
 - 2026-10-07 18:41 — **ING Wholesale Banking**: [intern metals mining and fertilizers wholesale banking f m x](https://careers.ing.com/en/job/frankfurt-am-main/intern-metals-mining-and-fertilizers-wholesale-banking-f-m-x/3121/45650389120)
 - 2026-10-06 12:33 — **BNP Paribas CIB**: [intern all genders leveraged finance germany at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-leveraged-finance-germany-at-bnp-paribas-corporate-institutional-banking/)
-- 2026-10-06 12:33 — **Victoria Partners**: [Careers page content changed — check for new Praktikum openings](https://victoriapartners.de/talent-gesucht/praktikanten)
 
 _Checks run at ~07:00 and ~19:00. Edit config.json to add firms or locations._
