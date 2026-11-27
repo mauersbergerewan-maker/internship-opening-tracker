@@ -1,35 +1,31 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-27 06:10 CET_
+_Last check: 2026-11-27 16:21 CET_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | — |
-| Harris Williams | ⚠️ source error (3 in a row) |
-| Houlihan Lokey | **4 open** |
-| Rothschild & Co | ⚠️ source error (6 in a row) |
+| Baird | ⚠️ source error (2 in a row) |
+| Harris Williams | ⚠️ source error (4 in a row) |
+| Houlihan Lokey | — |
+| Rothschild & Co | ⚠️ source error (7 in a row) |
 | Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **2 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
-| Alantra | ⚠️ source error (4 in a row) |
-| Mizuho \| Greenhill | ⚠️ source error (7 in a row) |
+| Alantra | **1 open** |
+| Mizuho \| Greenhill | ⚠️ source error (8 in a row) |
 | Riverside Company | — |
-| PJT Partners | ⚠️ source error (9 in a row) |
-| MCF Corporate Finance | ⚠️ source error (205 in a row) |
+| PJT Partners | ⚠️ source error (10 in a row) |
+| MCF Corporate Finance | ⚠️ source error (206 in a row) |
 | Evercore | **1 open** |
-| Santander CIB | ⚠️ source error (34 in a row) |
+| Santander CIB | ⚠️ source error (35 in a row) |
 | ING Wholesale Banking | **9 open** |
-| RBC Capital Markets | — |
-| BNP Paribas CIB | **6 open** |
+| RBC Capital Markets | **1 open** |
+| BNP Paribas CIB | **5 open** |
 
 ## Currently open internships
 
-- **Houlihan Lokey**: [Q2 2027 Off-Cycle Internship - Corporate Finance (Technology)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Technology-_R3541) — Frankfurt, Germany
-- **Houlihan Lokey**: [Off-Cycle Intern - Capital Solutions, Debt Advisory (Q2, 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Debt-Advisory--Q1--2027-_R3443) — Frankfurt, Germany
-- **Houlihan Lokey**: [3 Month Internship -  Financial Restructuring (Q2 2027)](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889) — Frankfurt, Germany
-- **Houlihan Lokey**: [6 Month Off-Cycle Intern, Real Estate Capital Solutions, Q1 Munich](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Munich-Germany/XMLNAME-6-Month-Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q1-Munich_R3561) — Munich, Germany
 - **Rothschild & Co**: [germany frankfurt global financing solutions and restructuring liability management autumn internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-financing-solutions-and-restructuring-liability-management-autumn-internship-2027/)
 - **Rothschild & Co**: [germany frankfurt ma and strategic advisory autumn internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-ma-and-strategic-advisory-autumn-internship-2027/)
 - **Rothschild & Co**: [germany frankfurt global financing solutions and restructuring liability management spring internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-financing-solutions-and-restructuring-liability-management-spring-internship-2027/)
@@ -39,6 +35,7 @@ _Last check: 2026-11-27 06:10 CET_
 - **Societe Generale CIB**: [V.I.E. Communication Officer (m/f/d)](https://careers.societegenerale.com/en/job-offers/vie-communication-officer-m-f-d-26000H1Z-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Trainee Quantitative Research Analyst](https://careers.societegenerale.com/en/job-offers/trainee-quantitative-research-analyst-26000HO4-en) — London
 - **Stifel**: [Investment Banking Internship - Q1/Q2 2027 (m/f/x) - Global Technology Group (GTG) - Munich](https://jobs.50skills.com/stifel/44053) — We are currently seeking investment banking interns to
+- **Alantra**: [Investment Banking, Q2 2027 M&A Intern (Frankfurt, Germany)](https://alantra.wd3.myworkdayjobs.com/en-US/Alantra/job/Germany---Frankfurt/Investment-Banking--Q2-2027-M-A-Intern--Frankfurt--Germany-_JR486) — Germany - Frankfurt
 - **Evercore**: [Q4 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3290-Q4-2027-Internship-Programme-Frankfurt/en-GB)
 - **ING Wholesale Banking**: [praktikant transaction advice and control credit risk w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-advice-and-control-credit-risk-w-m-d/3121/47202475136) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant corporate and network sector coverage wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-corporate-and-network-sector-coverage-wholesale-banking-w-m-d/3121/47055129472) — Frankfurt Am Main
@@ -49,10 +46,10 @@ _Last check: 2026-11-27 06:10 CET_
 - **ING Wholesale Banking**: [praktikant payroll m w d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-payroll-m-w-d/3121/46286546624) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant produktstrategie wertpapiere w m d in frankfurt nurnberg](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-produktstrategie-wertpapiere-w-m-d-in-frankfurt-nurnberg/3121/32707089920) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant digitale vermogensverwaltung w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-digitale-vermogensverwaltung-w-m-d/3121/38974810176) — Frankfurt Am Main
+- **RBC Capital Markets**: [Royal Bank of Canada Global Markets Off Cycle Internship Frankfurt based](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000193199EXTERNALENCA/Royal-Bank-of-Canada-Global-Markets-Off-Cycle-Internship-Frankfurt-based)
 - **BNP Paribas CIB**: [intern all genders in growth capital solutions at bnp paribas corporate institutional banking](https://www.bnpparibas.de/en/jobs/intern-all-genders-in-growth-capital-solutions-at-bnp-paribas-corporate-institutional-banking/)
 - **BNP Paribas CIB**: [intern all genders investment banking ma european advisory group q4 2027](https://www.bnpparibas.de/en/jobs/intern-all-genders-investment-banking-ma-european-advisory-group-q4-2027/)
 - **BNP Paribas CIB**: [praktikum all genders group brand communication germany events](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-group-brand-communication-germany-events/)
-- **BNP Paribas CIB**: [praktikum all genders corporate coverage bei corporate institutional banking bc hannover](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-corporate-coverage-bei-corporate-institutional-banking-bc-hannover/)
 - **BNP Paribas CIB**: [intern private equity all genders](https://www.bnpparibas.de/en/jobs/intern-private-equity-all-genders/)
 - **BNP Paribas CIB**: [praktikum all genders im bereich global markets institutional sales equity derivatives](https://www.bnpparibas.de/en/jobs/praktikum-all-genders-im-bereich-global-markets-institutional-sales-equity-derivatives/)
 
