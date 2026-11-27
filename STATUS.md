@@ -1,25 +1,25 @@
 # Internship tracker — live status
 
-_Last check: 2026-11-27 16:21 CET_
+_Last check: 2026-11-28 00:37 CET_
 
 | Firm | Open matching postings |
 |---|---|
-| Baird | ⚠️ source error (2 in a row) |
-| Harris Williams | ⚠️ source error (4 in a row) |
-| Houlihan Lokey | — |
-| Rothschild & Co | ⚠️ source error (7 in a row) |
+| Baird | ⚠️ source error (3 in a row) |
+| Harris Williams | ⚠️ source error (5 in a row) |
+| Houlihan Lokey | ⚠️ source error (2 in a row) |
+| Rothschild & Co | ⚠️ source error (8 in a row) |
 | Jefferies | — |
 | Macquarie | **2 open** |
 | Societe Generale CIB | **2 open** |
 | Victoria Partners | 👁 watching page for changes |
 | Stifel | **1 open** |
-| Alantra | **1 open** |
-| Mizuho \| Greenhill | ⚠️ source error (8 in a row) |
+| Alantra | — |
+| Mizuho \| Greenhill | ⚠️ source error (9 in a row) |
 | Riverside Company | — |
-| PJT Partners | ⚠️ source error (10 in a row) |
-| MCF Corporate Finance | ⚠️ source error (206 in a row) |
+| PJT Partners | ⚠️ source error (11 in a row) |
+| MCF Corporate Finance | ⚠️ source error (207 in a row) |
 | Evercore | **1 open** |
-| Santander CIB | ⚠️ source error (35 in a row) |
+| Santander CIB | ⚠️ source error (36 in a row) |
 | ING Wholesale Banking | **9 open** |
 | RBC Capital Markets | **1 open** |
 | BNP Paribas CIB | **5 open** |
@@ -35,7 +35,6 @@ _Last check: 2026-11-27 16:21 CET_
 - **Societe Generale CIB**: [V.I.E. Communication Officer (m/f/d)](https://careers.societegenerale.com/en/job-offers/vie-communication-officer-m-f-d-26000H1Z-en) — Frankfurt am Main
 - **Societe Generale CIB**: [Trainee Quantitative Research Analyst](https://careers.societegenerale.com/en/job-offers/trainee-quantitative-research-analyst-26000HO4-en) — London
 - **Stifel**: [Investment Banking Internship - Q1/Q2 2027 (m/f/x) - Global Technology Group (GTG) - Munich](https://jobs.50skills.com/stifel/44053) — We are currently seeking investment banking interns to
-- **Alantra**: [Investment Banking, Q2 2027 M&A Intern (Frankfurt, Germany)](https://alantra.wd3.myworkdayjobs.com/en-US/Alantra/job/Germany---Frankfurt/Investment-Banking--Q2-2027-M-A-Intern--Frankfurt--Germany-_JR486) — Germany - Frankfurt
 - **Evercore**: [Q4 2027 Internship Programme Frankfurt](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3290-Q4-2027-Internship-Programme-Frankfurt/en-GB)
 - **ING Wholesale Banking**: [praktikant transaction advice and control credit risk w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-advice-and-control-credit-risk-w-m-d/3121/47202475136) — Frankfurt Am Main
 - **ING Wholesale Banking**: [praktikant corporate and network sector coverage wholesale banking w m d](https://careers.ing.com/en/job/frankfurt-am-main/praktikant-corporate-and-network-sector-coverage-wholesale-banking-w-m-d/3121/47055129472) — Frankfurt Am Main
